@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="home">
+  <a id="top"></a>
+  <ul class="tag-list">
+    {% for level in site.data.levels %}
+    <li>
+      <a href="#{{level.tag}}">{{level.name}}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  {% for level in site.data.levels %}
+    <a id="{{level.tag}}"></a>
+    <h1 class="page-heading">{{level.title}}</h1>
+    <ul class="post-list">
+      {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+      {% for post in post_list %}
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <small><a href="#top">Back to top</a></small>
+  {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -1,0 +1,12 @@
+- name: Bard
+  tag: bard
+- name: Cleric
+  tag: cleric
+- name: Druid
+  tag: druid
+- name: Paladin
+  tag: paladin
+- name: Warlock
+  tag: warlock
+- name: Wizard
+  tag: wizard

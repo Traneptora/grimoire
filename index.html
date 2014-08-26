@@ -3,17 +3,18 @@ layout: default
 ---
 
 <div class="home">
-  <a id="top"></a>
-  <ul class="tag-list">
+  <h1 class="page-heading">All Spells</h1>
+   <dl class="tag-list">
+    <dt>Filter:</dt>
     {% for level in site.data.levels %}
-    <li>
+    <dd>
       <a href="#{{level.tag}}">{{level.name}}</a>
-    </li>
+    </dd>
     {% endfor %}
-  </ul>
+  </dl>
   {% for level in site.data.levels %}
     <a id="{{level.tag}}"></a>
-    <h1 class="page-heading">{{level.title}}</h1>
+    <h2 class="post-list-head">{{level.title}}</h2>
     <ul class="post-list">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
@@ -22,7 +23,7 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-    <small><a href="#top">Back to top</a></small>
+    <a class="post-meta" href="#top">Back to top &#8593;</a>
   {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

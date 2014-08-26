@@ -1,14 +1,12 @@
 # Site settings
-title: "Grimoire: 5e Spell Lists"
+title: "Grimoire"
 author: "Saph"
-email: saphron@gmail.com
 description:
-  "Spell lists for D&D 5e by class and level."
+  "D&D 5e spell list, sorted by class and level."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+source-url: "https://github.com/ephe/grimoire/"
 permalink: "/:categories/:title"
-twitter_username: leenieth
-github_username: ephe
 
 # Build settings
 markdown: kramdown

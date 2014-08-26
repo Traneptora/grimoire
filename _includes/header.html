@@ -1,7 +1,6 @@
 <header class="site-header">
-
+  <a id="top"></a>
   <div class="wrapper">
-
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -14,10 +13,8 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+        {% for spellClass in site.data.classes %}
+          <a class="page-link" href="{{site.baseurl}}/tags/{{spellClass.tag}}.html">{{ spellClass.name }}</a>
         {% endfor %}
       </div>
     </nav>

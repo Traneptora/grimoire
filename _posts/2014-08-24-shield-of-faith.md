@@ -2,7 +2,7 @@
 layout: post
 title: "Shield of Faith"
 date: 2014-08-24
-tags: [cleric, level1]
+tags: [cleric, paladin, level1]
 
 ---
 

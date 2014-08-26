@@ -2,7 +2,7 @@
 layout: post
 title:  "Light"
 date:   2014-08-24
-tags: [cleric, cantrip]
+tags: [bard, cleric, sorcerer, wizard, cantrip]
 ---
 
 **Evocation cantrip**

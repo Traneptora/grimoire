@@ -8,8 +8,16 @@
 
   	<div class="page-content">
   	  <div class="wrapper">
-				<a id="top"></a>
 				<h1 class="page-heading">{{page.title}}</h1>
+				 <dl class="tag-list">
+				  <dt>Filter:</dt>
+				  {% for level in site.data.levels %}
+				  <dd>
+				    <a href="#{{level.tag}}">{{level.name}}</a>
+				  </dd>
+				  {% endfor %}
+				</dl>
+
 				{% for level in site.data.levels %}
 				<a id="{{level.tag}}"></a>
 				<h3>{{level.title}}</h3>
@@ -25,6 +33,7 @@
 				{% endif %}
 				{% endfor %}
 				{% endfor %}
+				<a class="post-meta" href="#top">Back to top &#8593;</a>
 				{% endfor %}
       </div>
     </div>

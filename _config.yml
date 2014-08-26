@@ -7,7 +7,7 @@ baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
 url: "http://ephe.github.io" # the base hostname & protocol for your site
 source-url: "https://github.com/ephe/grimoire/"
 permalink: "/:categories/:title"
-exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile']
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
 # Build settings
 markdown: kramdown

@@ -9,10 +9,8 @@ module Jekyll
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      unless (tag.include? "cantrip") || (tag.include? "level")
-        self.data['tag'] = tag
-        self.data['title'] = tag.capitalize
-      end
+      self.data['tag'] = tag
+      self.data['title'] = tag.capitalize
     end
   end
 

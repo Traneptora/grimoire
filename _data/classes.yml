@@ -6,6 +6,10 @@
   tag: druid
 - name: Paladin
   tag: paladin
+- name: Ranger
+  tag: ranger
+- name: Sorcerer
+  tag: sorcerer
 - name: Warlock
   tag: warlock
 - name: Wizard

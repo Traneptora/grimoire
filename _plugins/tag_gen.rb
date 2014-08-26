@@ -1,11 +1,12 @@
+# from https://github.com/jfromaniello/joseoncodecom/raw/master/_plugins/tag_gen.rb
 module Jekyll
-
-  class TagIndex < Page    
+  class TagIndex < Page
     def initialize(site, base, dir, tag)
       @site = site
       @base = base
-      @dir = dir
-      @name = 'index.html'
+      @dir = "../"
+      @name = dir + '.html'
+
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       unless (tag.include? "cantrip") || (tag.include? "level")
@@ -17,16 +18,14 @@ module Jekyll
 
   class TagGenerator < Generator
     safe true
-    
     def generate(site)
       if site.layouts.key? 'tag_index'
-        dir = 'tags'
+        dir = site.config['tag_dir'] || 'tags'
         site.tags.keys.each do |tag|
           write_tag_index(site, File.join(dir, tag), tag)
         end
       end
     end
-  
     def write_tag_index(site, dir, tag)
       index = TagIndex.new(site, site.source, dir, tag)
       index.render(site.layouts, site.site_payload)
@@ -34,5 +33,4 @@ module Jekyll
       site.pages << index
     end
   end
-
 end

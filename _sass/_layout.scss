@@ -33,11 +33,12 @@
 
     .page-link {
         color: $text-color;
-        line-height: $base-line-height;
+        font-size: 18px;
+        line-height: $base-line-height*1.5;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
-            margin-left: 20px;
+            padding-left: 20px;
         }
     }
 
@@ -75,13 +76,16 @@
         }
 
         &:hover .trigger {
+            min-width: 200px;
             display: block;
-            padding-bottom: 5px;
         }
 
         .page-link {
             display: block;
             padding: 5px 10px;
+            &:not(:last-child) {
+                border-bottom: 1px solid $grey-color-light;
+            }
         }
     }
 }
@@ -126,13 +130,17 @@
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+    width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-top-link {
+    text-align: center;
 }
 
 @include media-query($on-laptop) {
@@ -166,7 +174,28 @@
 }
 
 .page-heading {
-    font-size: 24px;
+    font-size: 36px;
+    margin-top: $spacing-unit-line;
+}
+
+dl.tag-list {
+    display: inline-block;
+    margin: 0;
+    dt {
+        font-weight: bold;
+        display: inline-block;
+        color: $grey-color-dark;
+        padding-right: 20px;
+    }
+    dd {
+        display: inline;
+        padding-right: 20px;
+    }
+}
+
+.post-list-head{
+    font-size: 22px;
+    color: $grey-color-dark;
     margin-top: $spacing-unit;
 }
 
@@ -181,7 +210,7 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: $base-font-size;
     color: $grey-color;
 }
 
@@ -190,25 +219,17 @@
     font-size: 18px;
 }
 
-ul.tag-list {
-    margin: 0;
-    li {
-        display: inline;
-        list-style-type: none;
-        padding-right: 20px;
-    }
-}
-
 .class-list {
     .page-heading {
         color: $grey-color;
-        border-bottom: 1px solid $grey-color;
     }
     h3 {
         margin-top: $spacing-unit;
     }
     .tag-list {
-        margin-left: $spacing-unit;
+        dt, dd {
+            margin-left: 0;
+        }
     }
 }
 
@@ -255,4 +276,8 @@ ul.tag-list {
             font-size: 18px;
         }
     }
+}
+
+.rss-subscribe {
+    text-align: right;
 }

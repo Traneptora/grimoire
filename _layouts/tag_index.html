@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="class-list">
+  	{% include header.html %}
+
+  	<div class="page-content">
+  	  <div class="wrapper">
+				<a id="top"></a>
+				<h1 class="page-heading">{{page.title}}</h1>
+				{% for level in site.data.levels %}
+				<a id="{{level.tag}}"></a>
+				<h3>{{level.title}}</h3>
+				{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+				{% for post in post_list %}
+				{% for tag in post.tags %}
+				{% if tag == page.tag %}
+				<ul class="post-list">
+				    <li>
+				        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				    </li>
+				</ul>
+				{% endif %}
+				{% endfor %}
+				{% endfor %}
+				{% endfor %}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

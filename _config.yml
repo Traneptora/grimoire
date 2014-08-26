@@ -1,0 +1,24 @@
+# Site settings
+title: "Grimoire: 5e Spell Lists"
+author: "Saph"
+email: saphron@gmail.com
+description:
+  "Spell lists for D&D 5e by class and level."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+permalink: "/:categories/:title"
+twitter_username: leenieth
+github_username: ephe
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Site defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      category: "spells"

@@ -3,8 +3,8 @@ title: "Grimoire"
 author: "Saph"
 description:
   "D&D 5e spell list, sorted by class and level."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/grimoire" # the subpath of your site, e.g. /blog/
+url: "http://ephe.github.io" # the base hostname & protocol for your site
 source-url: "https://github.com/ephe/grimoire/"
 permalink: "/:categories/:title"
 

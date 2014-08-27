@@ -10,6 +10,7 @@ See the latest compiled build here: [http://ephe.github.io/grimoire/](http://eph
 
 ## To Do
 * Create another layout for the spell level tag pages (e.g. cantrip, level1). Also figure out what to do with those pages.
+* Find a real home for class specializations (e.g. cleric's domains)
 * Clean up header and navigation scheme.
 * Style all the things!
 * Finish adding spells, obviously.

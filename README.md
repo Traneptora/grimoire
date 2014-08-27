@@ -15,9 +15,12 @@ See the latest compiled build here: [http://ephe.github.io/grimoire/](http://eph
 * Finish adding spells, obviously.
 
 ## Structure
-Spells can be found inside _posts/. Each spell gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](jekyllrb.com) to process the posts properly.
+Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](jekyllrb.com) to process the posts properly.
 
-If you'd like to help fill out the rest of the spells from the PHB, make a new post in _posts/ for each new spell, and copy the formatting from another spell.  Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
+If you'd like to help fill out the rest of the spells from the PHB, for each new spell you make:
+
+1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell.
+2. Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
 
 ## Thanks
 

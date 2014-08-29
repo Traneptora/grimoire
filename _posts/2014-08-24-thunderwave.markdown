@@ -2,7 +2,7 @@
 layout: post
 title:  "Thunderwave"
 date:   2014-08-24
-tags: [druid, sorcerer, wizard, level1]
+tags: [bard, druid, sorcerer, wizard, level1]
 ---
 
 **1st-level evocation**

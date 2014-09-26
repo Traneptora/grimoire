@@ -2,7 +2,7 @@
 layout: post
 title:  "Longstrider"
 date:   2014-08-24
-tags: [bard, druid, ranger, warlock, wizard, level1]
+tags: [bard, druid, ranger, wizard, level1]
 ---
 
 **1st-level transmutation**

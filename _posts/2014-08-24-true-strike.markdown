@@ -2,7 +2,7 @@
 layout: post
 title:  "True Strike"
 date:   2014-08-24
-tags: [bard, sorcerer, wizard, cantrip]
+tags: [bard, sorcerer, warlock, wizard, cantrip]
 ---
 
 **Divination cantrip**

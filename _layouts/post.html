@@ -9,7 +9,11 @@ layout: default
     <dt>Tags:</dt>
     {% for tag in page.tags %}
     <dd>
-      <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+        {% if tag == 'cantrip' or tag contains 'level' %}
+          <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
+        {% else %}
+          <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+        {% endif %}
     </dd>
     {% endfor %}
   </header>

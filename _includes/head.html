@@ -8,4 +8,21 @@
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <script src="//use.typekit.net/nra6zxt.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">
+    	function menuClick() {
+    		// console.log("clicked");
+    		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {
+    			document.getElementById("menu").className = document.getElementById("menu").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
+    		}
+    		else {
+    			document.getElementById("menu").className += " show";
+    		}
+  		}
+
+  		window.onload = function(){
+        document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
+	    }	
+    </script>
 </head>

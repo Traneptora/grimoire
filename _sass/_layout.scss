@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 4px solid $brand-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -16,6 +16,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    z-index: 10;
 
     &,
     &:visited {
@@ -24,11 +25,14 @@
 }
 
 .site-nav {
-    float: right;
     line-height: 56px;
 
     .menu-icon {
         display: none;
+    }
+
+    .trigger {
+        text-align: right;
     }
 
     .page-link {
@@ -43,22 +47,22 @@
     }
 
     @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
+        position: relative;
         background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
+        text-align: center;
+        float: right;
+        width: 100%;
 
         .menu-icon {
+            position: relative;
             display: block;
             float: right;
-            width: 36px;
+            width: 100px;
             height: 26px;
             line-height: 0;
             padding-top: 10px;
-            text-align: center;
+            text-align: right;
+            top: 9px;
 
             > svg {
                 width: 18px;
@@ -72,17 +76,26 @@
 
         .trigger {
             clear: both;
-            display: none;
+            overflow: hidden;
+            max-height: 0;
+            -webkit-transition: max-height 0.5s;
+            -moz-transition: max-height 0.5s;
+            -o-transition: max-height 0.5s;
+            -ms-transition: max-height 0.5s;
+            transition: max-height 0.5s;
+            text-align: center;
         }
 
-        &:hover .trigger {
-            min-width: 200px;
-            display: block;
+        .show {
+            max-height: 700px;
         }
 
         .page-link {
             display: block;
             padding: 5px 10px;
+            &:first-child {
+                padding-left: 20px;
+            }
             &:not(:last-child) {
                 border-bottom: 1px solid $grey-color-light;
             }

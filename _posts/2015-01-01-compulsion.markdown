@@ -2,7 +2,7 @@
 layout: post
 title:  "Compulsion"
 date:   2015-01-01
-tags: [bard, level1]
+tags: [bard, level4]
 ---
 
 **4th-level enchantment**

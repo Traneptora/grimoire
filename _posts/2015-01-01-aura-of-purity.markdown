@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Aura of Purity"
+date:   2015-01-01
+tags: [paladin, level4]
+---
+
+**4th-level abjuration**
+
+**Casting Time**: 1 action
+
+**Range**: Self (30-foot radius)
+
+**Components**: V
+
+**Duration**: Concentration, up to 10 minutes
+
+Purifying energy radiates from you in an aura with a 30ft radius. Until the spell ends, the aura moves with you, centred on you. Each nonhostile creature in the aura (including you) can't become diseased, has resistance to poison damage, and has advantage on saving throws against affects that cause any of the following conditions: blinded, charmed, deafened, frightened, paralysed, poisoned and stunned.

@@ -5,6 +5,7 @@ Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class a
 See the latest compiled build here: [http://ephe.github.io/grimoire/](http://ephe.github.io/grimoire/)
 
 ## Changelog
+* 12/31/14: Merged in several level 3 and level 4 spells, thanks to @jayrab, @zetsevs, and @LukasCaller.
 * 12/31/14: Added Cleric level 2 spells from the starter kit, merged in some bard spells from jayrab.
 * 9/30/14: Added rest of Wizard level 1 spells.
 * 9/26/14: Added Sorcerer and Warlock cantrips, and Ranger, Sorcerer and Warlock level 1 spells. Also Remove Curse and the level 3 category. Spell level links on spell pages now go to the level subsection in the full spell list (home) instead of a broken subpage.

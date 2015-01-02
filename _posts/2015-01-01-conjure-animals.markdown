@@ -11,16 +11,16 @@ tags: [druid, ranger, level3]
 
 **Range**: 60 feet
 
-**Components**: V,S
+**Components**: V, S
 
 **Duration**: Concentration, up to 1 hour
 
 You summon fey spirits that take the form of beasts and appear in unoccupied spaces that you can see within range. Choose one of the following options for what appears:
 
-• One beast of challenge rating 2 or lower
-• Two beasts of challenge rating 1 or lower
-• Four beasts of challenge rating 1/2 or lower
-• Eight beasts of challenge rating 1/4 or lower
+* One beast of challenge rating 2 or lower
+* Two beasts of challenge rating 1 or lower
+* Four beasts of challenge rating 1/2 or lower
+* Eight beasts of challenge rating 1/4 or lower
 
 Each beast is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 

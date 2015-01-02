@@ -5,15 +5,15 @@ date:   2015-01-01
 tags: [sorcerer, warlock, wizard, level3]
 ---
 
-**6th-level conjuration**
+**3rd-level abjuration**
 
-**Casting Time**: 1 minute
+**Casting Time**: 1 reaction, which you take when you see a creature within 60 feet of you casting a spell.
 
-**Range**: 90 feet
+**Range**: 60 feet
 
-**Components**: V,S
+**Components**: S
 
-**Duration**: Concentration, up to 1 hour
+**Duration**: Instantaneous
 
 You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a success, the creature’s spell fails and has no effect.
 

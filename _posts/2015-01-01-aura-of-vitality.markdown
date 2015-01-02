@@ -2,14 +2,14 @@
 layout: post
 title:  "Aura Of Vitality"
 date:   2015-01-01
-tags: [ranger, wizard, level3]
+tags: [paladin, level3]
 ---
 
 **3rd-level evocation**
 
 **Casting Time**: 1 action
 
-**Range**: Self (30 feet)
+**Range**: Self (30-foot radius)
 
 **Components**: V
 

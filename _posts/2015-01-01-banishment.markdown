@@ -21,4 +21,4 @@ If the target is native to the plane of existance you're on, you banish the targ
 
 If the target is native to a different plane of existance than the one you're on, the target is banished with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
 
-**At Higher Levels**: When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.
+**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th.

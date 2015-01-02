@@ -2,7 +2,7 @@
 layout: post
 title:  "Gaseous Form"
 date:   2015-01-01
-tags: [level3]
+tags: [sorcerer, wizard, level3]
 ---
 
 **3rd-level transmutation**
@@ -11,7 +11,7 @@ tags: [level3]
 
 **Range**: Touch
 
-**Components**: V,S,M (a bit of guaze and a wisp of smoke)
+**Components**: V, S, M (a bit of gauze and a wisp of smoke)
 
 **Duration**: Concentration, up to 1 hour
 

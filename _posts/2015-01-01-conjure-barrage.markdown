@@ -9,9 +9,9 @@ tags: [ranger, level3]
 
 **Casting Time**: 1 action
 
-**Range**: Self (60ft cone)
+**Range**: Self (60-foot cone)
 
-**Components**: V,S,M (one piece of ammunition or a thrown weapon)
+**Components**: V, S, M (one piece of ammunition or a thrown weapon)
 
 **Duration**: Instantaneous
 

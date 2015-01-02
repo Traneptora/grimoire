@@ -22,7 +22,7 @@ See the latest compiled build here: [http://ephe.github.io/grimoire/](http://eph
 * Finish adding spells, obviously.
 
 ## Structure
-Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](jekyllrb.com) to process the posts properly.
+Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](http://jekyllrb.com) to process the posts properly.
 
 If you'd like to help fill out the rest of the spells from the PHB, for each new spell you make:
 

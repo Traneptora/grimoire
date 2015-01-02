@@ -2,7 +2,7 @@
 layout: post
 title:  "Fly"
 date:   2015-01-01
-tags: [Sorcerer, Warlock, Wizard, level3]
+tags: [sorcerer, warlock, wizard, level3]
 ---
 
 **3rd-level transmutation**
@@ -11,7 +11,7 @@ tags: [Sorcerer, Warlock, Wizard, level3]
 
 **Range**: Touch
 
-**Components**: V,S,M (a wing feather from any bird)
+**Components**: V, S, M (a wing feather from any bird)
 
 **Duration**: Concentration, up to 10 minutes
 

@@ -5,7 +5,7 @@ date:   2015-01-02
 tags: [druid, ranger, level2]
 ---
 
-**2nd-Level Transmuation**
+**2nd-Level transmuation**
 
 **Casting Time**: 1 action
 

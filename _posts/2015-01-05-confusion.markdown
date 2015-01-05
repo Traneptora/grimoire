@@ -5,7 +5,7 @@ date:   2015-01-05
 tags: [bard, druid, sorcerer, wizard, level4]
 ---
 
-**4th level enchantment**
+**4th-level enchantment**
 
 **Casting Time**: 1 action
 

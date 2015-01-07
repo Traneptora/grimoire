@@ -2,7 +2,7 @@
 layout: post
 title:  "Branding Smite"
 date:   2015-01-07
-tags: [Paladin, level2]
+tags: [paladin, level2]
 ---
 
 **2nd-Level evocation**

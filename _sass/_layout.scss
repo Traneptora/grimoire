@@ -294,3 +294,31 @@ dl.tag-list {
 .rss-subscribe {
     text-align: right;
 }
+
+/**
+ * Tables
+ */
+
+table {
+    box-sizing: border-box;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    border: 1px solid #771900;
+}
+
+th {
+    border: 0;
+    padding: 10px 15px;
+    font-weight: normal;
+    color: #fff;
+    background-color: #771900;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    padding: 7px 15px;
+}

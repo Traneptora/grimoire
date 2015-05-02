@@ -2,7 +2,7 @@
 layout: post
 title:  "Plant Growth"
 date:   2015-01-02
-tags: [Druid, Ranger, level3]
+tags: [druid, ranger, level3]
 ---
 
 **3rd-level transmutation**

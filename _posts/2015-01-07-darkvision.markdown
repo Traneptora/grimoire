@@ -5,11 +5,11 @@ date:   2015-01-07
 tags: [druid, ranger, sorcerer, wizard, level2]
 ---
 
-**2nd-Level transmutation**
+**2nd-level transmutation**
 
 **Casting Time**: 1 action
 
-**Range**: touch
+**Range**: Touch
 
 **Components**: V, S, M (either a pinch of dried carrot or an agate)
 

@@ -5,7 +5,7 @@ date:   2015-01-07
 tags: [druid, ranger, level2]
 ---
 
-**2nd-Level divination (ritual)**
+**2nd-level divination (ritual)**
 
 **Casting Time**: 1 action
 

@@ -9,7 +9,7 @@ tags: [cleric, level3]
 
 **Casting Time**: 1 action
 
-**Range**: Slef (15-foot radius)
+**Range**: Self (15-foot radius)
 
 **Components**: V, S, M (a holy symbol)
 

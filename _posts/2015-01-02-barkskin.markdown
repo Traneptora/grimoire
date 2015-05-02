@@ -5,11 +5,11 @@ date:   2015-01-02
 tags: [druid, ranger, level2]
 ---
 
-**2nd-Level transmuation**
+**2nd-level transmuation**
 
 **Casting Time**: 1 action
 
-**Range**: touch
+**Range**: Touch
 
 **Components**: V, S, M (a handful of oak bark)
 

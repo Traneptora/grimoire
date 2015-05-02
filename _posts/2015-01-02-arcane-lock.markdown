@@ -5,14 +5,13 @@ date:   2015-01-02
 tags: [wizard, level2]
 ---
 
-**2nd-Level Abjuration**
+**2nd-Level abjuration**
 
 **Casting Time**: 1 action
 
-**Range**: touch
+**Range**: Touch
 
-**Components**: V, S, M (gold dust w orth at least 25 gp,
-which the spell consumes)
+**Components**: V, S, M (gold dust w orth at least 25 gp, which the spell consumes)
 
 **Duration**: Until dispelled
 

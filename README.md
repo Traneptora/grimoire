@@ -5,6 +5,7 @@ Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class a
 See the latest compiled build here: [http://ephe.github.io/grimoire/](http://ephe.github.io/grimoire/)
 
 ## Changelog
+* 5/29/15: Merged pull requests and pushed a new build. Thanks, y'all!
 * 5/1/15: Many belated spell additions, thanks to @jayrab, @zetsevs, and @LukasCaller. Also table styles for web, though no real mobile support yet.
 * 1/1/15: Merged in several level 3 and level 4 spells, thanks to @jayrab, @zetsevs, and @LukasCaller.
 * 12/31/14: Added Cleric level 2 spells from the starter kit, merged in some bard spells from jayrab.

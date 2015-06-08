@@ -5,7 +5,7 @@ date:   2015-06-07
 tags: [bard, sorcerer, warlock, wizard, level2]
 ---
 
-**2nd-level Illusion**
+**2nd-level illusion**
 
 **Casting Time**: 1 action
 
@@ -15,6 +15,6 @@ tags: [bard, sorcerer, warlock, wizard, level2]
 
 **Duration**: Concentration, up to 1 hour
 
-A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks ar casts a spell.
+A creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.
 
- When you cast this spell using a spell slot of 3rd levei ar higher, you can target one additional creature for each slot levei above 2nd.
+When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.

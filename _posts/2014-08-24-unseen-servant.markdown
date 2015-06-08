@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [bard, warlock, wizard, level1]
 ---
 
-**1st-level conjuration**
+**1st-level conjuration (ritual)**
 
 **Casting Time**: 1 action
 

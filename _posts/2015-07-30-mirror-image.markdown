@@ -5,7 +5,7 @@ date:   2015-07-30
 tags: [sorcerer, wizard, warlock, level2]
 ---
 
-**2nd-levei illusion**
+**2nd-level illusion**
 
 **Casting Time**: 1 action
 

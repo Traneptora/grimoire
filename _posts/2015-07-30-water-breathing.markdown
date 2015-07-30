@@ -5,7 +5,7 @@ date:   2015-07-30
 tags: [sorcerer, wizard, druid, ranger, level2]
 ---
 
-**3rd-Ievel transmutation (ritual)**
+**3rd-Level transmutation (ritual)**
 
 **Casting Time**: 1 action
 

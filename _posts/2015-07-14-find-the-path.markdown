@@ -11,7 +11,7 @@ tags: [bard, cleric, druid, level6]
 
 **Range**: Self
 
-**Components**: V, S, M (a set of divinatory tools Ð such as bones, ivory sticks, cards, teeth, or carved runes Ð worth 100 gp and an object from the location you wish to find)
+**Components**: V, S, M (a set of divinatory tools -- such as bones, ivory sticks, cards, teeth, or carved runes -- worth 100 gp and an object from the location you wish to find)
 
 **Duration**: Concentration, up to 1 day
 

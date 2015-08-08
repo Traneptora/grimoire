@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spirit Guardian"
+title:  "Spirit Guardians"
 date:   2015-01-02
 tags: [cleric, level3]
 ---

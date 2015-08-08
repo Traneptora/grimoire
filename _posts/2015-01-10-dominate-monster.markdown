@@ -13,7 +13,7 @@ tags:   [bard, sorcerer, warlock, wizard, level8]
 
 **Components**: V, S
 
-**Duration**: Concentyration, up to 1 hour
+**Duration**: Concentration, up to 1 hour
 
 You attempt to beguile a creature that you can see within range. It must succeed on a Wisdom saving throw or be charmed by you for the duration. If you or creatures taht are friendly to you are fighting it, it has advantage on the saving throw.
 

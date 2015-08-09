@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Moonbeam
-date:  2015-07-30
-tags:  [druid, level2]
+title: "Moonbeam"
+date: 2015-07-30
+tags: [druid, level2]
 ---
 
-**2nd Evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 action
 
 **Range**: 120 feet
 
-**Components**: V, S, M (several seeds of any moonseed plant and a pieee of opaleseent feldspar)
+**Components**: V, S, M (several seeds of any moonseed plant and a pieee of opalescent feldspar)
 
 **Duration**: Concentration, up to 1 minute
 
@@ -23,4 +23,4 @@ A shapechanger makes its saving throw with disadvantage. If it fails, it also in
 
 On each of your turns after you cast this spell use can use an action to move the beam 60 feet in any direction.
 
-**At Higher Levels.** When you cast this spell using a spell slot 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.

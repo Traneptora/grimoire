@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Hold Monster
-date:  2015-07-30
-tags:  [sorcerer, warlock, wizard, bard, level5]
+title: "Hold Monster"
+date: 2015-07-30
+tags: [bard, sorcerer, warlock, wizard, level5]
 ---
 
-**5th Enchantment**
+**5th-level enchantment**
 
 **Casting Time**: 1 action
 

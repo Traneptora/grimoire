@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flame Strike"
-date:   2015-07-14
+title: "Flame Strike"
+date: 2015-07-14
 tags: [cleric, level5]
 ---
 
-**5th-level Evocation**
+**5th-level evocation**
 
 **Casting Time**: 1 action
 

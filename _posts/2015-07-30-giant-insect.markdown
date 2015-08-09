@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Giant Insect
-date:  2015-07-30
-tags:  [druid, level4]
+title: "Giant Insect"
+date: 2015-07-30
+tags: [druid, level4]
 ---
 
-**4th Transmutation**
+**4th-level transmutation**
 
 **Casting Time**: 1 action
 

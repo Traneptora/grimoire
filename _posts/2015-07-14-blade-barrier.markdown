@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Blade Barrier"
-date:   2015-07-14
+title: "Blade Barrier"
+date: 2015-07-14
 tags: [cleric, level6]
 ---
 
-**6th-level Evocation**
+**6th-level evocation**
 
 **Casting Time**: 1 action
 

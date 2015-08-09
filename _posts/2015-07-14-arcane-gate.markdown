@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Antilife Shell"
-date:   2015-07-14
+title: "Antilife Shell"
+date: 2015-07-14
 tags: [sorcerer, warlock, wizard, level6]
 ---
 
-**6th-level Conjuration**
+**6th-level conjuration**
 
 **Casting Time**: 1 action
 

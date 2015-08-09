@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Programmed Illusion
-date:  2015-07-30
-tags:  [wizard, bard, level6]
+title: "Programmed Illusion"
+date: 2015-07-30
+tags: [bard, wizard, level6]
 ---
 
-**6th Illusion**
+**6th-level illusion**
 
 **Casting Time**: 1 action
 

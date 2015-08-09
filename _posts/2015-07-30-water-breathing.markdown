@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Water Breathing"
-date:   2015-07-30
-tags: [sorcerer, wizard, druid, ranger, level2]
+title: "Water Breathing"
+date: 2015-07-30
+tags: [druid, ranger, sorcerer, wizard, level2]
 ---
 
-**3rd-Level transmutation (ritual)**
+**3rd-level transmutation (ritual)**
 
 **Casting Time**: 1 action
 

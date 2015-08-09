@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flesh to Stone"
-date:   2015-07-14
+title: "Flesh to Stone"
+date: 2015-07-14
 tags: [warlock, wizard, level6]
 ---
 
-**6th-level Transmutation**
+**6th-level transmutation**
 
 **Casting Time**: 1 action
 

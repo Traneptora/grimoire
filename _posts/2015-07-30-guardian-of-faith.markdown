@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Guardian of Faith
-date:  2015-07-30
-tags:  [cleric, level4]
+title: "Guardian of Faith"
+date: 2015-07-30
+tags: [cleric, level4]
 ---
 
-**4th Conjuration**
+**4th-level conjuration**
 
 **Casting Time**: 1 action
 

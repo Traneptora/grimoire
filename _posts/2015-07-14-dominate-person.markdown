@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Dominate Person"
-date:   2015-07-14
+title: "Dominate Person"
+date: 2015-07-14
 tags: [bard, sorcerer, wizard, level5]
 ---
 
-**5th-level Enchantment**
+**5th-level enchantment**
 
 **Casting Time**: 1 action
 

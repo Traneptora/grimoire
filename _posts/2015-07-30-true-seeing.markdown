@@ -1,17 +1,17 @@
 ---
 layout: post
-title: True Seeing
-date:  2015-07-30
-tags:  [cleric, sorcerer, warlock, wizard, bard, level6]
+title: "True Seeing"
+date: 2015-07-30
+tags: [bard, cleric, sorcerer, warlock, wizard, level6]
 ---
 
-**6th Divination**
+**6th-level divination**
 
 **Casting Time**: 1 action
 
 **Range**: Touch
 
-**Components**: V, S, M  (an ointment for the eyes that costs 25 gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
+**Components**: V, S, M (an ointment for the eyes that costs 25 gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell)
 
 **Duration**: 1 hour
 

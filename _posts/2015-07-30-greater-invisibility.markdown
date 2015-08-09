@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Greater Invisibility
-date:  2015-07-30
-tags:  [sorcerer, wizard, bard, level4]
+title: "Greater Invisibility"
+date: 2015-07-30
+tags: [sorcerer, wizard, bard, level4]
 ---
 
-**4th Illusion**
+**4th-level illusion**
 
 **Casting Time**: 1 action
 
@@ -15,4 +15,4 @@ tags:  [sorcerer, wizard, bard, level4]
 
 **Duration**: Concentration, up to 1 minute
 
- You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.
+You or a creature you touch becomes invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target’s person.

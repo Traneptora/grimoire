@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Heat Metal
-date:  2015-07-30
-tags:  [druid, bard, level2]
+title: "Heat Metal"
+date: 2015-07-30
+tags: [druid, bard, level2]
 ---
 
-**2nd Transmutation**
+**2nd-level transmutation**
 
 **Casting Time**: 1 action
 

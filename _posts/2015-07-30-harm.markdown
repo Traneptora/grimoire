@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Harm
-date:  2015-07-30
-tags:  [cleric, level6]
+title: "Harm"
+date: 2015-07-30
+tags: [cleric, level6]
 ---
 
-**6th Necromancy**
+**6th-level necromancy**
 
 **Casting Time**: 1 action
 

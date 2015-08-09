@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Animate Objects"
-date:   2015-07-14
+title: "Animate Objects"
+date: 2015-07-14
 tags: [bard, sorcerer, wizard, level5]
 ---
 
-**5th-level Transformation**
+**5th-level transformation**
 
 **Casting Time**: 1 action
 
@@ -19,7 +19,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.
 
-**Animated Objects Statistics**
+**ANIMATED OBJECTS STATISTICS**
 
 | Size   | HP | AC | Attack                   | Str | Dex |
 | ------ |:--:|:--:|:------------------------:|:---:|:---:|
@@ -33,4 +33,4 @@ An animated object is a construct with AC, hit points, attacks, Strength, and De
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
-If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
+**At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.

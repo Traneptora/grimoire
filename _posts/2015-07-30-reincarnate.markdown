@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Reincarnate
-date:  2015-07-30
-tags:  [druid, level5]
+title: "Reincarnate"
+date: 2015-07-30
+tags: [druid, level5]
 ---
 
-**5th Transmutation**
+**5th-level transmutation**
 
 **Casting Time**: 1 hour
 
@@ -15,9 +15,12 @@ tags:  [druid, level5]
 
 **Duration**: Instantaneous
 
-You touch a dead humanoid ar a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails. The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.
+You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target's soul isn't free or willing to do so, the spell fails.
 
-|**d100**|**Race** |
+The magic fashions a new body for the creature to inhabit, which likely causes the creature's race to change. The DM rolls a d100 and consults the following table to determine what form the creature takes when restored to life, or the DM chooses a form.
+
+|d100|Race|
+|--------|---------|
 |01-04|Dragonborn|
 |05-13|Dwarf, hill|
 |14-21|Dwarf, mountain|

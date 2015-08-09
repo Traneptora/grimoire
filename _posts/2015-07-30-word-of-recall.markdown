@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Word of Recall
-date:  2015-07-30
-tags:  [cleric, level6]
+title: "Word of Recall"
+date: 2015-07-30
+tags: [cleric, level6]
 ---
 
-**6th Conjuration**
+**6th-level conjuration**
 
 **Casting Time**: 1 action
 

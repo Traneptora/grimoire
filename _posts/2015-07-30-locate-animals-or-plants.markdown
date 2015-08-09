@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Locate Animals or Plants
-date:  2015-07-30
-tags:  [ranger, druid, bard, level2]
+title: "Locate Animals or Plants"
+date: 2015-07-30
+tags: [bard, druid, ranger, level2]
 ---
 
-**2nd Divination (Ritual)**
+**2nd-level divination (ritual)**
 
 **Casting Time**: 1 action
 

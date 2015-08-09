@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Enthrall"
-date:   2015-07-14
+title: "Enthrall"
+date: 2015-07-14
 tags: [bard, warlock, level2]
 ---
 
-**2nd-level Enchantment**
+**2nd-level enchantment**
 
 **Casting Time**: 1 action
 

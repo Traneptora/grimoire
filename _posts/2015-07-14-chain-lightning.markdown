@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Chain Lightning"
-date:   2015-07-14
+title: "Chain Lightning"
+date: 2015-07-14
 tags: [sorcerer, wizard, level6]
 ---
 
-**6th-level Evocation**
+**6th-level evocation**
 
 **Casting Time**: 1 action
 

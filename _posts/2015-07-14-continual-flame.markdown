@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Continual Flame"
-date:   2015-07-14
+title: "Continual Flame"
+date: 2015-07-14
 tags: [cleric, wizard, level2]
 ---
 
-**2nd-level Evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 action
 

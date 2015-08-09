@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Commune"
-date:   2015-07-14
+title: "Commune"
+date: 2015-07-14
 tags: [cleric, level5]
 ---
 
-**5th-level Divination (ritual)**
+**5th-level divination (ritual)**
 
 **Casting Time**: 1 minute
 

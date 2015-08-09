@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Divination"
-date:   2015-07-14
+title: "Divination"
+date: 2015-07-14
 tags: [cleric, level4]
 ---
 
-**4th-level Divination (ritual)**
+**4th-level divination (ritual)**
 
 **Casting Time**: 1 action
 

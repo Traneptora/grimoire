@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Circle of Power"
-date:   2015-07-14
+title: "Circle of Power"
+date: 2015-07-14
 tags: [paladin, level5]
 ---
 
-**5th-level Abjuration**
+**5th-level abjuration**
 
 **Casting Time**: 1 action
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Web"
-date:   2015-07-30
+title: "Web"
+date: 2015-07-30
 tags: [sorcerer, wizard, level2]
 ---
 
@@ -13,7 +13,7 @@ tags: [sorcerer, wizard, level2]
 
 **Components**: V, S, M (a bit of spiderweb)
 
-**Duration**: Concentration, up to 1 hour.
+**Duration**: Concentration, up to 1 hour
 
 You conjure a mass of thick, sticky webbing at a point of your choice within range. The webs fill a 20-foot cube from that point for the duration. The webs are difficult terrain and lightly obscure their area.
 

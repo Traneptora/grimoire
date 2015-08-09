@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Creation"
-date:   2015-07-14
+title: "Creation"
+date: 2015-07-14
 tags: [sorcerer, wizard, level5]
 ---
 
-**5th-level Illusion**
+**5th-level illusion**
 
 **Casting Time**: 1 minute
 

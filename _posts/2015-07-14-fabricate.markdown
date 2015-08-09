@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fabricate"
-date:   2015-07-14
+title: "Fabricate"
+date: 2015-07-14
 tags: [wizard, level4]
 ---
 
-**4th-level Transmutation**
+**4th-level transmutation**
 
 **Casting Time**: 10 minutes
 

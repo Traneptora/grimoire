@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Create Undead"
-date:   2015-07-14
+title: "Create Undead"
+date: 2015-07-14
 tags: [cleric, warlock, wizard, level6]
 ---
 
-**6th-level Necromancy**
+**6th-level necromancy**
 
 **Casting Time**: 1 minute
 

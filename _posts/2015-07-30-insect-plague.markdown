@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Insect Plague
-date:  2015-07-30
-tags:  [cleric, sorcerer, druid, level5]
+title: "Insect Plague"
+date: 2015-07-30
+tags: [cleric, druid, sorcerer, level5]
 ---
 
-**5th Conjuration**
+**5th-level conjuration**
 
 **Casting Time**: 1 action
 
@@ -19,5 +19,5 @@ Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you ch
 
 When the area appears, each creature in it must make a Constitution saving throw. A creature takes 4d10 piercing damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell's area for the first time on a turn or ends its turn there.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th levei or higher, the damage increases by Id 10 for each slot levei above 5th.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th levei or higher, the damage increases by 1d10 for each slot level above 5th.
 

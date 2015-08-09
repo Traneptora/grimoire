@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Circle of Death"
-date:   2015-07-14
+title: "Circle of Death"
+date: 2015-07-14
 tags: [sorcerer, warlock, wizard, level6]
 ---
 
-**6th-level Necromancy**
+**6th-level necromancy**
 
 **Casting Time**: 1 action
 

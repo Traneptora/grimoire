@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Vampiric Touch
-date:  2015-07-30
-tags:  [warlock, wizard, level3]
+title: "Vampiric Touch"
+date: 2015-07-30
+tags: [warlock, wizard, level3]
 ---
 
-**3rd Necromancy**
+**3rd-level necromancy**
 
 **Casting Time**: 1 action
 

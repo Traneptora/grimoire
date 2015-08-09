@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Scorching Ray"
-date:   2015-07-30
+title: "Scorching Ray"
+date: 2015-07-30
 tags: [sorcerer, wizard, level2]
 ---
 

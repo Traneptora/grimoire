@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Cone of Cold"
-date:   2015-07-14
+title: "Cone of Cold"
+date: 2015-07-14
 tags: [sorcerer, wizard, level5]
 ---
 
-**5th-level Evocation**
+**5th-level evocation**
 
 **Casting Time**: 1 action
 

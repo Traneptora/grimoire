@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mislead
-date:  2015-07-30
-tags:  [wizard, bard, level5]
+title: "Mislead"
+date: 2015-07-30
+tags: [bard, wizard, level5]
 ---
 
-**5th Illusion**
+**5th-level illusion**
 
 **Casting Time**: 1 action
 

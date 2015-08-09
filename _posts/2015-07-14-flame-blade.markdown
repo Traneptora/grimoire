@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flame Blade"
-date:   2015-07-14
+title: "Flame Blade"
+date: 2015-07-14
 tags: [druid, level2]
 ---
 
-**2nd-level Evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 bonus action
 

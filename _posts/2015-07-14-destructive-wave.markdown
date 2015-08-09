@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Destructive Wave"
-date:   2015-07-14
+title: "Destructive Wave"
+date: 2015-07-14
 tags: [paladin, level5]
 ---
 
-**5th-level Evocation**
+**5th-level evocation**
 
 **Casting Time**: 1 action
 

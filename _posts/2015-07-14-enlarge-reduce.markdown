@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Enlarge/Reduce"
-date:   2015-07-14
+title: "Enlarge/Reduce"
+date: 2015-07-14
 tags: [sorcerer, wizard, level2]
 ---
 
-**2nd-level Transmutation**
+**2nd-level transmutation**
 
 **Casting Time**: 1 action
 

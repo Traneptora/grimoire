@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flaming Sphere"
-date:   2015-07-14
+title: "Flaming Sphere"
+date: 2015-07-14
 tags: [druid, wizard, level2]
 ---
 
-**2nd-level Conjuration**
+**2nd-level conjuration**
 
 **Casting Time**: 1 action
 

@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Transport via Plants
-date:  2015-07-30
-tags:  [druid, level6]
+title: "Transport via Plants"
+date: 2015-07-30
+tags: [druid, level6]
 ---
 
-**6th Conjuration**
+**6th-level conjuration**
 
 **Casting Time**: 1 action
 

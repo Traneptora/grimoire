@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Awaken"
-date:   2015-07-14
+title: "Awaken"
+date: 2015-07-14
 tags: [bard, druid, level5]
 ---
 
-**5th-level Transmutation**
+**5th-level transmutation**
 
 **Casting Time**: 8 hours
 

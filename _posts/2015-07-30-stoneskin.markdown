@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Stoneskin
-date:  2015-07-30
-tags:  [sorcerer, ranger, wizard, druid, level4]
+title: "Stoneskin"
+date: 2015-07-30
+tags: [druid, sorcerer, ranger, wizard, level4]
 ---
 
-**4th Abjuration**
+**4th-level abjuration**
 
 **Casting Time**: 1 action
 

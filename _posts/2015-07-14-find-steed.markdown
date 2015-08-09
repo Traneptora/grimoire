@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Find Steed"
-date:   2015-07-14
+title: "Find Steed"
+date: 2015-07-14
 tags: [paladin, level2]
 ---
 
-**2nd-level Conjuration**
+**2nd-level conjuration**
 
 **Casting Time**: 10 minutes
 

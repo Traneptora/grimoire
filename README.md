@@ -5,6 +5,7 @@ Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class a
 See the latest compiled build here: [http://ephe.github.io/grimoire/](http://ephe.github.io/grimoire/)
 
 ## Changelog
+* 8/8/15: Merged the rest of the spells in, started adding links to spell references, and pushed a new build. Thanks everyone!
 * 6/8/15: Merged pull requests and pushed a new build.
 * 5/29/15: Merged pull requests and pushed a new build. Thanks, y'all!
 * 5/1/15: Many belated spell additions, thanks to @jayrab, @zetsevs, and @LukasCaller. Also table styles for web, though no real mobile support yet.
@@ -22,7 +23,6 @@ See the latest compiled build here: [http://ephe.github.io/grimoire/](http://eph
 * Find a real home for class specializations (e.g. cleric's domains)
 * Clean up header and navigation scheme.
 * Figure out mobile styles for tables. Also /fistshake at whoever decided tables in spell lists were a good idea.
-* Finish adding spells, obviously.
 
 ## Structure
 Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](http://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](http://jekyllrb.com) to process the posts properly.

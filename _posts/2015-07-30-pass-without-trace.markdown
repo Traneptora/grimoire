@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Pass without Trace
-date:  2015-07-30
-tags:  [ranger, druid, level2]
+title: "Pass Without Trace"
+date: 2015-07-30
+tags: [druid, ranger, level2]
 ---
 
-**2nd Abjuration**
+**2nd-level abjuration**
 
 **Casting Time**: 1 action
 
 **Range**: Self
 
-**Components**: V, S, M (ashes from a burned leaf of mistletoe anel a sprig of spruce)
+**Components**: V, S, M (ashes from a burned leaf of mistletoe and a sprig of spruce)
 
 **Duration**: Concentration, up to 1 hour
 

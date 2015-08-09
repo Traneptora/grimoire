@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Conjure Elemental"
-date:   2015-07-14
+title: "Conjure Elemental"
+date: 2015-07-14
 tags: [druid, wizard, level5]
 ---
 
-**5th-level Conjuration**
+**5th-level conjuration**
 
 **Casting Time**: 1 minute
 

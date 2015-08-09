@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Conjure Fey"
-date:   2015-07-14
+title: "Conjure Fey"
+date: 2015-07-14
 tags: [druid, warlock, level6]
 ---
 
-**6th-level Conjuration**
+**6th-level conjuration**
 
 **Casting Time**: 1 minute
 

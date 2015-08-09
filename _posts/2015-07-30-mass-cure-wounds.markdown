@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mass Cure Wounds
-date:  2015-07-30
-tags:  [cleric, druid, bard, level5]
+title: "Mass Cure Wounds"
+date: 2015-07-30
+tags: [bard, cleric, druid, level5]
 ---
 
-**5th Conjuration**
+**5th-level conjuration**
 
 **Casting Time**: 1 action
 

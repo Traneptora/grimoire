@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Heroes' Feast
-date:  2015-07-30
-tags:  [cleric, druid, level6]
+title: "Heroes' Feast"
+date: 2015-07-30
+tags: [cleric, druid, level6]
 ---
 
-**6th Conjuration**
+**6th-level conjuration**
 
 **Casting Time**: 10 minutes
 

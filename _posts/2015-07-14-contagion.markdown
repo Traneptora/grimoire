@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Contagion"
-date:   2015-07-14
+title: "Contagion"
+date: 2015-07-14
 tags: [cleric, druid, level5]
 ---
 
-**5th-level Necromancy**
+**5th-level necromancy**
 
 **Casting Time**: 1 action
 
@@ -27,8 +27,8 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 **Flesh Rot.** The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
 
-**Mindfire.** The creature's mind becom es feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *confusion* spell during combat.
+**Mindfire.** The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the *[confusion](../confusion/ "confusion (lvl 4)")* spell during combat.
 
 **Seizure.** The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
-**SlimyDoom.** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.
+**Slimy Doom.** The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is stunned until the end of its next turn.

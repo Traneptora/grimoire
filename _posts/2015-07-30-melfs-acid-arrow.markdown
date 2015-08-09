@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Melf's Acid Arrow
-date:  2015-07-30
-tags:  [wizard, level2]
+title: "Melf's Acid Arrow"
+date: 2015-07-30
+tags: [wizard, level2]
 ---
 
-**2nd Evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 action
 

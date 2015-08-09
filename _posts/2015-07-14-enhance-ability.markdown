@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Enhance Ability"
-date:   2015-07-14
+title: "Enhance Ability"
+date: 2015-07-14
 tags: [bard, cleric, druid, sorcerer, level2]
 ---
 
-**2nd-level Transmutation**
+**2nd-level transmutation**
 
 **Casting Time**: 1 action
 

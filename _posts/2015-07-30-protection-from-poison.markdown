@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Protection from Poison
-date:  2015-07-30
-tags:  [cleric, ranger, paladin, druid, level2]
+title: "Protection from Poison"
+date: 2015-07-30
+tags: [cleric, ranger, paladin, druid, level2]
 ---
 
-**2nd Abjuration**
+**2nd-level abjuration**
 
 **Casting Time**: 1 action
 

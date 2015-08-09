@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "See Invisibility"
-date:   2015-07-30
-tags: [sorcerer, wizard, bard, level2]
+title: "See Invisibility"
+date: 2015-07-30
+tags: [bard, sorcerer, wizard, level2]
 ---
 
 **2nd-level divination**

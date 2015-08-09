@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Mordenkainen's Private Sanctum
-date:  2015-07-30
-tags:  [wizard, level4]
+title: "Mordenkainen's Private Sanctum"
+date: 2015-07-30
+tags: [wizard, level4]
 ---
 
-**4th Abjuration**
+**4th-level abjuration**
 
 **Casting Time**: 10 minutes
 
@@ -22,7 +22,7 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 * Sound can't pass through the barrier at the edge of the warded area.
 * The barrier of the warded area appears dark and foggy, preventing vision (including darkvision) through it.
 * Sensors created by divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-* Creatures in the area can't be targeted by divination spell.
+* Creatures in the area can't be targeted by divination spells.
 * Nothing can teleport into or out of the warded area.
 * Planar travel is blocked within the warded area.
 

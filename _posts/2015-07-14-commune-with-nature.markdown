@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Commune with Nature"
-date:   2015-07-14
+title: "Commune with Nature"
+date: 2015-07-14
 tags: [druid, ranger, level5]
 ---
 
-**5th-level Divination (ritual)**
+**5th-level divination (ritual)**
 
 **Casting Time**: 1 minute
 
@@ -15,7 +15,7 @@ tags: [druid, ranger, level5]
 
 **Duration**: Instantaneous
 
-You briefly becom e one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.
+You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in dungeons and towns.
 
 You instantly gain knowledge of up to three facts of your choice about any of the following subjects as they relate to the area:
 

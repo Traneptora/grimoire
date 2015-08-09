@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Greater Restoration
-date:  2015-07-30
-tags:  [cleric, druid, bard, level5]
+title: "Greater Restoration"
+date: 2015-07-30
+tags: [cleric, druid, bard, level5]
 ---
 
-**5th Abjuration**
+**5th-level abjuration**
 
 **Casting Time**: 1 action
 
 **Range**: Touch
 
-**Components**: VSMgp
+**Components**: V, S, M (diamond dust worth at least 100 gp, which the spell consumes)
 
 **Duration**: Instantaneous
 

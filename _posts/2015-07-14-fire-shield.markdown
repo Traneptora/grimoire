@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Fire Shield"
-date:   2015-07-14
+title: "Fire Shield"
+date: 2015-07-14
 tags: [wizard, level4]
 ---
 
-**4th-level Evocation**
+**4th-level evocation**
 
 **Casting Time**: 1 action
 

@@ -32,6 +32,10 @@ If you'd like to help fill out the rest of the spells from the PHB, for each new
 1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell.
 2. Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
 
+## Build Instructions
+I've edited _config.yml for my own build purposes, but if you've got [Jekyll](http://jekyllrb.com) set up locally, the following should create the build from your friendly command line terminal:
+`jekyll serve -Vw --no-watch --baseurl ""`
+
 ## Thanks
 
 Cleric and wizard spells from the Starter Kit were seeded from [this Reddit post](http://www.reddit.com/r/DnD/comments/2a7wau/5e_cleric_and_wizard_spells_sorted_by_level/).

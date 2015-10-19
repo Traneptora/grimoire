@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antilife Shell"
+title: "Arcane Gate"
 date: 2015-07-14
 tags: [sorcerer, warlock, wizard, level6]
 ---

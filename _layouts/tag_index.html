@@ -1,45 +1,46 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="class-list">
-  	{% include header.html %}
+<body class="class-list">
+	{% include header.html %}
 
-  	<div class="page-content">
-  	  <div class="wrapper">
-				<h1 class="page-heading">{{page.title}}</h1>
-				 <dl class="tag-list">
-				  <dt>Spell tier:</dt>
-				  {% for level in site.data.levels %}
-				  <dd>
-				    <a href="#{{level.tag}}">{{level.name}}</a>
-				  </dd>
-				  {% endfor %}
-				</dl>
-
+	<div class="page-content">
+		<div class="wrapper">
+			<h1 class="page-heading">{{page.title}}</h1>
+			<p id="spellSearch">Search by name: <input type="search" id="jetsSearch"></p>
+			<dl class="tag-list">
+				<dt>Spell tier:</dt>
 				{% for level in site.data.levels %}
-				<a id="{{level.tag}}"></a>
-				<h3>{{level.title}}</h3>
-				{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
-				{% for post in post_list %}
-				{% for tag in post.tags %}
-				{% if tag == page.tag %}
-				<ul class="post-list">
-				    <li>
-				        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-				    </li>
-				</ul>
-				{% endif %}
+				<dd>
+					<a href="#{{level.tag}}">{{level.name}}</a>
+				</dd>
 				{% endfor %}
-				{% endfor %}
-				<a class="post-meta" href="#top">Back to top &#8593;</a>
-				{% endfor %}
-      </div>
-    </div>
+			</dl>
 
-    {% include footer.html %}
+			{% for level in site.data.levels %}
+			<a id="{{level.tag}}"></a>
+			<h3>{{level.title}}</h3>
+			{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
+			{% for post in post_list %}
+			{% for tag in post.tags %}
+			{% if tag == page.tag %}
+			<ul class="post-list jetsContent">
+				<li>
+					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+				</li>
+			</ul>
+			{% endif %}
+			{% endfor %}
+			{% endfor %}
+			<a class="post-meta" href="#top">Back to top &#8593;</a>
+			{% endfor %}
+		</div>
+	</div>
 
-  </body>
+	{% include footer.html %}
+
+</body>
 
 </html>

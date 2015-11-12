@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [bard, druid, ranger, level1]
 ---
 
-**1st-level divination**
+**1st-level divination (ritual)**
 
 **Casting Time**: 1 action
 

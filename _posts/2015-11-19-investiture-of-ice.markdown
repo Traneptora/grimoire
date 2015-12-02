@@ -16,6 +16,7 @@ tags: [druid, sorcerer, warlock, wizard, level6]
 **Duration**: Concentration, up to 10 minutes
 
 Until the spell ends, ice rimes your body, and you gain the following benefits:
+
 * You are immune to cold damage and have resistance to fire damage.
 * You can move across difficult terrain created by ice or snow without spending extra movement.
 * The ground in a 10-foot radius around you is icy and is difficult terrain for creatures other than you. The radius moves with you.

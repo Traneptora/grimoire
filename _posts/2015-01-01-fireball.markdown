@@ -11,7 +11,7 @@ tags: [sorcerer, wizard, level3]
 
 **Range**: 150 feet
 
-**Components**: V, S, M (a tiny ball of bat quano and sulfur)
+**Components**: V, S, M (a tiny ball of bat guano and sulfur)
 
 **Duration**: Instantaneous
 

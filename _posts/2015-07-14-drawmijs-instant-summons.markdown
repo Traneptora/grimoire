@@ -5,7 +5,7 @@ date:   2015-07-14
 tags: [wizard, level6]
 ---
 
-**6th-level Conjuration (ritual)**
+**6th-level conjuration (ritual)**
 
 **Casting Time**: 1 minute
 

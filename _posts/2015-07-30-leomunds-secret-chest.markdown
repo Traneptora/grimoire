@@ -11,7 +11,7 @@ tags: [wizard, level4]
 
 **Range**: Touch
 
-**Components**: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materiais worth at least 50 gp)
+**Components**: V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp)
 
 **Duration**: Instantaneous
 

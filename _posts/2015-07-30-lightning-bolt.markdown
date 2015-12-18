@@ -9,7 +9,7 @@ tags: [sorcerer, wizard, level3]
 
 **Casting Time**: 1 action
 
-**Range**: Self (1OO-foot line)
+**Range**: Self (100-foot line)
 
 **Components**: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
 

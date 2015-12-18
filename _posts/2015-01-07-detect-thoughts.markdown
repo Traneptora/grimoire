@@ -5,7 +5,7 @@ date:   2015-01-07
 tags: [bard, sorcerer, wizard, level2]
 ---
 
-**2nd-Level divination**
+**2nd-level divination**
 
 **Casting Time**: 1 action
 

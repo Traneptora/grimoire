@@ -5,7 +5,7 @@ date:   2014-12-31
 tags: [bard, cleric, level2]
 ---
 
-**2nd-level Enchantment**
+**2nd-level enchantment**
 
 **Casting Time**: 1 action
 

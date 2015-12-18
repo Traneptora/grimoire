@@ -5,7 +5,7 @@ date:   2015-01-2
 tags: [sorcerer, wizard, level2]
 ---
 
-**2nd-Level Transmuation**
+**2nd-level transmutation**
 
 **Casting Time**: 1 action
 

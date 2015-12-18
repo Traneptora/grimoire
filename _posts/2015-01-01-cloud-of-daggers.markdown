@@ -5,7 +5,7 @@ date:   2015-01-01
 tags: [bard, sorcerer, warlock, wizard, level2]
 ---
 
-**2nd-level Conjuration**
+**2nd-level conjuration**
 
 **Casting Time**: 1 action
 

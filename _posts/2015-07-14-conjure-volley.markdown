@@ -5,7 +5,7 @@ date: 2015-07-14
 tags: [ranger, level5]
 ---
 
-**5th-level Conjuration**
+**5th-level conjuration**
 
 **Casting Time**: 1 action
 

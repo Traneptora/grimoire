@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1]
 ---
 
-**1st-level divination (Ritual)**
+**1st-level divination (ritual)**
 
 **Casting Time**: 1 action
 

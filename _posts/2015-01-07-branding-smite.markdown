@@ -5,7 +5,7 @@ date:   2015-01-07
 tags: [paladin, level2]
 ---
 
-**2nd-Level evocation**
+**2nd-level evocation**
 
 **Casting Time**: 1 action
 

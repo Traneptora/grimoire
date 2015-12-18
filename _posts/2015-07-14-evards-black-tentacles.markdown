@@ -5,7 +5,7 @@ date:   2015-07-14
 tags: [wizard, level4]
 ---
 
-**4th-level Conjuration**
+**4th-level conjuration**
 
 **Casting Time**: 1 action
 

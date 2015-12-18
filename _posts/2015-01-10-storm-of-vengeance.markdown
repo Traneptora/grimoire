@@ -21,7 +21,7 @@ Each round you maintain concentration on this spell, the storm produces addition
 
 **Round 2.** Acidic rain falls from the cloud. Each creature and object under the cloud takes 1d6 acid damage.
 
-**Round 3.** You call six bolts of ligtning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
+**Round 3.** You call six bolts of lightning from the cloud to strike six creatures or objects of your choice beneath the cloud. A given creature or object can't be struck by more than one bolt. A struck creature must make a Dexterity saving throw. The creature takes 10d6 lightning damage on a failed save, or half as much damage on a successful one.
 
 **Round 4.** Hailstones rain down from the cloud. Each creature under the cloud takes 2d6 bludgeoning damage.
 

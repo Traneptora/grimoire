@@ -25,7 +25,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 **Eagle's Splendor.** The target has advantage on Charisma checks.
 
-**Fox's Cunning.** The target thas advantage on Intelligence checks.
+**Fox's Cunning.** The target has advantage on Intelligence checks.
 
 **Owl's Wisdom.** The target has advantage on Wisdom checks.
 

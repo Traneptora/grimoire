@@ -11,7 +11,7 @@ tags: [wizard, level4]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a tiny silver whistle, a pieee of bone, and a thread)
+**Components**: V, S, M (a tiny silver whistle, a piece of bone, and a thread)
 
 **Duration**: 8 hours
 

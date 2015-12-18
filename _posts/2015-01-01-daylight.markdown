@@ -2,7 +2,7 @@
 layout: post
 title:  "Daylight"
 date:   2015-01-01
-tags: [cleric, druid, palidan, ranger, sorcerer, level3]
+tags: [cleric, druid, paladin, ranger, sorcerer, level3]
 ---
 
 **3rd-level evocation**

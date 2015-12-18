@@ -11,7 +11,7 @@ tags: [wizard, bard, level6]
 
 **Range**: Touch
 
-**Components**: V, S, M (burning incense, a small measure of brimstone and oil, a knotled string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
+**Components**: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
 
 **Duration**: 24 hours
 
@@ -21,7 +21,7 @@ When you cast this spell, you can specify individuals that are unaffected by any
 
 *Guards and wards* creates the following effects within the warded area.
 
-**Corridors.** Fog fills al the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
+**Corridors.** Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
 **Doors.** All doors in the warded area are magically locked, as if sealed by an *[arcane lock](../arcane-lock/ "arcane lock (lvl 2)")* spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the *[minor illusion](../minor-illusion/ "minor illusion (cantrip)")* spell) to make them appear as plain sections of wall.
 
@@ -33,7 +33,7 @@ When you cast this spell, you can specify individuals that are unaffected by any
 * Place *[magic mouth](../magic-mouth/ "magic mouth (lvl 2)")* in two locations.
 * Place *[stinking cloud](../stinking-cloud/ "stinking cloud (lvl 3)")* in two locations. The vapors appear in the places you designate; They return within 10 minutes if dispersed by wind while *guards and wards* lasts.
 * Place a constant *[gust of wind](../gust-of-wind/ "gust of wind (lvl 2)")* in one corridor or room.
-* Place a *[suggestion](../suggestion/ "suggestion (lvl 2)")* in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area recieves the suggestion mentally.
+* Place a *[suggestion](../suggestion/ "suggestion (lvl 2)")* in one location. You select an area of up to 5 feet square, and any creature that enters or passes through the area receives the suggestion mentally.
 
 The whole warded area radiates magic. A *[dispel magic](../dispel-magic/ "dispel magic (lvl 3)")* cast on a specific effect, if successful, removes only that effect.
 

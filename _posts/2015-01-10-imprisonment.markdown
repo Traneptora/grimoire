@@ -11,7 +11,7 @@ tags:   [warlock, wizard, level9]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gb per Hit Die of the target)
+**Components**: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
 
 **Duration**: Until dispelled
 
@@ -27,7 +27,7 @@ The special component for this version of the spell is a small mithral orb.
 
 The special component for this version of the spell is a fine chain of precious metal.
 
-**Hedged Prison.** The spell transports the target into a tiny demiplane that is warded against teleportation and planar travel. The demiplan can be a labyrinth, a cage, a tower, or any similar confined structure or area of your choice.
+**Hedged Prison.** The spell transports the target into a tiny demiplane that is warded against teleportation and planar travel. The demiplane can be a labyrinth, a cage, a tower, or any similar confined structure or area of your choice.
 
 The special component for this version of the spell is a miniature representation of the prison made from jade.
 
@@ -37,7 +37,7 @@ The special component for this version of the spell is a large, transparent gems
 
 **Slumber.** The target falls asleep and can't be awoken. The special component for this version of the spell consists of rare soporific herbs.
 
-**Ending the Spell.** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise mmust be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
+**Ending the Spell.** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
 A _dispel magic_ spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 

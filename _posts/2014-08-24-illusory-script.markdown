@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [bard, warlock, wizard, level1]
 ---
 
-**1st-level illusion (Ritual)**
+**1st-level illusion (ritual)**
 
 **Casting Time**: 1 minute
 

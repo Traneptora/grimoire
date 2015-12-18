@@ -5,7 +5,7 @@ date:   2014-12-31
 tags: [bard, cleric, sorcerer, wizard, level2]
 ---
 
-**2nd-level Necromancy**
+**2nd-level necromancy**
 
 **Casting Time**: 1 action
 

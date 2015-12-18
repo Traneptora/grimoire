@@ -15,4 +15,4 @@ tags: [cleric, druid, ranger, sorcerer, wizard, level3]
 
 **Duration**: Concentration, up to 1 minute
 
-For the duration, the w illing creature you touch has resistance to one damage type o f your choice: acid, cold, fire, lightning, or thunder.
+For the duration, the willing creature you touch has resistance to one damage type o f your choice: acid, cold, fire, lightning, or thunder.

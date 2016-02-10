@@ -9,7 +9,7 @@ tags: [bard, sorcerer, wizard, level2]
 
 **Casting Time**: 1 action
 
-**Range**: self
+**Range**: Self
 
 **Components**: V, S, M (a copper piece)
 

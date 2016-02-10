@@ -9,7 +9,7 @@ tags: [druid, ranger, level2]
 
 **Casting Time**: 1 action
 
-**Range**: touch
+**Range**: Touch
 
 **Components**: S
 

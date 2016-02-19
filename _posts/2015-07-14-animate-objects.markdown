@@ -5,7 +5,7 @@ date: 2015-07-14
 tags: [bard, sorcerer, wizard, level5]
 ---
 
-**5th-level transformation**
+**5th-level transmutation**
 
 **Casting Time**: 1 action
 

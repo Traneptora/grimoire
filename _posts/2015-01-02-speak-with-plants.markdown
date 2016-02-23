@@ -9,7 +9,7 @@ tags: [bard, druid, ranger, level3]
 
 **Casting Time**: 1 action
 
-**Range**: Self (30-foot radius
+**Range**: Self (30-foot radius)
 
 **Components**: V, S
 

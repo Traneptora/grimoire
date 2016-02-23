@@ -5,6 +5,7 @@ Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class a
 See the latest compiled build here: [http://ephe.github.io/grimoire/](http://ephe.github.io/grimoire/)
 
 ## Changelog
+* 2/22/16: Oops, have been merging typo fixes periodically. Merging in some more!
 * 12/17/15: Merged in more typo fixes, and spells from Sword Coast Adventurer's Guide.
 * 12/1/15: Merged in more typo fixes, and the rest of the spells from the Elemental Evil Player's Companion.
 * 11/1/15: Merged in typo fixes, and some spells added from the Elemental Evil Player's Companion.

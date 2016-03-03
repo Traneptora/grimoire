@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Power Word Kill
+title:  "Power Word Kill"
 date:   2015-01-10
 tags:   [bard, sorcerer, warlock, wizard, level9]
 ---

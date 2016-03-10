@@ -15,7 +15,7 @@ layout: default
   </dl>
   {% for level in site.data.levels %}
     <a id="{{level.tag}}"></a>
-    <h2 class="post-list-head">{{level.title}}</h2>
+    <h2 class="post-list-head jetsHide">{{level.title}}</h2>
     <ul class="post-list jetsContent">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
@@ -24,7 +24,7 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-    <a class="post-meta" href="#top">Back to top &#8593;</a>
+    <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
   {% endfor %}
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>

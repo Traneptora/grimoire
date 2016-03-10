@@ -21,7 +21,7 @@
 
 			{% for level in site.data.levels %}
 			<a id="{{level.tag}}"></a>
-			<h3>{{level.title}}</h3>
+			<h2 class="post-list-head jetsHide">{{level.title}}</h2>
 			{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
 			{% for post in post_list %}
 			{% for tag in post.tags %}
@@ -34,7 +34,7 @@
 			{% endif %}
 			{% endfor %}
 			{% endfor %}
-			<a class="post-meta" href="#top">Back to top &#8593;</a>
+			<a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
 			{% endfor %}
 		</div>
 	</div>

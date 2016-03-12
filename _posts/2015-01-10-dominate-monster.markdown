@@ -2,6 +2,7 @@
 layout: post
 title:  "Dominate Monster"
 date:   2015-01-10
+source: PHB.235
 tags:   [bard, sorcerer, warlock, wizard, level8]
 ---
 

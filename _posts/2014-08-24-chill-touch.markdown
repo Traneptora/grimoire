@@ -2,6 +2,7 @@
 layout: post
 title:  "Chill Touch"
 date:   2014-08-24
+source: PHB.221
 tags: [sorcerer, warlock, wizard, cantrip]
 ---
 

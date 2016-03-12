@@ -2,6 +2,7 @@
 layout: post
 title: "Lightning Bolt"
 date: 2015-07-30
+source: PHB.255
 tags: [sorcerer, wizard, level3]
 ---
 

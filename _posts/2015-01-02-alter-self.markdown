@@ -2,6 +2,7 @@
 layout: post
 title:  "Alter Self"
 date:   2015-01-2
+source: PHB.211
 tags: [sorcerer, wizard, level2]
 ---
 

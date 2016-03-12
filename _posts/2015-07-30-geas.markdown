@@ -2,6 +2,7 @@
 layout: post
 title: "Geas"
 date: 2015-07-30
+source: PHB.245
 tags: [cleric, wizard, paladin, druid, bard, level5]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Hail of Thorns"
 date:   2014-08-24
+source: PHB.249
 tags: [ranger, level1]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Forcecage"
 date: 2015-01-11
+source: PHB.243
 tags: [bard, warlock, wizard, level7]
 ---
 

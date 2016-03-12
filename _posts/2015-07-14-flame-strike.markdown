@@ -2,6 +2,7 @@
 layout: post
 title: "Flame Strike"
 date: 2015-07-14
+source: PHB.242
 tags: [cleric, level5]
 ---
 

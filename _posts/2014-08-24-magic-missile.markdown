@@ -2,6 +2,7 @@
 layout: post
 title:  "Magic Missile"
 date:   2014-08-24
+source: PHB.257
 tags: [sorcerer, wizard, level1]
 ---
 

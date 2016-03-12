@@ -2,6 +2,7 @@
 layout: post
 title:  "Sacred Flame"
 date:   2014-08-24
+source: PHB.272
 tags: [cleric, cantrip]
 ---
 

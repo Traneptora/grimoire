@@ -2,6 +2,7 @@
 layout: post
 title:  "Create Food and Water"
 date:   2015-01-01
+source: PHB.229
 tags: [cleric, paladin, level3]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Spike Growth"
 date: 2015-07-30
+source: PHB.277
 tags: [druid, ranger, level2]
 ---
 

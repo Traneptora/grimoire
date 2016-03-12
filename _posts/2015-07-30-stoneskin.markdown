@@ -2,6 +2,7 @@
 layout: post
 title: "Stoneskin"
 date: 2015-07-30
+source: PHB.278
 tags: [druid, sorcerer, ranger, wizard, level4]
 ---
 

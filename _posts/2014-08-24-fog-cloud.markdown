@@ -2,6 +2,7 @@
 layout: post
 title:  "Fog Cloud"
 date:   2014-08-24
+source: PHB.243
 tags: [druid, ranger, sorcerer, wizard, level1]
 ---
 

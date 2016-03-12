@@ -2,6 +2,7 @@
 layout: post
 title: "Greater Restoration"
 date: 2015-07-30
+source: PHB.246
 tags: [cleric, druid, bard, level5]
 ---
 

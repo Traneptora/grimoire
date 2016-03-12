@@ -2,6 +2,7 @@
 layout: post
 title:  "Nondetection"
 date:   2015-01-02
+source: PHB.263
 tags: [bard, ranger, wizard, level3]
 ---
 

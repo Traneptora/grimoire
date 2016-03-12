@@ -2,6 +2,7 @@
 layout: post
 title: "Protection from Poison"
 date: 2015-07-30
+source: PHB.270
 tags: [cleric, ranger, paladin, druid, level2]
 ---
 

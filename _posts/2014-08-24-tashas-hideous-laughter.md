@@ -2,6 +2,7 @@
 layout: post
 title:  "Tasha's Hideous Laughter"
 date:   2014-08-24
+source: PHB.280
 tags: [bard, wizard, level1]
 ---
 

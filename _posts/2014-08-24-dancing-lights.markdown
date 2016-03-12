@@ -2,6 +2,7 @@
 layout: post
 title:  "Dancing Lights"
 date:   2014-08-24
+source: PHB.230
 tags: [bard, sorcerer, wizard, cantrip]
 ---
 

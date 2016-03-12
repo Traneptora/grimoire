@@ -2,6 +2,7 @@
 layout: post
 title: "Vampiric Touch"
 date: 2015-07-30
+source: PHB.285
 tags: [warlock, wizard, level3]
 ---
 

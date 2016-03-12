@@ -2,6 +2,7 @@
 layout: post
 title:  "Death Ward"
 date:   2015-01-05
+source: PHB.230
 tags: [cleric, paladin, level4]
 ---
 

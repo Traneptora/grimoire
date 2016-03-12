@@ -2,6 +2,7 @@
 layout: post
 title:  "Dimension Door"
 date:   2015-01-11
+source: PHB.233
 tags: [bard, sorcerer, warlock, wizard, level4]
 ---
 

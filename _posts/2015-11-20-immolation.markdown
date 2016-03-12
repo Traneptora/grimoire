@@ -2,6 +2,7 @@
 layout: post
 title:  "Immolation"
 date:   2015-11-20
+source: EE.19
 tags: [sorcerer, wizard, level5]
 ---
 

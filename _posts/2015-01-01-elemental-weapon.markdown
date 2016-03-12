@@ -2,6 +2,7 @@
 layout: post
 title:  "Elemental Weapon"
 date:   2015-01-01
+source: PHB.237
 tags: [paladin, level3]
 ---
 

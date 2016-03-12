@@ -2,6 +2,7 @@
 layout: post
 title: "Hold Monster"
 date: 2015-07-30
+source: PHB.251
 tags: [bard, sorcerer, warlock, wizard, level5]
 ---
 

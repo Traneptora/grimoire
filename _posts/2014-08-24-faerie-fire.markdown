@@ -2,6 +2,7 @@
 layout: post
 title:  "Faerie Fire"
 date:   2014-08-24
+source: PHB.239
 tags: [bard, druid, level1]
 ---
 

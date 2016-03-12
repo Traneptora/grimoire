@@ -2,6 +2,7 @@
 layout: post
 title:  "Ensnaring Strike"
 date:   2014-08-24
+source: PHB.237
 tags: [ranger, level1]
 ---
 

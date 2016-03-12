@@ -2,6 +2,7 @@
 layout: post
 title:  "Control Water"
 date:   2015-01-05
+source: PHB.227
 tags: [cleric, druid, wizard, level4]
 ---
 

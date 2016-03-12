@@ -2,6 +2,7 @@
 layout: post
 title: "Fire Shield"
 date: 2015-07-14
+source: PHB.241
 tags: [wizard, level4]
 ---
 

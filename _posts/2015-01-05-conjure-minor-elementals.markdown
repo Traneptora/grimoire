@@ -2,6 +2,7 @@
 layout: post
 title:  "Conjure Minor Elementals"
 date:   2015-01-05
+source: PHB.226
 tags: [druid, wizard, level4]
 ---
 

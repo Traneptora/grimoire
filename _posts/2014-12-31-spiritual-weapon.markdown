@@ -2,6 +2,7 @@
 layout: post
 title:  "Spiritual Weapon"
 date:   2014-12-31
+source: PHB.278
 tags: [cleric, level2]
 ---
 

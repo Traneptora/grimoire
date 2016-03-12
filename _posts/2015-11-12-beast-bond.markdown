@@ -2,6 +2,7 @@
 layout: post
 title:  "Beast Bond"
 date:   2015-11-12
+source: EE.15
 tags: [druid, ranger, level1]
 ---
 

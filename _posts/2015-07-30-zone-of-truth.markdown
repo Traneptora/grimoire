@@ -2,6 +2,7 @@
 layout: post
 title: "Zone of Truth"
 date: 2015-07-30
+source: PHB.289
 tags: [bard, cleric, paladin, level2]
 ---
 

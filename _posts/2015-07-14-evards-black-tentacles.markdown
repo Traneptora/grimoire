@@ -2,6 +2,7 @@
 layout: post
 title:  "Evard's Black Tentacles"
 date:   2015-07-14
+source: PHB.238
 tags: [wizard, level4]
 ---
 

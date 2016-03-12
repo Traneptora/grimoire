@@ -2,6 +2,7 @@
 layout: post
 title:  "Beast Sense"
 date:   2015-01-07
+source: PHB.217
 tags: [druid, ranger, level2]
 ---
 

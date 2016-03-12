@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Detect Poison or Disease"
+title:  "Detect Poison and Disease"
 date:   2014-08-24
 tags: [cleric, druid, paladin, ranger, level1]
 ---

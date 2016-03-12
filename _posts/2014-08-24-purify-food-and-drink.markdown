@@ -5,7 +5,7 @@ date:   2014-08-24
 tags: [cleric, druid, paladin, level1]
 ---
 
-**1st-level transmutation**
+**1st-level transmutation (ritual)**
 
 **Casting Time**: 1 action
 

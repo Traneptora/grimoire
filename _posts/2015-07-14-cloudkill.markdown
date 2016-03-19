@@ -2,6 +2,7 @@
 layout: post
 title: "Cloudkill"
 date: 2015-07-14
+source: PHB.222
 tags: [sorcerer, wizard, level5]
 ---
 

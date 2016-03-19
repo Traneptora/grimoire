@@ -2,6 +2,7 @@
 layout: post
 title:  "Create or Destroy Water"
 date:   2014-08-24
+source: PHB.229
 tags: [cleric, druid, level1]
 ---
 

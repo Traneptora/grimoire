@@ -2,6 +2,7 @@
 layout: post
 title:  "Antipathy/Sympathy"
 date:   2015-01-09
+source: PHB.214
 tags:   [druid, wizard, level8]
 ---
 

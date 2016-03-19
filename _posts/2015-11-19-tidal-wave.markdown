@@ -2,6 +2,7 @@
 layout: post
 title:  "Tidal Wave"
 date:   2015-11-19
+source: EE.22
 tags: [druid, wizard, level3]
 ---
 

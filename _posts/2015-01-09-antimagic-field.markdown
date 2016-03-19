@@ -2,6 +2,7 @@
 layout: post
 title:  "Antimagic Field"
 date:   2015-01-09
+source: PHB.213
 tags: [cleric, wizard, level8]
 ---
 

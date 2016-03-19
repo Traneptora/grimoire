@@ -2,6 +2,7 @@
 layout: post
 title:  "Detect Thoughts"
 date:   2015-01-07
+source: PHB.231
 tags: [bard, sorcerer, wizard, level2]
 ---
 

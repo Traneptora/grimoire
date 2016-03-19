@@ -2,6 +2,7 @@
 layout: post
 title: "Guards and Wards"
 date: 2015-07-30
+source: PHB.248
 tags: [wizard, bard, level6]
 ---
 

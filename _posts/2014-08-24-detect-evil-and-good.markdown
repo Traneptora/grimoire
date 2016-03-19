@@ -2,6 +2,7 @@
 layout: post
 title:  "Detect Evil and Good"
 date:   2014-08-24
+source: PHB.231
 tags: [cleric, paladin, level1]
 ---
 

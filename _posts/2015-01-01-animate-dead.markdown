@@ -2,6 +2,7 @@
 layout: post
 title:  "Animate Dead"
 date:   2015-01-01
+source: PHB.212
 tags: [cleric, wizard, level3]
 ---
 

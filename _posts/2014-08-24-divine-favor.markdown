@@ -2,6 +2,7 @@
 layout: post
 title:  "Divine Favor"
 date:   2014-08-24
+source: PHB.234
 tags: [paladin, level1]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Inflict Wounds"
 date:   2014-08-24
+source: PHB.253
 tags: [cleric, level1]
 ---
 

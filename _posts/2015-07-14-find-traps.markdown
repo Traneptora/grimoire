@@ -2,6 +2,7 @@
 layout: post
 title: "Find Traps"
 date: 2015-07-14
+source: PHB.241
 tags: [cleric, druid, ranger, level2]
 ---
 

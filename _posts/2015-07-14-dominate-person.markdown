@@ -2,6 +2,7 @@
 layout: post
 title: "Dominate Person"
 date: 2015-07-14
+source: PHB.235
 tags: [bard, sorcerer, wizard, level5]
 ---
 

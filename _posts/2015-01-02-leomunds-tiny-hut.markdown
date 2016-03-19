@@ -2,6 +2,7 @@
 layout: post
 title:  "Leomund's Tiny Hut"
 date:   2015-01-01
+source: PHB.255
 tags: [bard, wizard, level3]
 ---
 

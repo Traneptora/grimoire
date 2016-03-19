@@ -2,6 +2,7 @@
 layout: post
 title:  "Calm Emotions"
 date:   2014-12-31
+source: PHB.221
 tags: [bard, cleric, level2]
 ---
 

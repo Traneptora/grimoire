@@ -2,6 +2,7 @@
 layout: post
 title: "Move Earth"
 date: 2015-07-30
+source: PHB.263
 tags: [druid, sorcerer, wizard, level6]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Incendiary Cloud"
 date:   2015-01-10
+source: PHB.253
 tags:   [sorcerer, wizard, level8]
 ---
 

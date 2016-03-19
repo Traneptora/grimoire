@@ -2,6 +2,7 @@
 layout: post
 title:  "Whirlwind"
 date:   2015-11-19
+source: EE.27
 tags: [druid, wizard, level7]
 ---
 

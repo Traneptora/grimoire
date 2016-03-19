@@ -2,6 +2,7 @@
 layout: post
 title: "Wall of Thorns"
 date: 2015-07-30
+source: PHB.287
 tags: [druid, level6]
 ---
 

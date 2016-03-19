@@ -2,6 +2,7 @@
 layout: post
 title:  "Holy Aura"
 date:   2015-01-10
+source: PHB.251
 tags:   [cleric, level8]
 ---
 

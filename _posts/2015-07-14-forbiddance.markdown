@@ -2,6 +2,7 @@
 layout: post
 title: "Forbiddance"
 date: 2015-07-14
+source: PHB.243
 tags: [cleric, level6]
 ---
 

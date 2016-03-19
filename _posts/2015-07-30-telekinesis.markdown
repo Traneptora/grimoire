@@ -2,6 +2,7 @@
 layout: post
 title: "Telekinesis"
 date: 2015-07-30
+source: PHB.280
 tags: [sorcerer, wizard, level5]
 ---
 

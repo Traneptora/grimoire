@@ -2,6 +2,7 @@
 layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
+source: PHB.242
 tags: [druid, wizard, level2]
 ---
 

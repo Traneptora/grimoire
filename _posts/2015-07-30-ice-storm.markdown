@@ -2,6 +2,7 @@
 layout: post
 title: "Ice Storm"
 date: 2015-07-30
+source: PHB.252
 tags: [druid, sorcerer, wizard, level4]
 ---
 

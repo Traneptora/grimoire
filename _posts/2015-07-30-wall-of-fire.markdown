@@ -2,6 +2,7 @@
 layout: post
 title: "Wall of Fire"
 date: 2015-07-30
+source: PHB.285
 tags: [druid, sorcerer, wizard, level4]
 ---
 

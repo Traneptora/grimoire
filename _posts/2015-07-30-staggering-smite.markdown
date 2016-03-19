@@ -2,6 +2,7 @@
 layout: post
 title: "Staggering Smite"
 date: 2015-07-30
+source: PHB.278
 tags: [paladin, level4]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Contagion"
 date: 2015-07-14
+source: PHB.227
 tags: [cleric, druid, level5]
 ---
 

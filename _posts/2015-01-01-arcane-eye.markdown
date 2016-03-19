@@ -2,6 +2,7 @@
 layout: post
 title:  "Arcane Eye"
 date:   2015-01-01
+source: PHB.214
 tags: [wizard, level4]
 ---
 

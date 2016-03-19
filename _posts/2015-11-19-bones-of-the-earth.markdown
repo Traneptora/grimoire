@@ -2,6 +2,7 @@
 layout: post
 title:  "Bones of the Earth"
 date:   2015-11-19
+source: EE.15
 tags: [druid, level6]
 ---
 

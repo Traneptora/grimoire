@@ -2,6 +2,7 @@
 layout: post
 title:  "Burning Hands"
 date:   2014-08-24
+source: PHB.220
 tags: [sorcerer, wizard, level1]
 ---
 

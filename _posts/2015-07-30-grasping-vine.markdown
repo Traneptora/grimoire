@@ -2,6 +2,7 @@
 layout: post
 title: "Grasping Vine"
 date: 2015-07-30
+source: PHB.246
 tags: [ranger, druid, level4]
 ---
 

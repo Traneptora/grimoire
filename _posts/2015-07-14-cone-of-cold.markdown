@@ -2,6 +2,7 @@
 layout: post
 title: "Cone of Cold"
 date: 2015-07-14
+source: PHB.224
 tags: [sorcerer, wizard, level5]
 ---
 

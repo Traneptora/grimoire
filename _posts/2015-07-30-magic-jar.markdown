@@ -2,6 +2,7 @@
 layout: post
 title: "Magic Jar"
 date: 2015-07-30
+source: PHB.257
 tags: [wizard, level6]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Dispel Evil and Good"
 date: 2015-07-14
+source: PHB.233
 tags: [cleric, paladin, level5]
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Hunter's Mark"
 date:   2014-08-24
+source: PHB.251
 tags: [ranger, level1]
 ---
 

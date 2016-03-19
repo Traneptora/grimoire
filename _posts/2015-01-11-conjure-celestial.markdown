@@ -2,6 +2,7 @@
 layout: post
 title:  "Conjure Celestial"
 date:   2015-01-11
+source: PHB.225
 tags:   [cleric, level7]
 ---
 

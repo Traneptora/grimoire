@@ -2,6 +2,7 @@
 layout: post
 title:  "Conjure Barrage"
 date:   2015-01-01
+source: PHB.225
 tags: [ranger, level3]
 ---
 

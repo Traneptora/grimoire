@@ -2,6 +2,7 @@
 layout: post
 title:  "Thunderwave"
 date:   2014-08-24
+source: PHB.282
 tags: [bard, druid, sorcerer, wizard, level1]
 ---
 

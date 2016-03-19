@@ -2,6 +2,7 @@
 layout: post
 title:  "Longstrider"
 date:   2014-08-24
+source: PHB.256
 tags: [bard, druid, ranger, wizard, level1]
 ---
 

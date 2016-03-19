@@ -2,6 +2,7 @@
 layout: post
 title: "Greater Invisibility"
 date: 2015-07-30
+source: PHB.246
 tags: [sorcerer, wizard, bard, level4]
 ---
 

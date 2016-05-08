@@ -14,7 +14,7 @@ tags:   [bard, sorcerer, warlock, wizard, level8]
 
 **Components**: V
 
-**Duration**:Instantaneous
+**Duration**: Instantaneous
 
 You speak a word of power that can overwhelm the mind of one creature you can see within range, leaving it dumbfounded. If the target has 150 hit points or fewer, it is stunned. Otherwise, the spell has no effect.
 

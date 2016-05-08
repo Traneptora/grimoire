@@ -22,4 +22,4 @@ Nothing—-not physical objects, energy, or other spell effects-—can pass thro
 
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can use its action to push against the sphere’s walls and thus roll the sphere at up to half the creature’s speed. Similarly, the globe can be picked up and moved by other creatures.
 
-A *[disintegrate](../disintegrate/ "disintegrate (lvl 6)")* spell targeting the globe destroys it without harming anything inside it.
+A *[disintegrate](disintegrate "disintegrate (lvl 6)")* spell targeting the globe destroys it without harming anything inside it.

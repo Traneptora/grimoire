@@ -24,6 +24,6 @@ You must speak to the target to describe how its memories are affected, and it m
 
 A modified memory doesn’t necessarily affect how a creature behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, perhaps as a bad dream. The DM might deem a modified memory too nonsensical to affect a creature in a significant manner.
 
-A *[remove curse](../remove-curse/ "remove curse (lvl 3)")* or *[greater restoration](../greater-restoration/ "greater restoration (lvl 5)")* spell cast on the target restores the creature's true memory. 
+A *[remove curse](remove-curse/ "remove curse (lvl 3)")* or *[greater restoration](greater-restoration "greater restoration (lvl 5)")* spell cast on the target restores the creature's true memory. 
 
 **At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can alter the target’s memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature’s past (9th level).

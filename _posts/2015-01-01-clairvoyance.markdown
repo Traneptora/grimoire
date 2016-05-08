@@ -20,4 +20,4 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As your action, you can switch between seeing and hearing.
 
-A creature that can see the sensor (such as a creature benefiting from *[see invisibility](../see-invisibility/ "see invisibility (lvl 2)")* or *[truesight](../truesight/)* sees a luminous, intangible orb about the size of your fist.
+A creature that can see the sensor (such as a creature benefiting from *[see invisibility](see-invisibility "see invisibility (lvl 2)")* or *[truesight](truesight)* sees a luminous, intangible orb about the size of your fist.

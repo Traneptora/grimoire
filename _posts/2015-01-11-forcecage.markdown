@@ -26,4 +26,4 @@ When you cast the spell, any creature that is completely inside the cage's area 
 
 A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by _[dispel magic](../dispel-magic/ "dispel magic (lvl 3)")_.
+This spell can't be dispelled by _[dispel magic](dispel-magic "dispel magic (lvl 3)")_.

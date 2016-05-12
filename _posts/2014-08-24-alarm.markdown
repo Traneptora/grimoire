@@ -8,7 +8,7 @@ tags: [ranger, wizard, level1]
 
 **1st-level abjuration (ritual)**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 minute
 
 **Range**: 30 feet
 

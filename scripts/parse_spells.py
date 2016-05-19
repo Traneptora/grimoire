@@ -1,6 +1,6 @@
 import glob, ast, re
 
-SPELLS_DIRECTORY = "../_posts/*.markdown"
+SPELLS_DIRECTORY = "../_posts/*.m*"
 IGNORE_FILE = "spells.ignore"
 
 def get_spell_list(ignore_files):
@@ -11,7 +11,7 @@ def get_spell_list(ignore_files):
 def parse_spell_file(spell_file):
     lines = spell_file.split('\n')
 
-    print lines[2][9:-1]
+    print lines[2][6:].strip(' ').strip('"')
     print
     
     s = []
@@ -96,7 +96,7 @@ def parse_spell_file(spell_file):
     for line in lines[18:]:
         if ("level or higher" in line or
             "spell's damage increases" in line or
-            "higher-level" in line):
+            "**At Higher Levels.**" in line):
             at_higher_levels = "at_higher_levels: at_higher_levels"
             text = line.replace("**At Higher Levels.** ", "")
             at_higher_levels_text = "at_higher_levels_text: {}".format(repr(text))

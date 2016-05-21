@@ -102,7 +102,8 @@ def parse_spell_file(spell_file):
             at_higher_levels_text = "at_higher_levels_text: {}".format(repr(text))
         else:
             desc.append(line)
-    formatted_desc = re.sub(r"^'", '"', re.sub(r"'$", '"', repr('\n'.join(desc).strip('\n'))))
+    formatted_desc = repr('\n'.join(desc).strip('\n')).replace(r"\'", "'")
+    formatted_desc = re.sub(r"^'", '"', re.sub(r"'$", '"', formatted_desc))
     s.append('description: {}'.format(formatted_desc))
     s.append(at_higher_levels)
     s.append(at_higher_levels_text)
@@ -113,6 +114,8 @@ def parse_spell_file(spell_file):
         s.append("sourcebook: dmg")
     elif "EE" in lines[4]:
         s.append("sourcebook: ee")
+    elif "SCAG" in lines[4]:
+        s.append("sourcebook: scag")
     else:
         raise Exception("Unknown sourcebook: {}".format(lines[4]))
     s.append("page: '{}'".format(lines[4].split('.')[1]))

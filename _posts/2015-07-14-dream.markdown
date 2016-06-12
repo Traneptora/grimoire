@@ -3,7 +3,7 @@ layout: post
 title: "Dream"
 date: 2015-07-14
 source: PHB.236
-tags: [bard, warlock, wizard, level5]
+tags: [bard, druid (grassland), warlock, wizard, level5]
 ---
 
 **5th-level illusion**

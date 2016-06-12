@@ -3,7 +3,7 @@ layout: post
 title: "Passwall"
 date: 2015-07-30
 source: PHB.264
-tags: [wizard, level5]
+tags: [druid (mountain), wizard, level5]
 ---
 
 **5th-level transmutation**

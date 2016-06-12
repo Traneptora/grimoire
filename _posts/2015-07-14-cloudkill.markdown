@@ -3,7 +3,7 @@ layout: post
 title: "Cloudkill"
 date: 2015-07-14
 source: PHB.222
-tags: [sorcerer, wizard, level5]
+tags: [druid (underdark), sorcerer, wizard, level5]
 ---
 
 **5th-level conjuration**

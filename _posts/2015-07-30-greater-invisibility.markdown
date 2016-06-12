@@ -3,7 +3,7 @@ layout: post
 title: "Greater Invisibility"
 date: 2015-07-30
 source: PHB.246
-tags: [sorcerer, wizard, bard, level4]
+tags: [bard, druid (underdark), sorcerer, wizard, level4]
 ---
 
 **4th-level illusion**

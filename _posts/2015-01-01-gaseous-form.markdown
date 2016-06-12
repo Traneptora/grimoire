@@ -3,7 +3,7 @@ layout: post
 title:  "Gaseous Form"
 date:   2015-01-01
 source: PHB.244
-tags: [sorcerer, wizard, warlock, level3]
+tags: [druid (underdark), sorcerer, wizard, warlock, level3]
 ---
 
 **3rd-level transmutation**

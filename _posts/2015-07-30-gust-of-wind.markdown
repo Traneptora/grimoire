@@ -3,7 +3,7 @@ layout: post
 title: "Gust of Wind"
 date: 2015-07-30
 source: PHB.248
-tags: [sorcerer, wizard, druid, level2]
+tags: [cleric (tempest), druid, sorcerer, wizard, level2]
 ---
 
 **2nd-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Water Walk"
 date: 2015-07-30
 source: PHB.287
-tags: [cleric, druid, druid (coast), ranger, sorcerer, level3]
+tags: [cleric, druid, ranger, sorcerer, level3]
 ---
 
 **3rd-level transmutation (ritual)**

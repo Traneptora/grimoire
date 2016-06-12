@@ -3,7 +3,7 @@ layout: post
 title:  "Cure Wounds"
 date:   2014-08-24
 source: PHB.230
-tags: [bard, cleric, cleric (life), druid, paladin, ranger, level1]
+tags: [bard, cleric, druid, paladin, ranger, level1]
 ---
 
 **1st-level evocation**

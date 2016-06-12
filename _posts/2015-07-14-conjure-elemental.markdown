@@ -3,7 +3,7 @@ layout: post
 title: "Conjure Elemental"
 date: 2015-07-14
 source: PHB.225
-tags: [druid, druid (coast), wizard, level5]
+tags: [druid, wizard, level5]
 ---
 
 **5th-level conjuration**

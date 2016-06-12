@@ -3,7 +3,7 @@ layout: post
 title:  "Spiritual Weapon"
 date:   2014-12-31
 source: PHB.278
-tags: [cleric, cleric (life), cleric (war), level2]
+tags: [cleric, level2]
 ---
 
 **2nd-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Stone"
 date: 2015-07-30
 source: PHB.287
-tags: [druid, druid (desert), sorcerer, wizard, level5]
+tags: [druid, sorcerer, wizard, level5]
 ---
 
 **5th-level evocation**

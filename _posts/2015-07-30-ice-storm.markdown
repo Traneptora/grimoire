@@ -3,7 +3,7 @@ layout: post
 title: "Ice Storm"
 date: 2015-07-30
 source: PHB.252
-tags: [cleric (tempest), druid, druid (arctic), sorcerer, wizard, level4]
+tags: [cleric (tempest), druid, sorcerer, wizard, level4]
 ---
 
 **4th-level evocation**

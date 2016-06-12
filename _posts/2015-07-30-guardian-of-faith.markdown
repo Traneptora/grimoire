@@ -3,7 +3,7 @@ layout: post
 title: "Guardian of Faith"
 date: 2015-07-30
 source: PHB.246
-tags: [cleric, level4]
+tags: [cleric, cleric (life), level4]
 ---
 
 **4th-level conjuration**

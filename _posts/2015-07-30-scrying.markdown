@@ -3,7 +3,7 @@ layout: post
 title: "Scrying"
 date: 2015-07-30
 source: PHB.273
-tags: [bard, cleric, cleric (knowledge), druid, warlock, wizard, level5]
+tags: [bard, cleric, cleric (knowledge), cleric (light), druid, warlock, wizard, level5]
 ---
 
 **5th-level divination**

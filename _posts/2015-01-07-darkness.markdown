@@ -3,7 +3,7 @@ layout: post
 title:  "Darkness"
 date:   2015-01-07
 source: PHB.230
-tags: [drow, sorcerer, warlock, wizard, level2]
+tags: [elf (drow), tiefling, sorcerer, warlock, wizard, level2]
 ---
 
 **2nd-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Hellish Rebuke"
 date:   2014-08-24
 source: PHB.250
-tags: [warlock, level1]
+tags: [tiefling, warlock, level1]
 ---
 
 **1st-level evocation**

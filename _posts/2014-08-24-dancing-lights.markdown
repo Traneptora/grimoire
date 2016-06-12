@@ -3,7 +3,7 @@ layout: post
 title:  "Dancing Lights"
 date:   2014-08-24
 source: PHB.230
-tags: [drow, bard, sorcerer, wizard, cantrip]
+tags: [elf (drow), bard, sorcerer, wizard, cantrip]
 ---
 
 **Evocation cantrip**

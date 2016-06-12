@@ -3,7 +3,7 @@ layout: post
 title:  "Silence"
 date:   2014-12-31
 source: PHB.275
-tags: [bard, cleric, druid (desert), ranger, level2]
+tags: [bard, cleric, druid (desert), monk (shadow), ranger, level2]
 ---
 
 **2nd-level illusion (ritual)**

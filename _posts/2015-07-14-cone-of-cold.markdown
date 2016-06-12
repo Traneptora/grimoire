@@ -3,7 +3,7 @@ layout: post
 title: "Cone of Cold"
 date: 2015-07-14
 source: PHB.224
-tags: [druid (arctic), sorcerer, wizard, level5]
+tags: [druid (arctic), monk (four elements), sorcerer, wizard, level5]
 ---
 
 **5th-level evocation**

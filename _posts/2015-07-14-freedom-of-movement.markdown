@@ -3,7 +3,7 @@ layout: post
 title: "Freedom of Movement"
 date: 2015-07-14
 source: PHB.244
-tags: [bard, cleric, cleric (war), druid, ranger, level4]
+tags: [bard, cleric, cleric (war), druid, druid (arctic), druid (coast), druid (forest), ranger, level4]
 ---
 
 **4th-level abjuration**

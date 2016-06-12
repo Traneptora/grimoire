@@ -3,7 +3,7 @@ layout: post
 title: "Spider Climb"
 date: 2015-07-30
 source: PHB.277
-tags: [sorcerer, warlock, wizard, level2]
+tags: [druid (forest), sorcerer, warlock, wizard, level2]
 ---
 
 **2nd-level transmutation**

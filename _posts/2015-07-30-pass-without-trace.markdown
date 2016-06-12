@@ -3,7 +3,7 @@ layout: post
 title: "Pass Without Trace"
 date: 2015-07-30
 source: PHB.264
-tags: [druid, ranger, level2]
+tags: [cleric (trickery), druid, ranger, level2]
 ---
 
 **2nd-level abjuration**

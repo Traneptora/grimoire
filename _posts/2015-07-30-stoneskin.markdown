@@ -3,7 +3,7 @@ layout: post
 title: "Stoneskin"
 date: 2015-07-30
 source: PHB.278
-tags: [druid, sorcerer, ranger, wizard, level4]
+tags: [cleric (war), druid, sorcerer, ranger, wizard, level4]
 ---
 
 **4th-level abjuration**

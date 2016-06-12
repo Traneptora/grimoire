@@ -3,7 +3,7 @@ layout: post
 title: "Flame Strike"
 date: 2015-07-14
 source: PHB.242
-tags: [cleric, cleric (light), level5]
+tags: [cleric, cleric (light), cleric (war), level5]
 ---
 
 **5th-level evocation**

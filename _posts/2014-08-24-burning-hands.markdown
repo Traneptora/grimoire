@@ -3,7 +3,7 @@ layout: post
 title:  "Burning Hands"
 date:   2014-08-24
 source: PHB.220
-tags: [cleric (light), monk (four elements), sorcerer, wizard, level1]
+tags: [cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level1]
 ---
 
 **1st-level evocation**

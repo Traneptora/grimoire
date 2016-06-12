@@ -3,7 +3,7 @@ layout: post
 title: "Telekinesis"
 date: 2015-07-30
 source: PHB.280
-tags: [sorcerer, wizard, level5]
+tags: [sorcerer, warlock (great old one), wizard, level5]
 ---
 
 **5th-level transmutation**

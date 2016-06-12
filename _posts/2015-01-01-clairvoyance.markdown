@@ -3,7 +3,7 @@ layout: post
 title:  "Clairvoyance"
 date:   2015-01-01
 source: PHB.222
-tags: [bard, cleric, sorcerer, wizard, level3]
+tags: [bard, cleric, sorcerer, warlock (great old one), wizard, level3]
 ---
 
 **3rd-level divination**

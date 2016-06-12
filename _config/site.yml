@@ -1,8 +1,0 @@
-profiles:
-  production:
-    base_url: http://thebombzen.github.io/grimoire
-    deploy:
-      host: github_pages
-      # use gh-branch for repositories other than thebombzen.github.io
-      branch: gh-pages
-

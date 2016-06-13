@@ -3,7 +3,7 @@ layout: post
 title:  "Inflict Wounds"
 date:   2014-08-24
 source: PHB.253
-tags: [cleric, level1]
+tags: [cleric, paladin (oathbreaker), level1]
 ---
 
 **1st-level necromancy**

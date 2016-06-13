@@ -10,7 +10,7 @@ tags: [paladin, level2]
 
 **Casting Time**: 1 action
 
-**Range**: self
+**Range**: Self
 
 **Components**: V
 

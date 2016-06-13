@@ -14,3 +14,5 @@
   tag: warlock
 - name: Wizard
   tag: wizard
+- name: Ritual
+  tag: ritual

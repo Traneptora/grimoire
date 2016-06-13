@@ -3,7 +3,7 @@ layout: post
 title: "Misty Step"
 date: 2015-07-30
 source: PHB.260
-tags: [druid (coast), paladin (the ancients), paladin (vengeance), sorcerer, warlock, wizard, level2]
+tags: [druid (coast), paladin (ancients), paladin (vengeance), sorcerer, warlock, wizard, level2]
 ---
 
 **2nd-level conjuration**

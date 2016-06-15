@@ -6,7 +6,7 @@ source: PHB.258
 tags: [bard, cleric, druid, level5]
 ---
 
-**5th-level conjuration**
+**5th-level evocation**
 
 **Casting Time**: 1 action
 

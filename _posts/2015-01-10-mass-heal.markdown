@@ -6,7 +6,7 @@ source: PHB.258
 tags:   [cleric, level9]
 ---
 
-**9th-level conjuration**
+**9th-level evocation**
 
 **Casting Time**: 1 action
 

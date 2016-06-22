@@ -3,7 +3,7 @@ layout: post
 title: "Conjure Volley"
 date: 2015-07-14
 source: PHB.226
-tags: [ranger, level5]
+tags: [ranger, level5, conjuration]
 ---
 
 **5th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title: "Sunbeam"
 date: 2015-07-30
 source: PHB.279
-tags: [druid, sorcerer, wizard, level6]
+tags: [druid, sorcerer, wizard, level6, evocation]
 ---
 
 **6th-level evocation**

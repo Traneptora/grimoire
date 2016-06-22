@@ -19,6 +19,12 @@
     		else {
     			document.getElementById("menu").className += " show";
     		}
+    		if ( document.getElementById("menu2").className.match(/(?:^|\s)show(?!\S)/) ) {
+    			document.getElementById("menu2").className = document.getElementById("menu2").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
+    		}
+    		else {
+    			document.getElementById("menu2").className += " show";
+    		}
   		}
 
   		window.onload = function(){

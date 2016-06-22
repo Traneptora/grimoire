@@ -3,7 +3,7 @@ layout: post
 title:  "Find Familiar"
 date:   2014-08-24
 source: PHB.240
-tags: [wizard, level1, ritual]
+tags: [wizard, level1, ritual, conjuration]
 ---
 
 **1st-level conjuration (ritual)**

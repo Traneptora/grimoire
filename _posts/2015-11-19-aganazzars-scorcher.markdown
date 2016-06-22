@@ -3,7 +3,7 @@ layout: post
 title:  "Aganazzar's Scorcher"
 date:   2015-11-19
 source: EE.15
-tags: [sorcerer, wizard, level2]
+tags: [sorcerer, wizard, level2, evocation]
 ---
 
 **2nd-level evocation**

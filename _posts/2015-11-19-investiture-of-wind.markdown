@@ -3,7 +3,7 @@ layout: post
 title:  "Investiture of Wind"
 date:   2015-11-19
 source: EE.20
-tags: [druid, sorcerer, warlock, wizard, level6]
+tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 ---
 
 **6th-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Control Winds"
 date:   2015-11-19
 source: EE.16
-tags: [druid, sorcerer, wizard, level5]
+tags: [druid, sorcerer, wizard, level5, transmutation]
 ---
 
 **5th-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title: "Mordenkainen's Faithful Hound"
 date: 2015-07-30
 source: PHB.261
-tags: [wizard, level4]
+tags: [wizard, level4, conjuration]
 ---
 
 **4th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Cordon Of Arrows"
 date:   2015-01-07
 source: PHB.228
-tags: [ranger, level2]
+tags: [ranger, level2, transmutation]
 ---
 
 **2nd-level transmutation**

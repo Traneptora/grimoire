@@ -3,7 +3,7 @@ layout: post
 title:  "Compulsion"
 date:   2015-01-01
 source: PHB.224
-tags: [bard, level4]
+tags: [bard, level4, enchantment]
 ---
 
 **4th-level enchantment**

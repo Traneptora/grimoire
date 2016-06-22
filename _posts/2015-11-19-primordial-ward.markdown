@@ -3,7 +3,7 @@ layout: post
 title:  "Primordial Ward"
 date:   2015-11-19
 source: EE.21
-tags: [druid, level6]
+tags: [druid, level6, abjuration]
 ---
 
 **6th-level abjuration**

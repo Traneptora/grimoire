@@ -3,7 +3,7 @@ layout: post
 title:  "Lesser Restoration"
 date:   2014-12-31
 source: PHB.255
-tags: [bard, cleric, druid, paladin, ranger, level2]
+tags: [bard, cleric, druid, paladin, ranger, level2, abjuration]
 ---
 
 **2nd-level abjuration**

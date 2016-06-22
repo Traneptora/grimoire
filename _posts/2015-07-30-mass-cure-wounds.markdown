@@ -3,7 +3,7 @@ layout: post
 title: "Mass Cure Wounds"
 date: 2015-07-30
 source: PHB.258
-tags: [bard, cleric, druid, level5]
+tags: [bard, cleric, druid, level5, evocation]
 ---
 
 **5th-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Otto's Irresistible Dance"
 date: 2015-07-30
 source: PHB.264
-tags: [bard, wizard, level6]
+tags: [bard, wizard, level6, enchantment]
 ---
 
 **6th-level enchantment**

@@ -32,7 +32,7 @@ function doesTagListMatchTag(tag, tagList){
 	var tagListArr = tagList.split(',');
 	var invert = tag.startsWith('!');
 	if (invert){
-		tag = tag.substring(1);
+		tag = tag.substring(1).trim();
 	}
 	for (var j = 0; j < tagListArr.length; j++){
 		if (tagListArr[j].trim().toLowerCase() === tag.toLowerCase()){
@@ -65,12 +65,13 @@ function doesTagListMatchTagSearch(tagSearch, tagList){
 
 function runTagSearch(){
 	var lis = document.getElementsByTagName("li");
-  	var query = getTagSearchFromURL(window.location.search);
+  	var query = document.getElementById("tagSearchBar").value;
+  	var invalid = !query || query === "";
   	for (var i = 0; i < lis.length; i++){
   		var li = lis[i];
   		if (li.dataset && li.dataset.tags){
   			var tagList = li.dataset.tags;
-	  		if (!doesTagListMatchTagSearch(query, tagList)){
+	  		if (!invalid && !doesTagListMatchTagSearch(query, tagList)){
 	  			li.classList.add("hide");
 	  		} else {
 	  			li.classList.remove("hide");

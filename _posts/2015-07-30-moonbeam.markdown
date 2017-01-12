@@ -22,6 +22,6 @@ When a creature enters the spell's area for the first time on a turn or starts i
 
 A shapechanger makes its saving throw with disadvantage. If it fails, it also instantly reverts to its original form and can't assume a different form until it leaves the spells light.
 
-On each of your turns after you cast this spell use can use an action to move the beam 60 feet in any direction.
+On each of your turns after you cast this spell use can use an action to move the beam up to 60 feet in any direction.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.

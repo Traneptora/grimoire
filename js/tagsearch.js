@@ -24,7 +24,12 @@ function parseURLParams(url) {
 }
 
 function getTagSearchFromURL(url){
-	return parseURLParams(url).tagSearch[0];
+	var urlp  = parseURLParams(url);
+	if (urlp && urlp.tagSearch && urlp.tagSearch.length > 0) {
+		return urlp.tagSearch[0];
+	} else {
+		return undefined;
+	}
 }
 
 function doesTagListMatchTag(tag, tagList){
@@ -81,8 +86,14 @@ function runTagSearch(){
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
-	document.getElementById("tagSearchBar").value = getTagSearchFromURL(window.location.search);
+	var tsb = document.getElementById("tagSearchBar");
+	var tsu  = getTagSearchFromURL(window.location.search);
+	if (tsu) {
+		tsb.value = tsu;
+	}
+	tsb.addEventListener("change", runTagSearch);
+	tsb.addEventListener("keydown", runTagSearch);
+	tsb.addEventListener("input", runTagSearch);
 	runTagSearch();
 });
-
 

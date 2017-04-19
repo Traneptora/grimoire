@@ -8,7 +8,7 @@ tags: [paladin, level2, evocation]
 
 **2nd-level evocation**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
 **Range**: Self
 

@@ -2,7 +2,7 @@
 
 Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class and level.
 
-See the latest compiled build here: [http://thebombzen.github.io/grimoire/](http://thebombzen.github.io/grimoire/)
+See the latest compiled build here: [https://thebombzen.com/grimoire/](https://thebombzen.com/grimoire/)
 
 Grimoire is forked from [ephe/grimoire](http://github.com/ephe/grimoire/), which has since been taken down (à la DMCA).
 

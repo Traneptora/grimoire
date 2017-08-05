@@ -14,7 +14,7 @@ tags: [cleric (trickery), druid (coast), sorcerer, warlock, wizard, level2, illu
 
 **Components**: V, S
 
-**Duration**: 1 Minute
+**Duration**: 1 minute
 
 Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use your action to dismiss the illusory duplicates.
 

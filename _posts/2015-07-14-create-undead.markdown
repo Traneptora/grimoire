@@ -12,7 +12,7 @@ tags: [cleric, warlock, wizard, level6, necromancy]
 
 **Range**: 10 feet
 
-**Components**: V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150 gp black onyx stone for each corpse)
+**Components**: V, S, M (one clay pot filled with grave dirt, one clay pot filled with brackish water, and one 150gp black onyx stone for each corpse)
 
 **Duration**: Instantaneous
 

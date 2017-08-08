@@ -12,7 +12,7 @@ tags: [sorcerer, wizard, level6, evocation]
 
 **Range**: 150 feet
 
-**Components**: V, S, M (a bit of fur; a piece of amber, glass or a crystal rod; and three silver pins)
+**Components**: V, S, M (a bit of fur, a piece of amber, glass or a crystal rod, and three silver pins)
 
 **Duration**: Instantaneous
 

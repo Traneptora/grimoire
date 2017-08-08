@@ -12,7 +12,7 @@ tags:   [bard, wizard, level7, evocation]
 
 **Range**: 60 feet
 
-**Components**: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp)
+**Components**: V, S, M (a miniature platinum sword with a grip and pommel of copper and zinc, worth 250gp)
 
 **Duration**: Concentration, up to 1 minute
 

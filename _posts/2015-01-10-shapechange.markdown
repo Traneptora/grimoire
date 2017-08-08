@@ -12,7 +12,7 @@ tags:   [druid, wizard, level9, transmutation]
 
 **Range**: Self
 
-**Components**: V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)
+**Components**: V, S, M (a jade circlet worth at least 1,500gp, which you must place on your head before you cast the spell)
 
 **Duration**: Concentration, up to 1 hour
 

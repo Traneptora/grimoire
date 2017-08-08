@@ -12,7 +12,7 @@ tags: [druid, level5, transmutation]
 
 **Range**: Touch
 
-**Components**: V, S, M (rare oils and unguents worth at least 1,000 gp, which the spell consumes)
+**Components**: V, S, M (rare oils and unguents worth at least 1,000gp, which the spell consumes)
 
 **Duration**: Instantaneous
 

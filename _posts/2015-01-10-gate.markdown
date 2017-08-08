@@ -12,7 +12,7 @@ tags:   [cleric, sorcerer, wizard, level9, conjuration]
 
 **Range**: 60 feet
 
-**Components**: V, S, M (a diamond worth at least 5,000 gp)
+**Components**: V, S, M (a diamond worth at least 5,000gp)
 
 **Duration**: Concentration, up to 1 minute
 

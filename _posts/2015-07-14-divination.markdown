@@ -12,7 +12,7 @@ tags: [cleric, druid (forest), druid (grassland), level4, ritual, divination]
 
 **Range**: Self
 
-**Components**: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes)
+**Components**: V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25gp, which the spell consumes)
 
 **Duration**: Instantaneous
 

@@ -12,7 +12,7 @@ tags: [cleric (war), paladin, level3, evocation]
 
 **Range**: Self
 
-**Components**: V 
+**Components**: V
 
 **Duration**: Concentration, up to 1 minute
 

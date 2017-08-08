@@ -12,7 +12,7 @@ tags:   [warlock, wizard, level9, abjuration]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)
+**Components**: V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500gp per Hit Die of the target)
 
 **Duration**: Until dispelled
 
@@ -40,6 +40,6 @@ The special component for this version of the spell is a large, transparent gems
 
 **Ending the Spell.** During the casting of the spell, in any of its versions, you can specify a condition that will cause the spell to end and release the target. The condition can be as specific or as elaborate as you choose, but the DM must agree that the condition is reasonable and has a likelihood of coming to pass. The conditions can be based on a creature's name, identity, or deity but otherwise must be based on observable actions or qualities and not based on intangibles such as level, class, or hit points.
 
-A _dispel magic_ spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
+A *dispel magic* spell can end the spell only if it is cast as a 9th-level spell, targeting either the prison or the special component used to create it.
 
 You can use a particular special component to create only one prison at a time. If you cast the spell again using the same component, the target of the first casting is immediately freed from its binding.

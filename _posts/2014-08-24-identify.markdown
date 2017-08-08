@@ -12,7 +12,7 @@ tags: [bard, cleric (knowledge), wizard, level1, ritual, divination]
 
 **Range**: Touch
 
-**Components**: V, S, M (a pearl worth at least 100 gp and an owl feather)
+**Components**: V, S, M (a pearl worth at least 100gp and an owl feather)
 
 **Duration**: Instantaneous
 

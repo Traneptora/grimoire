@@ -12,7 +12,7 @@ tags: [bard, wizard, level6, illusion]
 
 **Range**: 120 feet
 
-**Components**: V, S, M (a bit of fleece and jade dust worth at least 25 gp)
+**Components**: V, S, M (a bit of fleece and jade dust worth at least 25gp)
 
 **Duration**: Until dispelled
 

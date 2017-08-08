@@ -12,7 +12,7 @@ tags: [cleric, level6, ritual, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1000 gp)
+**Components**: V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000gp)
 
 **Duration**: 1 day
 

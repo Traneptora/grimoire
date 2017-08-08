@@ -12,7 +12,7 @@ tags:   [bard, wizard, level7, illusion]
 
 **Range**: 500 miles
 
-**Components**: V, S, M (a small replica of you made from materials worth at least 5 gp)
+**Components**: V, S, M (a small replica of you made from materials worth at least 5gp)
 
 **Duration**: Concentration, up to 1 day
 

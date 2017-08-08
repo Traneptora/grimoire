@@ -12,7 +12,7 @@ tags: [bard, cleric, warlock (undying), wizard, level5, divination]
 
 **Range**: Self
 
-**Components**: V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each)
+**Components**: V, S, M (incense worth at least 250gp, which the spell consumes, and four ivory strips worth at least 50gp each)
 
 **Duration**: Instantaneous
 

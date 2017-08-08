@@ -12,7 +12,7 @@ tags: [bard, warlock, wizard, level7, evocation]
 
 **Range**: 100 feet
 
-**Components**: V, S, M (ruby dust worth 1,500 gp)
+**Components**: V, S, M (ruby dust worth 1,500gp)
 
 **Duration**: 1 hour
 
@@ -24,6 +24,6 @@ A prison in the shape of a box can be up to 10 feet on a side, creating a solid 
 
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside the area, are pushed away from the center of the area until they are completely outside the area.
 
-A creature inside the cage can't leave it by nonmagical means. If a creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+A creature inside the cage can't leave it by non-magical means. If a creature tries to use teleportation or interplanar travel to leave the cage, it must first make a Charisma saving throw. On a success, the creature can use that magic to exit the cage. On a failure, the creature can't exit the cage and wastes the use of the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 
-This spell can't be dispelled by _[Dispel Magic](dispel-magic)_.
+This spell can't be dispelled by *[Dispel Magic](dispel-magic)*.

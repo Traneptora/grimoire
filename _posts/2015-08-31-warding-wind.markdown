@@ -16,7 +16,7 @@ tags: [bard, druid, sorcerer, level2, evocation]
 
 **Duration**: Concentration, up to 10 minutes
 
-A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell’s duration.
+A strong wind (20 miles per hour) blows around you in a 10-foot radius and moves with you, remaining centered on you. The wind lasts for the spell's duration.
 
 The wind has the following effects:
 

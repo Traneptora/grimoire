@@ -12,7 +12,7 @@ tags:   [bard, wizard, cleric, level7, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)
+**Components**: V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000gp, which the spell consumes)
 
 **Duration**: Until dispelled or triggered
 

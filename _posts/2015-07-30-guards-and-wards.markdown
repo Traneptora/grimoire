@@ -12,7 +12,7 @@ tags: [bard, wizard, level6, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp)
+**Components**: V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10gp)
 
 **Duration**: 24 hours
 
@@ -24,7 +24,7 @@ When you cast this spell, you can specify individuals that are unaffected by any
 
 **Corridors.** Fog fills all the warded corridors, making them heavily obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you will believe it is going in the opposite direction from the one it chooses.
 
-**Doors.** All doors in the warded area are magically locked, as if sealed by an *[arcane lock](arcane-lock/ "arcane lock (lvl 2)")* spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the *[minor illusion](minor-illusion "minor illusion (cantrip)")* spell) to make them appear as plain sections of wall.
+**Doors.** All doors in the warded area are magically locked, as if sealed by an *[arcane lock](arcane-lock "arcane lock (lvl 2)")* spell. In addition, you can cover up to ten doors with an illusion (equivalent to the illusory object function of the *[minor illusion](minor-illusion "minor illusion (cantrip)")* spell) to make them appear as plain sections of wall.
 
 **Stairs.** Webs fill all stairs in the warded area from top to bottom, as the *[web](web "web (lvl 2)")* spell. These strands regrow in 10 minutes if they are burned or torn away while guards and wars lasts.
 

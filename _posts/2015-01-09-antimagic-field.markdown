@@ -20,18 +20,18 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 
 Spells and other magical effects, except those created by an artifact or a deity, are suppressed in the sphere and can't protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
 
-**Targeted Effects.** Spells and other magical effects, such as _[Magic Missile](magic-missile)_ and _[Charm Person](charm-person)_, that target a creature or an object in the sphere have no effect on that target.
+**Targeted Effects.** Spells and other magical effects, such as *[Magic Missile](magic-missile)* and *[Charm Person](charm-person)*, that target a creature or an object in the sphere have no effect on that target.
 
-**Areas of Magic.** The area of another spell or magical effect, such as _[Fireball](fireball)_, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a _[Wall of Fire](wall-of-fire)_ are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
+**Areas of Magic.** The area of another spell or magical effect, such as *[Fireball](fireball)*, can't extend into the sphere. If the sphere overlaps an area of magic, the part of the area that is covered by the sphere is suppressed. For example, the flames created by a *[Wall of Fire](wall-of-fire)* are suppressed within the sphere, creating a gap in the wall if the overlap is large enough.
 
 **Spells.** Any active spell or other magical effect on a creature or an object in the sphere is suppressed while the creature or object is in it.
 
-**Magic Items.** The properties and powers of magic items are suppressed in the sphere. For example, a _+1 longsword_ in the sphere functions as a nonmagical longsword.
+**Magic Items.** The properties and powers of magic items are suppressed in the sphere. For example, a *+1 longsword* in the sphere functions as a non-magical longsword.
 
 A magic weapon's properties and powers are suppressed if it is used against a target in the sphere or wielded by an attacker in the sphere. If a magic weapon or a piece of magic ammunition fully leaves the sphere (for example, if you fire a magic arrow or throw a magic spear at a target outside the sphere), the magic of the item ceases to be suppressed as soon as it exits.
 
-**Magical Travel.** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such magical travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the _[Rope Trick](rope-trick)_ spell, temporarily closes while in the sphere.
+**Magical Travel.** Teleportation and planar travel fail to work in the sphere, whether the sphere is the destination or the departure point for such magical travel. A portal to another location, world, or plane of existence, as well as an opening to an extradimensional space such as that created by the *[Rope Trick](rope-trick)* spell, temporarily closes while in the sphere.
 
 **Creatures and Objects.** A creature or object summoned or created by magic temporarily winks out of existence in the sphere. Such a creature instantly reappears once the space the creature occupied is no longer within the sphere.
 
-**Dispel Magic.** Spells and magical effects such as _[Dispel Magic](dispel-magic)_ have no effect on the sphere. Likewise, the spheres created by different _[Antimagic Field](antimagic-field)_ spells don't nullify each other.
+**Dispel Magic.** Spells and magical effects such as *[Dispel Magic](dispel-magic)* have no effect on the sphere. Likewise, the spheres created by different *[Antimagic Field](antimagic-field)* spells don't nullify each other.

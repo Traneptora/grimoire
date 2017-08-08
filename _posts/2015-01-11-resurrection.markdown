@@ -12,7 +12,7 @@ tags:   [bard, cleric, druid, level7, necromancy]
 
 **Range**: Touch
 
-**Components**: V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)
+**Components**: V, S, M (a diamond worth at least 1,000gp, which the spell consumes)
 
 **Duration**: Instantaneous
 

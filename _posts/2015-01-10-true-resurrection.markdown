@@ -12,7 +12,7 @@ tags:   [cleric, druid, level9, necromancy]
 
 **Range**: Touch
 
-**Components**: V, S, M (a sprinkle of holy water and diamonds worth at least 25,000 gp, which the spell consumes)
+**Components**: V, S, M (a sprinkle of holy water and diamonds worth at least 25,000gp, which the spell consumes)
 
 **Duration**: Instantaneous
 

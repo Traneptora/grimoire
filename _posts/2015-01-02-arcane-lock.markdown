@@ -12,7 +12,7 @@ tags: [wizard, level2, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M (gold dust worth at least 25 gp, which the spell consumes)
+**Components**: V, S, M (gold dust worth at least 25gp, which the spell consumes)
 
 **Duration**: Until dispelled
 

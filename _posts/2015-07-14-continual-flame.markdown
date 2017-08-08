@@ -12,7 +12,7 @@ tags: [cleric, wizard, level2, evocation]
 
 **Range**: Self
 
-**Components**: V, S, M (ruby dust worth 50 gp, which the spell consumes)
+**Components**: V, S, M (ruby dust worth 50gp, which the spell consumes)
 
 **Duration**: Until dispelled
 

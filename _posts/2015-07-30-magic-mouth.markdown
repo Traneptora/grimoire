@@ -12,7 +12,7 @@ tags: [bard, wizard, level2, ritual, illusion]
 
 **Range**: 30 feet
 
-**Components**: V, S, M (a small bit of honeycomb and jade dust worth at least 10 gp, which the spell consumes)
+**Components**: V, S, M (a small bit of honeycomb and jade dust worth at least 10gp, which the spell consumes)
 
 **Duration**: Until dispelled
 

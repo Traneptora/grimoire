@@ -12,7 +12,7 @@ tags:   [wizard, level7, transmutation]
 
 **Range**: Touch
 
-**Components**: V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000 gp, which the spell consumes)
+**Components**: V, S, M (a powder of diamond, emerald, rube and sapphire dust worth at least 5,000gp, which the spell consumes)
 
 **Duration**: Until dispelled
 

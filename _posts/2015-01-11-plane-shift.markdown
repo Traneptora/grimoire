@@ -12,7 +12,7 @@ tags:   [cleric, druid, sorcerer, warlock, wizard, level7, conjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M (a forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
+**Components**: V, S, M (a forked, metal rod worth at least 250gp, attuned to a particular plane of existence)
 
 **Duration**: Instantaneous
 

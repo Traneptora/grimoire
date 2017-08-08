@@ -12,7 +12,7 @@ tags:   [druid, wizard, level8, enchantment]
 
 **Range**: 60 feet
 
-**Components**: V, S, M (either a hump of alum soaked in vinegar for the _antipathy_ effect or a drop of honey for the _sympathy_ effect)
+**Components**: V, S, M (either a hump of alum soaked in vinegar for the *antipathy* effect or a drop of honey for the *sympathy* effect)
 
 **Duration**: 10 days
 

@@ -12,7 +12,7 @@ tags: [wizard, level6, necromancy]
 
 **Range**: Self
 
-**Components**: V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp)
+**Components**: V, S, M (a gem, crystal, reliquary, or some other ornamental container worth at least 500gp)
 
 **Duration**: Until dispelled
 

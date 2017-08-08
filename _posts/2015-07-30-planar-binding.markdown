@@ -12,7 +12,7 @@ tags: [bard, cleric, druid, wizard, level5, abjuration]
 
 **Range**: 60 feet
 
-**Components**: V, S, M (a jewel worth at least 1,000 gp, which the spell consumes)
+**Components**: V, S, M (a jewel worth at least 1,000gp, which the spell consumes)
 
 **Duration**: 24 hours
 

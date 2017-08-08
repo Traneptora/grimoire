@@ -12,7 +12,7 @@ tags: [bard, cleric, sorcerer, warlock, wizard, level6, divination]
 
 **Range**: Touch
 
-**Components**: V, S, M (an ointment for the eyes that costs 25 gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell)
+**Components**: V, S, M (an ointment for the eyes that costs 25gp, is made from mushroom powder, saffron, and fat, and is consumed by the spell)
 
 **Duration**: 1 hour
 

@@ -3,10 +3,10 @@ layout: post
 title:  "Enemies Abound"
 date:   2017-11-13
 source: Xanathar.155
-tags: [bard, sorcerer, warlock, wizard, level2, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level3, enchantment]
 ---
 
-**2nd-level Enchantment**
+**3rd-level Enchantment**
 
 **Casting Time**: 1 action
 

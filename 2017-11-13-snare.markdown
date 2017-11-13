@@ -3,7 +3,7 @@ layout: post
 title:  "Snare"
 date:   2017-11-13
 source: Xanathar.165
-tags: [ Druid, Ranger, wizard, level1, abjuration]
+tags: [ druid, ranger, wizard, level1, abjuration]
 ---
 
 **1st-level Abjuration**

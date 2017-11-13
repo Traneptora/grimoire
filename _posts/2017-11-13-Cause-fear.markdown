@@ -6,7 +6,7 @@ source: Xanathar.151
 tags: [warlock, wizard, level1, necromancy]
 ---
 
-**Necromancy cantrip**
+**1st-level necromancy**
 
 **Casting Time**: 1 action
 

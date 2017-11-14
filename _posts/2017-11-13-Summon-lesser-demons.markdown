@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summon Lesser Demon"
+title:  "Summon Lesser Demons"
 date:   2017-11-13
 source: Xanathar.167
 tags: [warlock, wizard, level3, conjuration]
@@ -31,5 +31,5 @@ The demons are hostile to all creatures, including you. Roll initiative for the 
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can’t cross the circle or harm it, and they can’t target anyone within it. Using the material component in this manner consumes it when the spell ends. 
 
 
-**At High Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
+**At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 

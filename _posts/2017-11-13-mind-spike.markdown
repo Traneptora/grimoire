@@ -6,7 +6,7 @@ source: Xanathar.162
 tags: [sorcerer, warlock, wizard, level2, divination]
 ---
 
-**2nd-level Divination**
+**2nd-level divination**
 
 **Casting Time**: 1 action
 

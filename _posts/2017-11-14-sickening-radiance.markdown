@@ -6,7 +6,7 @@ source: Xanathar.164
 tags: [sorcerer, warlock, wizard, level4, evocation]
 ---
 
-**4th-level Evocation**
+**4th-level evocation**
 
 **Casting Time**: 1 action
 

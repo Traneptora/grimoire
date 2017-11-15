@@ -6,7 +6,7 @@ source: Xanathar.151
 tags: [bard, druid, sorcerer, warlock, wizard, level4, enchantment]
 ---
 
-**4th-level Enchantment**
+**4th-level enchantment**
 
 **Casting Time**: 1 action
 

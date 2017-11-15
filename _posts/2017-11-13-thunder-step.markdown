@@ -6,7 +6,7 @@ source: Xanathar.168
 tags: [sorcerer, warlock, wizard, level3, conjuration]
 ---
 
-**3rd-level Conjuration**
+**3rd-level conjuration**
 
 **Casting Time**: 1 action
 

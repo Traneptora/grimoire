@@ -6,7 +6,7 @@ source: Xanathar.166
 tags: [warlock, wizard, level4, conjuration]
 ---
 
-**4th-level Conjuration**
+**4th-level conjuration**
 
 **Casting Time**: 1 action
 

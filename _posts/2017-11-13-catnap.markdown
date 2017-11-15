@@ -6,7 +6,7 @@ source: Xanathar.151
 tags: [bard, sorcerer, wizard, level3, enchantment]
 ---
 
-**3rd-level Enchantment**
+**3rd-level enchantment**
 
 **Casting Time**: 1 action
 

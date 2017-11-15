@@ -6,7 +6,7 @@ source: Xanathar.167
 tags: [warlock, wizard, level3, conjuration]
 ---
 
-**3rd-level Conjuration**
+**3rd-level conjuration**
 
 **Casting Time**: 1 action
 
@@ -32,4 +32,3 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
-

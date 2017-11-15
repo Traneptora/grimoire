@@ -6,7 +6,7 @@ source: Xanathar.165
 tags: [druid, ranger, wizard, level1, abjuration]
 ---
 
-**1st-level Abjuration**
+**1st-level abjuration**
 
 **Casting Time**: 1 minute
 

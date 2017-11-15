@@ -6,7 +6,7 @@ source: Xanathar.164
 tags: [sorcerer, warlock, wizard, level2, illusion]
 ---
 
-**2nd-level Illusion**
+**2nd-level illusion**
 
 **Casting Time**: 1 bonus action
 

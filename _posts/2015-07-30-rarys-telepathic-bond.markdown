@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rary's Telepathic Bond"
+title: "Rary’s Telepathic Bond"
 date:  2015-07-30
 source: PHB.270
 tags:  [wizard, level5, ritual, divination]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Abi Dalzim's Horrid Wilting"
+title:  "Abi Dalzim’s Horrid Wilting"
 date:   2015-11-20
 source: EE.15
 tags: [sorcerer, wizard, level8, necromancy]

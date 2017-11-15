@@ -12,7 +12,7 @@ tags: [cleric, wizard, level2, ritual, necromancy]
 
 **Range**: Touch
 
-**Components**: V, S, M (a pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)
+**Components**: V, S, M (a pinch of salt and one copper piece placed on each of the corpse’s eyes, which must remain there for the duration)
 
 **Duration**: 10 days
 

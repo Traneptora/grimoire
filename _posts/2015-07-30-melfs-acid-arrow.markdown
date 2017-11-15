@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Melf's Acid Arrow"
+title: "Melf’s Acid Arrow"
 date: 2015-07-30
 source: PHB.259
 tags: [druid (swamp), wizard, level2, evocation]
@@ -12,7 +12,7 @@ tags: [druid (swamp), wizard, level2, evocation]
 
 **Range**: 90 feet
 
-**Components**: V, S, M (powdered rhubarb leaf and an adder's stomach)
+**Components**: V, S, M (powdered rhubarb leaf and an adder’s stomach)
 
 **Duration**: Instantaneous
 

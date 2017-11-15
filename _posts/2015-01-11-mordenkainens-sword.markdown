@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mordenkainen's Sword"
+title:  "Mordenkainen’s Sword"
 date:   2015-01-11
 source: PHB.262
 tags:   [bard, wizard, level7, evocation]

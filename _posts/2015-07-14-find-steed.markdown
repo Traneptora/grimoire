@@ -24,4 +24,4 @@ When the steed drops to 0 hit points, it disappears, leaving behind no physical 
 
 While your steed is within 1 mile of you, you can communicate with it telepathically.
 
-You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
+You can’t have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.

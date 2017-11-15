@@ -1,6 +1,6 @@
 # Post Style Guidelines
 
-Here's a list of code stylistic guidelines for post markdown pages I'd like to be able to follow for future pages on the Griomire, and eventually get around to editing all previous entries to fit these styles.
+Here's a list of code stylistic guidelines for post markdown pages I'd like to be able to follow for future pages on The Grimoire, and eventually get around to editing all previous entries to fit these styles.
 
 Many of these conventions have reason, and many of them are arbitrary and have consistency.
 

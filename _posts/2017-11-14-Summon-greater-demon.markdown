@@ -25,5 +25,3 @@ At the end of each of the demon’s turns, it makes a Charisma saving throw. The
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can’t cross the circle or harm it, and they can’t target anyone within it. Using the material component in this manner consumes it when the spell ends. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th. 
-
-

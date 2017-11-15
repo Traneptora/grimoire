@@ -6,6 +6,9 @@ See the latest compiled build here: [https://thebombzen.com/grimoire/](https://t
 
 Grimoire is forked from [ephe/grimoire](https://github.com/ephe/grimoire/), which has since been taken down (à la DMCA).
 
+## Contributing
+Feel free to open pull requests or issues on Github. For any errors you may find. Alternatively, join my public discord at [https://discord.gg/gbykrG2](https://discord.gg/gbykrG2) and chat with me in `#software-dev-stuff`. 
+
 ## Changelog
 * See the commit history. The Grimoire is "done" at this point in that all the spells have been added (as of mid-to-late 2016).
 

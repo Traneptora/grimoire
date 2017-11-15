@@ -31,7 +31,7 @@ I've edited _config.yml for my own build purposes, but if you've got [Jekyll](ht
 
 Cleric and wizard spells from the Starter Kit were seeded from [this Reddit post](https://www.reddit.com/r/DnD/comments/2a7wau/5e_cleric_and_wizard_spells_sorted_by_level/).
 
-Thanks to [@sethxd](https://github.com/sethxd/) for suggesting [Jets.js](http://nexts.github.io/Jets.js/), a CSS search engine that plays nicely with Jekyll.
+Thanks to [@sethxd](https://github.com/sethxd/) for suggesting [Jets.js](https://jets.js.org/), a CSS search engine that plays nicely with Jekyll.
 
 Thanks to [@ephe](https://github.com/ephe/) for writing this thing in the first place.
 

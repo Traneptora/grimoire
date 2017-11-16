@@ -2,7 +2,7 @@
 layout: post
 title: "Invisibility"
 date: 2015-06-07
-source: PHB.254
+sources: [PHB.254]
 tags: [bard, druid (grassland), sorcerer, warlock, wizard, level2, illusion]
 ---
 

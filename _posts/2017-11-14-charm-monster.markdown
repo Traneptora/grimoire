@@ -2,7 +2,7 @@
 layout: post
 title:  "Charm Monster"
 date:   2017-11-14
-source: Xanathar.151
+sources: [Xanathar.151]
 tags: [bard, druid, sorcerer, warlock, wizard, level4, enchantment]
 ---
 

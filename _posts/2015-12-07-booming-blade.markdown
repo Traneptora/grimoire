@@ -2,7 +2,7 @@
 layout: post
 title:  "Booming Blade"
 date:   2015-12-07
-source: SCAG.142
+sources: [SCAG.142]
 tags: [sorcerer, warlock, wizard, cantrip, evocation]
 ---
 

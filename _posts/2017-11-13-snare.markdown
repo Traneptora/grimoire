@@ -2,7 +2,7 @@
 layout: post
 title:  "Snare"
 date:   2017-11-13
-source: Xanathar.165
+sources: [Xanathar.165]
 tags: [druid, ranger, wizard, level1, abjuration]
 ---
 

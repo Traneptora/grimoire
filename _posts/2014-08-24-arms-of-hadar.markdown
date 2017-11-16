@@ -2,7 +2,7 @@
 layout: post
 title:  "Arms of Hadar"
 date:   2014-08-24
-source: PHB.215
+sources: [PHB.215]
 tags: [warlock, level1, conjuration]
 ---
 

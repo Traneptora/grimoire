@@ -2,7 +2,7 @@
 layout: post
 title: "Hallow"
 date: 2015-07-30
-source: PHB.249
+sources: [PHB.249]
 tags: [cleric, warlock (fiend), level5, evocation]
 ---
 

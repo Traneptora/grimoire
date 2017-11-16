@@ -2,7 +2,7 @@
 layout: post
 title:  "Fly"
 date:   2015-01-01
-source: PHB.243
+sources: [PHB.243]
 tags: [monk (four elements), sorcerer, warlock, wizard, level3, transmutation]
 ---
 

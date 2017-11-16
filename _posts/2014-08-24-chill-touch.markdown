@@ -2,7 +2,7 @@
 layout: post
 title:  "Chill Touch"
 date:   2014-08-24
-source: PHB.221
+sources: [PHB.221]
 tags: [elf (mul daya), sorcerer, warlock, wizard, cantrip, necromancy]
 ---
 

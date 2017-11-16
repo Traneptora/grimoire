@@ -2,7 +2,7 @@
 layout: post
 title:  "Vitriolic Sphere"
 date:   2015-11-20
-source: EE.23
+sources: [EE.23]
 tags: [sorcerer, wizard, level4, evocation]
 ---
 

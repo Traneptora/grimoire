@@ -2,7 +2,7 @@
 layout: post
 title: "Hold Monster"
 date: 2015-07-30
-source: PHB.251
+sources: [PHB.251]
 tags: [bard, cleric (war), paladin (vengeance), sorcerer, warlock, wizard, level5, enchantment]
 ---
 

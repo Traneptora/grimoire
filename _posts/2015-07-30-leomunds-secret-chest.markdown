@@ -2,7 +2,7 @@
 layout: post
 title: "Leomund’s Secret Chest"
 date: 2015-07-30
-source: PHB.254
+sources: [PHB.254]
 tags: [cleric (arcana), wizard, level4, conjuration]
 ---
 

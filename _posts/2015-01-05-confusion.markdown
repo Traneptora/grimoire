@@ -2,7 +2,7 @@
 layout: post
 title:  "Confusion"
 date:   2015-01-05
-source: PHB.224
+sources: [PHB.224]
 tags: [bard, cleric (knowledge), druid, paladin (oathbreaker), sorcerer, wizard, level4, enchantment]
 ---
 

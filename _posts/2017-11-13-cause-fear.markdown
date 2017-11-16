@@ -2,7 +2,7 @@
 layout: post
 title:  "Cause Fear"
 date:   2017-11-13
-source: Xanathar.151
+sources: [Xanathar.151]
 tags: [warlock, wizard, level1, necromancy]
 ---
 

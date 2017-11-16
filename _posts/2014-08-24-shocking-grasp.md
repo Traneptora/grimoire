@@ -2,7 +2,7 @@
 layout: post
 title:  "Shocking Grasp"
 date:   2014-08-24
-source: PHB.275
+sources: [PHB.275]
 tags: [sorcerer, wizard, cantrip, evocation]
 ---
 

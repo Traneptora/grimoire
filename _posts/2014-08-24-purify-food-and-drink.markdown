@@ -2,7 +2,7 @@
 layout: post
 title:  "Purify Food and Drink"
 date:   2014-08-24
-source: PHB.270
+sources: [PHB.270]
 tags: [cleric, druid, paladin, level1, ritual, transmutation]
 ---
 

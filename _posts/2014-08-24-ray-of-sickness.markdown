@@ -2,7 +2,7 @@
 layout: post
 title:  "Ray of Sickness"
 date:   2014-08-24
-source: PHB.271
+sources: [PHB.271]
 tags: [cleric (death), sorcerer, warlock (undying), wizard, level1, necromancy]
 ---
 

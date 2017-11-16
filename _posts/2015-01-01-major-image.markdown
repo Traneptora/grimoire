@@ -2,7 +2,7 @@
 layout: post
 title:  "Major Image"
 date:   2015-01-01
-source: PHB.258
+sources: [PHB.258]
 tags: [bard, sorcerer, warlock, wizard, level3, illusion]
 ---
 

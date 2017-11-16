@@ -2,7 +2,7 @@
 layout: post
 title: "Giant Insect"
 date: 2015-07-30
-source: PHB.245
+sources: [PHB.245]
 tags: [druid, level4, transmutation]
 ---
 

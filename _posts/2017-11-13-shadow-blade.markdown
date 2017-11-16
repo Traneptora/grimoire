@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadow Blade"
 date:   2017-11-13
-source: Xanathar.164
+sources: [Xanathar.164]
 tags: [sorcerer, warlock, wizard, level2, illusion]
 ---
 

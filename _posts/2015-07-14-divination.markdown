@@ -2,7 +2,7 @@
 layout: post
 title: "Divination"
 date: 2015-07-14
-source: PHB.234
+sources: [PHB.234]
 tags: [cleric, druid (forest), druid (grassland), level4, ritual, divination]
 ---
 

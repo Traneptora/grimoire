@@ -2,7 +2,7 @@
 layout: post
 title:  "Maze"
 date:   2015-01-10
-source: PHB.258
+sources: [PHB.258]
 tags:   [wizard, level8, conjuration]
 ---
 

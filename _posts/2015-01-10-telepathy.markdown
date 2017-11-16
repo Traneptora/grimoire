@@ -2,7 +2,7 @@
 layout: post
 title:  "Telepathy"
 date:   2015-01-10
-source: PHB.281
+sources: [PHB.281]
 tags:   [wizard, level8, evocation]
 ---
 

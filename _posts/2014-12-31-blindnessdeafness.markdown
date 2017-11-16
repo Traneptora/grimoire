@@ -2,7 +2,7 @@
 layout: post
 title:  "Blindness/Deafness"
 date:   2014-12-31
-source: PHB.219
+sources: [PHB.219]
 tags: [bard, cleric, sorcerer, warlock (fiend), warlock (undying), wizard, level2, necromancy]
 ---
 

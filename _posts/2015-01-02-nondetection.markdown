@@ -2,7 +2,7 @@
 layout: post
 title:  "Nondetection"
 date:   2015-01-02
-source: PHB.263
+sources: [PHB.263]
 tags: [bard, cleric (knowledge), ranger, wizard, level3, abjuration]
 ---
 

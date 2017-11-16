@@ -2,7 +2,7 @@
 layout: post
 title:  "Investiture of Flame"
 date:   2015-11-19
-source: EE.19
+sources: [EE.19]
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 ---
 

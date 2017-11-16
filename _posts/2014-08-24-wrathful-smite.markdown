@@ -2,7 +2,7 @@
 layout: post
 title:  "Wrathful Smite"
 date:   2014-08-24
-source: PHB.289
+sources: [PHB.289]
 tags: [paladin, level1, evocation]
 ---
 

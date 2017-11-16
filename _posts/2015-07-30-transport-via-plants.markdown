@@ -2,7 +2,7 @@
 layout: post
 title: "Transport via Plants"
 date: 2015-07-30
-source: PHB.283
+sources: [PHB.283]
 tags: [druid, level6, conjuration]
 ---
 

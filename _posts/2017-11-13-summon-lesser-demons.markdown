@@ -2,7 +2,7 @@
 layout: post
 title:  "Summon Lesser Demons"
 date:   2017-11-13
-source: Xanathar.167
+sources: [Xanathar.167]
 tags: [warlock, wizard, level3, conjuration]
 ---
 

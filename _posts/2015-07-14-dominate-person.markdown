@@ -2,7 +2,7 @@
 layout: post
 title: "Dominate Person"
 date: 2015-07-14
-source: PHB.235
+sources: [PHB.235]
 tags: [bard, cleric (trickery), paladin (oathbreaker), sorcerer, warlock (fae), warlock (great old one), wizard, level5, enchantment]
 ---
 

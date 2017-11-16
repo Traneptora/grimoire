@@ -2,7 +2,7 @@
 layout: post
 title:  "Druidcraft"
 date:   2014-08-24
-source: PHB.236
+sources: [PHB.236]
 tags: [druid, cantrip, transmutation]
 ---
 

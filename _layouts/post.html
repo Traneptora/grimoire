@@ -6,8 +6,10 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <dl class="tag-list">
-    <dt>Source: </dt> <dd>{{ page.source }}</dd>
-    </dl>
+    <dt>Sources:</dt>
+    {% for source in page.sources %}
+    <dd>{{source}}</dd>
+    {% endfor %}
     <dl class="tag-list">
     <dt>Tags:</dt>
     {% for tag in page.tags %}

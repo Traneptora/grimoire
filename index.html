@@ -20,7 +20,7 @@ layout: default
     <ul class="post-list jetsContent">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
-        {% for source in post.sources %}{% source = source.split('.')[0] %}{% endif %}
+        {% for source in post.sources %}{% source = source.split('.')[0] %}{% endfor %}
         <li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>

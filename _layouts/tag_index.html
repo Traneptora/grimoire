@@ -28,7 +28,6 @@
 			{% for tag in post.tags %}
 			{% if tag == page.tag %}
 			<ul class="post-list jetsContent">
-				{% for source in post.sources %}{% source = source.split('.')[0] %}{% endfor %}
 				<li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</li>

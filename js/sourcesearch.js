@@ -11,7 +11,7 @@ function getSourceSearchFromURL(url){
 function doesSourceMatchSourceList(source, sourceList){
 	var sourceListArr = sourceList.split(',');
     for (var j = 0; j < sourceListArr.length; j++){
-    	var strippedSource = sourceListArr[i].split('.')[0].trim().toLowerCase();
+    	var strippedSource = sourceListArr[j].split('.')[0].trim().toLowerCase();
         if (strippedSource === source.toLowerCase()){
             return true;
         }

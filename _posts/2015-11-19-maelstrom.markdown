@@ -2,7 +2,7 @@
 layout: post
 title:  "Maelstrom"
 date:   2015-11-19
-sources: [EE.20]
+sources: [EE.20, Xanathar.160]
 tags: [druid, level5, evocation]
 ---
 

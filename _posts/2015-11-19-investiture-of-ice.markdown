@@ -2,7 +2,7 @@
 layout: post
 title:  "Investiture of Ice"
 date:   2015-11-19
-sources: [EE.19]
+sources: [EE.19, Xanathar.159]
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 ---
 

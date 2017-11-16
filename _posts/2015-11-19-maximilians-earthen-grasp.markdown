@@ -2,7 +2,7 @@
 layout: post
 title:  "Maximilian’s Earthen Grasp"
 date:   2015-11-19
-sources: [EE.20]
+sources: [EE.20, Xanathar.161]
 tags: [sorcerer, wizard, level2, transmutation]
 ---
 

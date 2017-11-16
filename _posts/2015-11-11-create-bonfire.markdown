@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Bonfire"
 date:   2015-11-11
-sources: [EE.16]
+sources: [EE.16, Xanathar.152]
 tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
 ---
 

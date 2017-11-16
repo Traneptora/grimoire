@@ -2,7 +2,7 @@
 layout: post
 title:  "Whirlwind"
 date:   2015-11-19
-sources: [EE.27]
+sources: [EE.27, Xanathar.171]
 tags: [druid, wizard, level7, evocation]
 ---
 

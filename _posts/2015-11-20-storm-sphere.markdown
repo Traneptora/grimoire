@@ -2,7 +2,7 @@
 layout: post
 title:  "Storm Sphere"
 date:   2015-11-20
-sources: [EE.22]
+sources: [EE.22, Xanathar.166]
 tags: [sorcerer, wizard, level4, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Winds"
 date:   2015-11-19
-sources: [EE.16]
+sources: [EE.16, Xanathar.152]
 tags: [druid, sorcerer, wizard, level5, transmutation]
 ---
 

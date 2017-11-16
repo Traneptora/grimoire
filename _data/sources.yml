@@ -1,8 +1,8 @@
 - name: Player’s Handbook
-  tag: PHB
+  source: PHB
 - name: Sword Coast Adveturer’s Guide
-  tag: SCAG
+  source: SCAG
 - name: Elemental Evil Player’s Companion
-  tag: EE
+  source: EE
 - name: Xanathar’s Guide to Everything
-  tag: Xanathar
+  source: Xanathar

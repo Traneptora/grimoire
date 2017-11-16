@@ -11,7 +11,7 @@
     <meta property="og:title" content="{{ site.title }}">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.baseurl | prepend: site.url }}">
-    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %} {{ site.title }} - {{ site.description }}">
     <meta property="og:image" content="{{ "/images/calibre-viewer.png" | prepend: site.baseurl }}">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="256">

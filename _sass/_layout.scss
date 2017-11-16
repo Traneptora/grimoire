@@ -116,6 +116,9 @@
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+    font-family: 'Linux Libertine Display';
+    font-weight: 400;
+    font-style: normal;
 }
 
 .contact-list,
@@ -201,6 +204,9 @@
 .page-heading {
     font-size: 36px;
     margin-top: $spacing-unit-line;
+    font-family: 'Linux Libertine Display';
+    font-weight: 400;
+    font-style: normal;
 }
 
 dl.tag-list {
@@ -222,6 +228,9 @@ dl.tag-list {
     font-size: 22px;
     color: $grey-color-dark;
     margin-top: $spacing-unit;
+    font-family: 'Linux Libertine Display';
+    font-weight: 400;
+    font-style: normal;
 }
 
 .post-list {
@@ -278,6 +287,9 @@ dl.tag-list {
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    font-family: 'Linux Libertine Display';
+    font-weight: 400;
+    font-style: normal;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -289,6 +301,9 @@ dl.tag-list {
 
     h2 {
         font-size: 32px;
+        font-family: 'Linux Libertine Display';
+        font-weight: 400;
+        font-style: normal;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -297,6 +312,9 @@ dl.tag-list {
 
     h3 {
         font-size: 26px;
+        font-family: 'Linux Libertine Display';
+        font-weight: 400;
+        font-style: normal;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -305,6 +323,9 @@ dl.tag-list {
 
     h4 {
         font-size: 20px;
+        font-family: 'Linux Libertine Display';
+        font-weight: 400;
+        font-style: normal;
 
         @include media-query($on-laptop) {
             font-size: 18px;

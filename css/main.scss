@@ -7,7 +7,7 @@
 
 // Our variables
 // $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-family: "Calluna", Georgia, serif;
+$base-font-family: "Linux Libertine", Georgia, serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -44,7 +44,7 @@ $on-laptop:        800px;
     }
 }
 
-
+@import url('/fonts.css');
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

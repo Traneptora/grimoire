@@ -2,7 +2,7 @@
 layout: post
 title:  "Call Lightning"
 date:   2015-01-01
-source: PHB.220
+sources: [PHB.220]
 tags: [cleric (tempest), druid, level3, conjuration]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hypnotic Pattern"
 date:   2015-01-01
-source: PHB.252
+sources: [PHB.252]
 tags: [bard, sorcerer, warlock, wizard, level3, illusion]
 ---
 

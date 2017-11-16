@@ -2,7 +2,7 @@
 layout: post
 title:  "Speak with Animals"
 date:   2014-08-24
-source: PHB.277
+sources: [PHB.277]
 tags: [barbarian (totem warrior), bard, cleric (nature), druid, paladin (ancients), ranger, level1, ritual, divination]
 ---
 

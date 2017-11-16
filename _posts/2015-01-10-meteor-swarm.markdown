@@ -2,7 +2,7 @@
 layout: post
 title:  "Meteor Swarm"
 date:   2015-01-10
-source: PHB.259
+sources: [PHB.259]
 tags:   [sorcerer, wizard, level9, evocation]
 ---
 

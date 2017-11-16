@@ -2,7 +2,7 @@
 layout: post
 title:  "Thunderclap"
 date:   2015-08-31
-source: EE.22
+sources: [EE.22]
 tags: [bard, druid, sorcerer, warlock, wizard, cantrip, evocation]
 ---
 

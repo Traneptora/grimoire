@@ -2,7 +2,7 @@
 layout: post
 title: "Commune with Nature"
 date: 2015-07-14
-source: PHB.224
+sources: [PHB.224]
 tags: [barbarian (totem warrior), druid, paladin (ancients), ranger, level5, ritual, divination]
 ---
 

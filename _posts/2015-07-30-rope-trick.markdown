@@ -2,7 +2,7 @@
 layout: post
 title: "Rope Trick"
 date: 2015-07-30
-source: PHB.272
+sources: [PHB.272]
 tags: [wizard, level2, transmutation]
 ---
 

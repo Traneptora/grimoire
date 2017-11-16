@@ -2,7 +2,7 @@
 layout: post
 title:  "Chromatic Orb"
 date:   2014-08-24
-source: PHB.221
+sources: [PHB.221]
 tags: [sorcerer, wizard, level1, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Branding Smite"
 date:   2015-01-07
-source: PHB.219
+sources: [PHB.219]
 tags: [paladin, level2, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Phantom Steed"
 date:   2015-01-02
-source: PHB.265
+sources: [PHB.265]
 tags: [wizard, level3, ritual, illusion]
 ---
 

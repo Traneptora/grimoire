@@ -2,7 +2,7 @@
 layout: post
 title:  "Life Transference"
 date:   2017-11-13
-source: Xanathar.160
+sources: [Xanathar.160]
 tags: [cleric, wizard, level3, necromancy]
 ---
 

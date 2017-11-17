@@ -2,7 +2,7 @@
 layout: post
 title:  "Steel Wind Strike"
 date:   2017-11-16
-source: Xanathar.166
+sources: [Xanathar.166]
 tags: [ranger, wizard, level5, conjuration]
 ---
 
@@ -12,7 +12,7 @@ tags: [ranger, wizard, level5, conjuration]
 
 **Range**: 30 feet
 
-**Components**: S, M (a melee weapon worth at least 1sp)
+**Components**: S, M (a melee weapon worth at least 1 sp)
 
 **Duration**: Instantaneous
 

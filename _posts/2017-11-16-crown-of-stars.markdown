@@ -20,4 +20,4 @@ Seven star-like motes of light appear and orbit your head until the spell ends. 
 
 If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet. If you have one to three motes remaining, they shed dim light in a 30-foot radius. 
 
-At Higher Levels. When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
+**At Higher Levels**. When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.

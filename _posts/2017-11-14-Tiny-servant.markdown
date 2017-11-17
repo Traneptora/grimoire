@@ -2,7 +2,7 @@
 layout: post
 title:  "Tiny Servant"
 date:   2017-11-14
-source: Xanathar.169
+source: Xanathar.168
 tags: [wizard, level3, transmutation]
 ---
 

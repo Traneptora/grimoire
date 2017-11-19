@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maddening Darkness"
-date:   2017-11-16
+date:   2017-11-19
 sources: [Xanathar.160]
 tags: [warlock, wizard, level8, evocation]
 ---

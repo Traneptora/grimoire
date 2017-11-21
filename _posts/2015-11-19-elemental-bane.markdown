@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elemental Bane"
-date:   2015-11-19
+date:   2017-11-14
 sources: [EE.17, Xanathar.155]
 tags: [druid, warlock, wizard, level4, transmutation]
 ---

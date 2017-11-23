@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Primordial Ward"
-date:   2015-11-19
+date: 2015-11-19
 sources: [EE.21, Xanathar.163]
 tags: [druid, level6, abjuration]
 ---

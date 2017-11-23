@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alter Self"
-date:   2015-01-2
+date: 2015-01-02
 sources: [PHB.211]
 tags: [sorcerer, wizard, level2, transmutation]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pyrotechnics"
-date:   2015-08-31
+date: 2015-08-31
 sources: [EE.21, Xanathar.163]
 tags: [bard, sorcerer, wizard, level2, transmutation]
 ---
@@ -16,7 +16,7 @@ tags: [bard, sorcerer, wizard, level2, transmutation]
 
 **Duration**: Instantaneous
 
-Choose an area of flame that you can see and that can fit within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke.
+Choose an area of flame that you can see and that can fit within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke when you do so.
 
 **Fireworks.** The target explodes with a dazzling display of colors. Each creature within 10 feet of the target must succeed on a Constitution saving throw or become blinded until the end of your next turn.
 

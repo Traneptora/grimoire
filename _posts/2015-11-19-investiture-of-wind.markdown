@@ -16,7 +16,7 @@ tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 
 **Duration**: Concentration, up to 10 minutes
 
-Until the spell ends, wind whirls around you, and you gain the following benefits.
+Until the spell ends, wind whirls around you, and you gain the following benefits:
 
  * Ranged weapon attacks made against you have disadvantage on the attack roll.
 

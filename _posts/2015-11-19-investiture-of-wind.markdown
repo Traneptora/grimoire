@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Investiture of Wind"
-date:   2017-11-14
+date: 2015-11-19
 sources: [EE.20, Xanathar.160]
 tags: [druid, sorcerer, warlock, wizard, level6, transmutation]
 ---

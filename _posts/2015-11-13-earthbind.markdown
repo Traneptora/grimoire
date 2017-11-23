@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Earthbind"
-date:   2017-11-14
+date: 2015-11-13
 sources: [EE.17, Xanathar.154]
 tags: [druid, sorcerer, warlock, wizard, level2, transmutation]
 ---

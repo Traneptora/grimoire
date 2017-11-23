@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shape Water"
-date:   2017-11-14
+date: 2015-11-11
 sources: [EE.21, Xanathar.164]
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 ---

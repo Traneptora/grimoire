@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Negative Energy Flood"
-date:   2017-11-14
+date: 2017-11-16
 sources: [Xanathar.163]
 tags: [warlock, wizard, level5, necromancy]
 ---

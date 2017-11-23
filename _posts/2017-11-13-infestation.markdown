@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Infestation"
-date:   2017-11-14
+date: 2017-11-13
 sources: [Xanathar.158]
 tags: [druid, sorcerer, warlock, wizard, cantrip, conjuration]
 ---

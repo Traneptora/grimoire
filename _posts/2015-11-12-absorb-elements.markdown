@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Absorb Elements"
-date:   2017-11-14
+date: 2015-11-12
 sources: [EE.15, Xanathar.150]
 tags: [druid, ranger, sorcerer, wizard, level1, abjuration]
 ---

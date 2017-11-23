@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enervation"
-date:   2017-11-14
+date: 2017-11-15
 sources: [Xanathar.155]
 tags: [sorcerer, warlock, wizard, level5, necromancy]
 ---

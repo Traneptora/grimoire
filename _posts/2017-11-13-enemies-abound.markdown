@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enemies Abound"
-date:   2017-11-14
+date: 2017-11-13
 sources: [Xanathar.155]
 tags: [bard, sorcerer, warlock, wizard, level3, enchantment]
 ---

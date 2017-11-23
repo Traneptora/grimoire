@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dust Devil"
-date:   2017-11-14
+date: 2015-11-13
 sources: [EE.17, Xanathar.154]
 tags: [druid, sorcerer, wizard, level2, conjuration]
 ---

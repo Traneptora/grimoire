@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Control Flames"
-date:   2017-11-14
+date: 2015-11-11
 sources: [EE.16, Xanathar.152]
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 ---

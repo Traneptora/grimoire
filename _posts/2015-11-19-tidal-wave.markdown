@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tidal Wave"
-date:   2017-11-14
+date: 2015-11-19
 sources: [EE.22, Xanathar.168]
 tags: [druid, sorcerer, wizard, level3, conjuration]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Toll the Dead"
-date:   2017-11-14
+date: 2017-11-13
 sources: [Xanathar.169]
 tags: [cleric, warlock, wizard, cantrip, necromancy]
 ---

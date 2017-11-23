@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maelstrom"
-date:   2015-11-19
+date:   2017-11-14
 sources: [EE.20, Xanathar.160]
 tags: [druid, level5, evocation]
 ---
@@ -16,4 +16,4 @@ tags: [druid, level5, evocation]
 
 **Duration**: Concentration, up to 1 minute
 
-A mass of 5-foot-deep water appears and swirls in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.
+A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a point you can see within range. The point must be on ground or in a body of water. Until the spell ends, that area is difficult terrain, and any creature that starts its turn there must succeed on a Strength saving throw or take 6d6 bludgeoning damage and be pulled 10 feet toward the center.

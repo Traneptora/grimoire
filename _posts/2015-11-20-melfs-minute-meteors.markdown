@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Melf’s Minute Meteors"
-date:   2015-11-20
+date:   2017-11-14
 sources: [EE.20, Xanathar.161]
 tags: [sorcerer, wizard, level3, evocation]
 ---

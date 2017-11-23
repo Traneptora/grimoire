@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Steel Wind Strike"
-date:   2017-11-16
+date:   2017-11-14
 sources: [Xanathar.166]
 tags: [ranger, wizard, level5, conjuration]
 ---
@@ -16,4 +16,6 @@ tags: [ranger, wizard, level5, conjuration]
 
 **Duration**: Instantaneous
 
-You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage. You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.
+You flourish the weapon used in the casting and then vanish to strike like the wind. Choose up to five creatures you can see within range. Make a melee spell attack against each target. On a hit, a target takes 6d10 force damage.
+
+You can then teleport to an unoccupied space you can see within 5 feet of one of the targets you hit or missed.

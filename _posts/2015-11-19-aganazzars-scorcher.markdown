@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aganazzar’s Scorcher"
-date:   2015-11-19
+date:   2017-11-14
 sources: [EE.15, Xanathar.150]
 tags: [sorcerer, wizard, level2, evocation]
 ---

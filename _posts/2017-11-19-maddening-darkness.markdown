@@ -12,7 +12,7 @@ tags: [warlock, wizard, level8, evocation]
 
 **Range**: 150 feet
 
-**Components**: V, S, M (a drop of pitch mixed with a drop of mercury)
+**Components**: V, M (a drop of pitch mixed with a drop of mercury)
 
 **Duration**: Concentration, up to 10 minutes
 

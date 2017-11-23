@@ -3,7 +3,7 @@ layout: post
 title:  "Shape Water"
 date: 2015-11-11
 sources: [EE.21, Xanathar.164]
-tags: [druid, sorcerer, wizard, cantrip, transmutation]
+tags: [genasi (water), druid, sorcerer, wizard, cantrip, transmutation]
 ---
 
 **Transmutation cantrip**

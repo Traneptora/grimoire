@@ -8,7 +8,7 @@ tags: [sorcerer, warlock, wizard, level5, conjuration]
 
 **5th-level conjuration**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 bonus action
 
 **Range**: Self
 

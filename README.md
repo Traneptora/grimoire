@@ -35,5 +35,6 @@ Cleric and wizard spells from the Starter Kit were seeded from [this Reddit post
 
 Thanks to [@sethxd](https://github.com/sethxd/) for suggesting [Jets.js](https://jets.js.org/), a CSS search engine that plays nicely with Jekyll.
 
-Thanks to [@ephe](https://github.com/ephe/) for writing this thing in the first place.
+Thanks to [@ephe](https://github.com/ephe/) for writing the original version of this thing in the first place.
 
+Thanks to [@Eikrem63](https://github.com/Eikrem63) and [@duatharben](https://github.com/duatharben) for adding the spells from Xanathar's Guide to Everything. 

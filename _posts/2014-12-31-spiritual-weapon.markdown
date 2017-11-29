@@ -3,7 +3,7 @@ layout: post
 title:  "Spiritual Weapon"
 date:   2014-12-31
 sources: [PHB.278]
-tags: [cleric, level2, evocation]
+tags: [cleric, paladin (conquest), level2, evocation]
 ---
 
 **2nd-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Sleep"
 date:   2014-08-24
 sources: [PHB.276]
-tags: [bard, sorcerer, warlock (fae), wizard, level1, enchantment]
+tags: [bard, paladin (redemption), sorcerer, warlock (fae), wizard, level1, enchantment]
 ---
 
 **1st-level enchantment**

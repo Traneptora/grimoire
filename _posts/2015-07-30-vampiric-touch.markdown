@@ -3,7 +3,7 @@ layout: post
 title: "Vampiric Touch"
 date: 2015-07-30
 sources: [PHB.285]
-tags: [cleric (death), warlock, wizard, level3, necromancy]
+tags: [cleric (death), cleric (grave), warlock, wizard, level3, necromancy]
 ---
 
 **3rd-level necromancy**

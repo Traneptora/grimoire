@@ -3,7 +3,7 @@ layout: post
 title:  "Revivify"
 date:   2015-01-02
 sources: [PHB.272]
-tags: [cleric, paladin, level3, necromancy]
+tags: [cleric, cleric (grave), paladin, level3, necromancy]
 ---
 
 **3rd-level necromancy**

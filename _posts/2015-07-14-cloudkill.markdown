@@ -3,7 +3,7 @@ layout: post
 title: "Cloudkill"
 date: 2015-07-14
 sources: [PHB.222]
-tags: [cleric (death), druid (underdark), sorcerer, wizard, level5, conjuration]
+tags: [cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, level5, conjuration]
 ---
 
 **5th-level conjuration**

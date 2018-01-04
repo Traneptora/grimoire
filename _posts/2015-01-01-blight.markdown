@@ -3,7 +3,7 @@ layout: post
 title:  "Blight"
 date:   2015-01-01
 sources: [PHB.219]
-tags: [cleric (death), druid, paladin (oathbreaker), sorcerer, warlock, wizard, level4, necromancy]
+tags: [cleric (death), cleric (grave), druid, paladin (oathbreaker), sorcerer, warlock, wizard, level4, necromancy]
 ---
 
 **4th-level necromancy**

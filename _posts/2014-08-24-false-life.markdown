@@ -2,7 +2,7 @@
 layout: post
 title:  "False Life"
 date:   2014-08-24
-sources: [PHB.239]
+sources: [PHB.239, SRD]
 tags: [cleric (death), cleric (grave), sorcerer, warlock (undying), wizard, level1, necromancy]
 ---
 

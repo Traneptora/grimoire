@@ -2,7 +2,7 @@
 layout: post
 title: "Fabricate"
 date: 2015-07-14
-sources: [PHB.239]
+sources: [PHB.239, SRD]
 tags: [cleric (forge), wizard, level4, transmutation]
 ---
 

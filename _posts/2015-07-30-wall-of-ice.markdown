@@ -2,7 +2,7 @@
 layout: post
 title: "Wall of Ice"
 date: 2015-07-30
-sources: [PHB.285]
+sources: [PHB.285, SRD]
 tags: [wizard, level6, evocation]
 ---
 

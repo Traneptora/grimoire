@@ -2,7 +2,7 @@
 layout: post
 title: "Raise Dead"
 date: 2015-07-30
-sources: [PHB.270]
+sources: [PHB.270, SRD]
 tags: [cleric, paladin, bard, level5, necromancy]
 ---
 

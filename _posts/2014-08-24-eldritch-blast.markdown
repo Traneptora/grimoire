@@ -2,7 +2,7 @@
 layout: post
 title:  "Eldritch Blast"
 date:   2014-08-24
-sources: [PHB.237]
+sources: [PHB.237, SRD]
 tags: [warlock, cantrip, evocation]
 ---
 

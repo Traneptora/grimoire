@@ -2,7 +2,7 @@
 layout: post
 title: "Magic Weapon"
 date: 2015-07-30
-sources: [PHB.257]
+sources: [PHB.257, SRD]
 tags: [cleric (arcana), cleric (forge), cleric (war), paladin, wizard, level2, transmutation]
 ---
 

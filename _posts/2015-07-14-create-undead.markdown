@@ -2,7 +2,7 @@
 layout: post
 title: "Create Undead"
 date: 2015-07-14
-sources: [PHB.229]
+sources: [PHB.229, SRD]
 tags: [cleric, warlock, wizard, level6, necromancy]
 ---
 

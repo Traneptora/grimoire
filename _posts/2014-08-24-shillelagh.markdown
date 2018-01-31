@@ -2,7 +2,7 @@
 layout: post
 title:  "Shillelagh"
 date:   2014-08-24
-sources: [PHB.275]
+sources: [PHB.275, SRD]
 tags: [druid, cantrip, transmutation]
 ---
 

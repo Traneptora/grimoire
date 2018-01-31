@@ -2,7 +2,7 @@
 layout: post
 title:  "Silent Image"
 date:   2014-08-24
-sources: [PHB.276]
+sources: [PHB.276, SRD]
 tags: [bard, sorcerer, wizard, level1, illusion]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "See Invisibility"
 date: 2015-07-30
-sources: [PHB.274]
+sources: [PHB.274, SRD]
 tags: [bard, sorcerer, wizard, level2, divination]
 ---
 

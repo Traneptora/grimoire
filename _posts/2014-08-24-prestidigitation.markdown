@@ -2,7 +2,7 @@
 layout: post
 title:  "Prestidigitation"
 date:   2014-08-24
-sources: [PHB.267]
+sources: [PHB.267, SRD]
 tags: [bard, sorcerer, warlock, wizard, cantrip, transmutation]
 ---
 

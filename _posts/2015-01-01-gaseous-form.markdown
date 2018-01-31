@@ -2,7 +2,7 @@
 layout: post
 title:  "Gaseous Form"
 date:   2015-01-01
-sources: [PHB.244]
+sources: [PHB.244, SRD]
 tags: [druid (underdark), monk (four elements), sorcerer, wizard, warlock, level3, transmutation]
 ---
 

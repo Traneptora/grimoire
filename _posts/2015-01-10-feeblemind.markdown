@@ -2,7 +2,7 @@
 layout: post
 title: "Feeblemind"
 date: 2015-01-10
-sources: [PHB.239]
+sources: [PHB.239, SRD]
 tags: [bard, druid, warlock, wizard, level8, enchantment]
 ---
 

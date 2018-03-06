@@ -2,7 +2,7 @@
 layout: post
 title:  "Plane Shift"
 date:   2015-01-11
-sources: [PHB.266]
+sources: [PHB.266, SRD.168]
 tags:   [cleric, druid, sorcerer, warlock, wizard, level7, conjuration]
 ---
 

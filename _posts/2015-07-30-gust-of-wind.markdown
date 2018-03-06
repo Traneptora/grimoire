@@ -2,7 +2,7 @@
 layout: post
 title: "Gust of Wind"
 date: 2015-07-30
-sources: [PHB.248]
+sources: [PHB.248, SRD.152]
 tags: [cleric (tempest), druid, monk (four elements), sorcerer, wizard, level2, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Phantasmal Killer"
 date: 2015-07-30
-sources: [PHB.265]
+sources: [PHB.265, SRD.167]
 tags: [wizard, level4, illusion]
 ---
 

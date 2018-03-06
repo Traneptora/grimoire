@@ -2,7 +2,7 @@
 layout: post
 title:  "Project Image"
 date:   2015-01-11
-sources: [PHB.270]
+sources: [PHB.270, SRD.172]
 tags:   [bard, wizard, level7, illusion]
 ---
 

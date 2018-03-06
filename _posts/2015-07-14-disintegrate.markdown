@@ -2,7 +2,7 @@
 layout: post
 title: "Disintegrate"
 date: 2015-07-14
-sources: [PHB.233]
+sources: [PHB.233, SRD.135]
 tags: [sorcerer, wizard, level6, transmutation]
 ---
 

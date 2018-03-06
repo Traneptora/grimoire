@@ -2,7 +2,7 @@
 layout: post
 title: "Sunbeam"
 date: 2015-07-30
-sources: [PHB.279]
+sources: [PHB.279, SRD.184]
 tags: [druid, sorcerer, wizard, level6, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Fireball"
 date:   2015-01-01
-sources: [PHB.241]
+sources: [PHB.241, SRD.144]
 tags: [cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level3, evocation]
 ---
 

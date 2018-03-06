@@ -2,7 +2,7 @@
 layout: post
 title: "Guards and Wards"
 date: 2015-07-30
-sources: [PHB.248]
+sources: [PHB.248, SRD.151]
 tags: [bard, wizard, level6, abjuration]
 ---
 

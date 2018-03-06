@@ -2,7 +2,7 @@
 layout: post
 title: "Heal"
 date: 2015-07-30
-sources: [PHB.250]
+sources: [PHB.250, SRD.153]
 tags: [cleric, druid, level6, evocation]
 ---
 

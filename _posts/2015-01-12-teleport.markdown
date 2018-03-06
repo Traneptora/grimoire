@@ -2,7 +2,7 @@
 layout: post
 title:  "Teleport"
 date:   2015-01-12
-sources: [PHB.281]
+sources: [PHB.281, SRD.185]
 tags:   [bard, sorcerer, wizard, level7, conjuration]
 ---
 

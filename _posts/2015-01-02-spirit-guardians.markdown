@@ -2,7 +2,7 @@
 layout: post
 title:  "Spirit Guardians"
 date:   2015-01-02
-sources: [PHB.278]
+sources: [PHB.278, SRD.182]
 tags: [cleric, paladin (crown), level3, conjuration]
 ---
 

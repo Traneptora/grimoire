@@ -2,7 +2,7 @@
 layout: post
 title:  "Plant Growth"
 date:   2015-01-02
-sources: [PHB.266]
+sources: [PHB.266, SRD.169]
 tags: [bard, cleric (nature), druid, paladin (ancients), ranger, warlock (fae), level3, transmutation]
 ---
 

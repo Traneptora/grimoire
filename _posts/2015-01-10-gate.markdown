@@ -2,7 +2,7 @@
 layout: post
 title:  "Gate"
 date:   2015-01-10
-sources: [PHB.244]
+sources: [PHB.244, SRD.148]
 tags:   [cleric, sorcerer, wizard, level9, conjuration]
 ---
 

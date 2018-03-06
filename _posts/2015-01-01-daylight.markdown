@@ -2,7 +2,7 @@
 layout: post
 title:  "Daylight"
 date:   2015-01-01
-sources: [PHB.230]
+sources: [PHB.230, SRD.133]
 tags: [cleric, druid, paladin, ranger, sorcerer, level3, evocation]
 ---
 

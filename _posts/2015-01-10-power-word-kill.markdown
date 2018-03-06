@@ -2,7 +2,7 @@
 layout: post
 title:  "Power Word Kill"
 date:   2015-01-10
-sources: [PHB.266]
+sources: [PHB.266, SRD.170]
 tags:   [bard, sorcerer, warlock, wizard, level9, enchantment]
 ---
 

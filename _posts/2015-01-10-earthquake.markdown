@@ -2,7 +2,7 @@
 layout: post
 title:  "Earthquake"
 date:   2015-01-10
-sources: [PHB.236]
+sources: [PHB.236, SRD.139]
 tags:   [cleric, druid, sorcerer, level8, evocation]
 ---
 

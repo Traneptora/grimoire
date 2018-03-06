@@ -2,7 +2,7 @@
 layout: post
 title:  "Divine Word"
 date:   2015-01-11
-sources: [PHB.234]
+sources: [PHB.234, SRD.137]
 tags:   [cleric, level7, evocation]
 ---
 

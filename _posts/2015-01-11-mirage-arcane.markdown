@@ -2,7 +2,7 @@
 layout: post
 title:  "Mirage Arcane"
 date:   2015-01-11
-sources: [PHB.260]
+sources: [PHB.260, SRD.165]
 tags:   [bard, druid, wizard, level7, illusion]
 ---
 

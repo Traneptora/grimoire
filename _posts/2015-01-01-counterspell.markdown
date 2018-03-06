@@ -2,7 +2,7 @@
 layout: post
 title:  "Counterspell"
 date:   2015-01-01
-sources: [PHB.228]
+sources: [PHB.228, SRD.131]
 tags: [paladin (redemption), sorcerer, warlock, wizard, level3, abjuration]
 ---
 

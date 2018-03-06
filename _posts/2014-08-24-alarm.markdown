@@ -2,7 +2,7 @@
 layout: post
 title:  "Alarm"
 date:   2014-08-24
-sources: [PHB.211]
+sources: [PHB.211, SRD.114]
 tags: [ranger, wizard, level1, ritual, abjuration]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tongues"
 date: 2015-01-06
-sources: [PHB.283]
+sources: [PHB.283, SRD.187]
 tags: [bard, cleric, sorcerer, warlock, wizard, level3, divination]
 ---
 

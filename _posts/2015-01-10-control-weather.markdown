@@ -2,7 +2,7 @@
 layout: post
 title:  "Control Weather"
 date:   2015-01-10
-sources: [PHB.228]
+sources: [PHB.228, SRD.131]
 tags:   [cleric, druid, wizard, level8, transmutation]
 ---
 

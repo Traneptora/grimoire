@@ -2,7 +2,7 @@
 layout: post
 title: "Water Breathing"
 date: 2015-07-30
-sources: [PHB.287]
+sources: [PHB.287, SRD.191]
 tags: [druid, ranger, sorcerer, wizard, level3, ritual, transmutation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Ice Storm"
 date: 2015-07-30
-sources: [PHB.252]
+sources: [PHB.252, SRD.155]
 tags: [cleric (tempest), druid, paladin (ancients), sorcerer, wizard, level4, evocation]
 ---
 

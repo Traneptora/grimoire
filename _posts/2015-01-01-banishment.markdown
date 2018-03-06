@@ -2,7 +2,7 @@
 layout: post
 title:  "Banishment"
 date:   2015-01-01
-sources: [PHB.217]
+sources: [PHB.217, SRD.120]
 tags: [cleric, paladin, sorcerer, warlock, wizard, level4, abjuration]
 ---
 

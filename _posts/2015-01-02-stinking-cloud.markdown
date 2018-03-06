@@ -2,7 +2,7 @@
 layout: post
 title:  "Stinking Cloud"
 date:   2015-01-02
-sources: [PHB.278]
+sources: [PHB.278, SRD.182]
 tags: [bard, druid (swamp), druid (underdark), sorcerer, warlock (fiend), wizard, level3, conjuration]
 ---
 

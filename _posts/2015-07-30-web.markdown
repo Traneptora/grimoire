@@ -2,7 +2,7 @@
 layout: post
 title: "Web"
 date: 2015-07-30
-sources: [PHB.287]
+sources: [PHB.287, SRD.192]
 tags: [druid (underdark), sorcerer, wizard, level2, conjuration]
 ---
 

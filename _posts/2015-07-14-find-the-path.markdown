@@ -2,7 +2,7 @@
 layout: post
 title: "Find the Path"
 date: 2015-07-14
-sources: [PHB.240]
+sources: [PHB.240, SRD.143]
 tags: [bard, cleric, druid, level6, divination]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Minor Illusion"
 date:   2014-08-24
-sources: [PHB.260]
+sources: [PHB.260, SRD.164]
 tags: [gnome (forest), bard, monk (shadow), sorcerer, warlock, wizard, cantrip, illusion]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Moonbeam"
 date: 2015-07-30
-sources: [PHB.261]
+sources: [PHB.261, SRD.166]
 tags: [druid, paladin (ancients), level2, evocation]
 ---
 

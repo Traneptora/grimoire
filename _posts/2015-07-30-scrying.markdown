@@ -2,7 +2,7 @@
 layout: post
 title: "Scrying"
 date: 2015-07-30
-sources: [PHB.273]
+sources: [PHB.273, SRD.176]
 tags: [bard, cleric, druid, paladin (devotion), paladin (vengeance), warlock, wizard, level5, divination]
 ---
 

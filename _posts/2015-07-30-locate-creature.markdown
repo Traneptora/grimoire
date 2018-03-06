@@ -2,7 +2,7 @@
 layout: post
 title: "Locate Creature"
 date: 2015-07-30
-sources: [PHB.256]
+sources: [PHB.256, SRD.159]
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4, divination]
 ---
 

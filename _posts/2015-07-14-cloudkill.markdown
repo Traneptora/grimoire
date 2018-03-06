@@ -2,7 +2,7 @@
 layout: post
 title: "Cloudkill"
 date: 2015-07-14
-sources: [PHB.222]
+sources: [PHB.222, SRD.125]
 tags: [cleric (death), druid (underdark), paladin (conquest), sorcerer, wizard, level5, conjuration]
 ---
 

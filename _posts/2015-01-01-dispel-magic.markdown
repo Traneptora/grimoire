@@ -2,7 +2,7 @@
 layout: post
 title:  "Dispel Magic"
 date:   2015-01-01
-sources: [PHB.234]
+sources: [PHB.234, SRD.136]
 tags: [bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, abjuration]
 ---
 

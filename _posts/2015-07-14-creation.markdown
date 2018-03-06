@@ -2,7 +2,7 @@
 layout: post
 title: "Creation"
 date: 2015-07-14
-sources: [PHB.229]
+sources: [PHB.229, SRD.132]
 tags: [cleric (forge), sorcerer, wizard, level5, illusion]
 ---
 

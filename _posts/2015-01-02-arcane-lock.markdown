@@ -2,7 +2,7 @@
 layout: post
 title:  "Arcane Lock"
 date:   2015-01-02
-sources: [PHB.215]
+sources: [PHB.215, SRD.118]
 tags: [wizard, level2, abjuration]
 ---
 

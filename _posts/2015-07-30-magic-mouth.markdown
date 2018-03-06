@@ -2,7 +2,7 @@
 layout: post
 title: "Magic Mouth"
 date: 2015-07-30
-sources: [PHB.257]
+sources: [PHB.257, SRD.161]
 tags: [bard, wizard, level2, ritual, illusion]
 ---
 

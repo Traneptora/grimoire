@@ -2,7 +2,7 @@
 layout: post
 title: "Commune"
 date: 2015-07-14
-sources: [PHB.223]
+sources: [PHB.223, SRD.126]
 tags: [cleric, level5, ritual, divination]
 ---
 

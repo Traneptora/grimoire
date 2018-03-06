@@ -2,7 +2,7 @@
 layout: post
 title:  "Mind Blank"
 date:   2015-01-10
-sources: [PHB.259]
+sources: [PHB.259, SRD.164]
 tags:   [bard, wizard, level8, abjuration]
 ---
 

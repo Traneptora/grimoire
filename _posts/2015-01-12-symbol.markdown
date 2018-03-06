@@ -2,7 +2,7 @@
 layout: post
 title:  "Symbol"
 date:   2015-01-12
-sources: [PHB.280]
+sources: [PHB.280, SRD.184]
 tags:   [bard, wizard, cleric, level7, abjuration]
 ---
 

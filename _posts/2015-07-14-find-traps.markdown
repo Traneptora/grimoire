@@ -2,7 +2,7 @@
 layout: post
 title: "Find Traps"
 date: 2015-07-14
-sources: [PHB.241]
+sources: [PHB.241, SRD.144]
 tags: [cleric, druid, ranger, level2, divination]
 ---
 

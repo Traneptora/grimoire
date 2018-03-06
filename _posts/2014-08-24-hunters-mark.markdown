@@ -2,7 +2,7 @@
 layout: post
 title:  "Hunter’s Mark"
 date:   2014-08-24
-sources: [PHB.251]
+sources: [PHB.251, SRD.155]
 tags: [paladin (vengeance), ranger, level1, divination]
 ---
 

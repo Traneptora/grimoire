@@ -2,7 +2,7 @@
 layout: post
 title: "Wall of Stone"
 date: 2015-07-30
-sources: [PHB.287]
+sources: [PHB.287, SRD.190]
 tags: [druid, monk (four elements), sorcerer, wizard, level5, evocation]
 ---
 

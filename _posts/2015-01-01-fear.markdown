@@ -2,7 +2,7 @@
 layout: post
 title:  "Fear"
 date:   2015-01-01
-sources: [PHB.239]
+sources: [PHB.239, SRD.142]
 tags: [bard, paladin (conquest), sorcerer, warlock, wizard, level3, illusion]
 ---
 

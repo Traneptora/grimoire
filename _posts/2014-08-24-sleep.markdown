@@ -2,7 +2,7 @@
 layout: post
 title:  "Sleep"
 date:   2014-08-24
-sources: [PHB.276]
+sources: [PHB.276, SRD.180]
 tags: [bard, paladin (redemption), sorcerer, warlock (fae), wizard, level1, enchantment]
 ---
 

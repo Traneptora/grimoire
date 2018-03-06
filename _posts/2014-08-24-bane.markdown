@@ -2,7 +2,7 @@
 layout: post
 title:  "Bane"
 date:   2014-08-24
-sources: [PHB.216]
+sources: [PHB.216, SRD.120]
 tags: [bard, cleric, paladin (vengeance), level1, enchantment]
 ---
 

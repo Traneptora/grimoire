@@ -2,7 +2,7 @@
 layout: post
 title: "Gentle Repose"
 date: 2015-07-30
-sources: [PHB.245]
+sources: [PHB.245, SRD.148]
 tags: [cleric, wizard, level2, ritual, necromancy]
 ---
 

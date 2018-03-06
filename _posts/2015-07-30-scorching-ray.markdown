@@ -2,7 +2,7 @@
 layout: post
 title: "Scorching Ray"
 date: 2015-07-30
-sources: [PHB.273]
+sources: [PHB.273, SRD.176]
 tags: [cleric (light), sorcerer, warlock (fiend), wizard, level2, evocation]
 ---
 

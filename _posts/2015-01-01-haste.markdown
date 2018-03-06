@@ -2,7 +2,7 @@
 layout: post
 title:  "Haste"
 date:   2015-01-01
-sources: [PHB.250]
+sources: [PHB.250, SRD.153]
 tags: [druid (grassland), paladin (vengeance), sorcerer, wizard, level3, transmutation]
 ---
 

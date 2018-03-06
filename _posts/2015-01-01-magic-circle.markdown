@@ -2,7 +2,7 @@
 layout: post
 title:  "Magic Circle"
 date:   2015-01-01
-sources: [PHB.256]
+sources: [PHB.256, SRD.160]
 tags: [cleric, paladin, warlock, wizard, level3, abjuration]
 ---
 

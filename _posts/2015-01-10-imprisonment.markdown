@@ -2,7 +2,7 @@
 layout: post
 title:  "Imprisonment"
 date:   2015-01-10
-sources: [PHB.252]
+sources: [PHB.252, SRD.156]
 tags:   [warlock, wizard, level9, abjuration]
 ---
 

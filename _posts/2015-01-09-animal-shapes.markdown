@@ -2,7 +2,7 @@
 layout: post
 title:  "Animal Shapes"
 date:   2015-01-09
-sources: [PHB.212]
+sources: [PHB.212, SRD.115]
 tags: [druid, level8, transmutation]
 ---
 

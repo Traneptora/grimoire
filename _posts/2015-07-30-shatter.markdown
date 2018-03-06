@@ -2,7 +2,7 @@
 layout: post
 title: "Shatter"
 date: 2015-07-30
-sources: [PHB.275]
+sources: [PHB.275, SRD.178]
 tags: [bard, cleric (tempest), monk (four elements), sorcerer, warlock, wizard, level2, evocation]
 ---
 

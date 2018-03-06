@@ -2,7 +2,7 @@
 layout: post
 title: "Move Earth"
 date: 2015-07-30
-sources: [PHB.263]
+sources: [PHB.263, SRD.166]
 tags: [druid, sorcerer, wizard, level6, transmutation]
 ---
 

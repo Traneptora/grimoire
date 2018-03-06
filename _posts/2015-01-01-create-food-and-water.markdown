@@ -2,7 +2,7 @@
 layout: post
 title:  "Create Food and Water"
 date:   2015-01-01
-sources: [PHB.229]
+sources: [PHB.229, SRD.131]
 tags: [cleric, druid (desert), paladin, level3, conjuration]
 ---
 

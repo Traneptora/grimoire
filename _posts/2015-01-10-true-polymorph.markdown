@@ -2,7 +2,7 @@
 layout: post
 title:  "True Polymorph"
 date:   2015-01-10
-sources: [PHB.283]
+sources: [PHB.283, SRD.188]
 tags:   [bard, warlock, wizard, level9, transmutation]
 ---
 

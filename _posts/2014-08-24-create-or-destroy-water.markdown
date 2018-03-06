@@ -2,7 +2,7 @@
 layout: post
 title:  "Create or Destroy Water"
 date:   2014-08-24
-sources: [PHB.229]
+sources: [PHB.229, SRD.132]
 tags: [genasi (water), cleric, druid, level1, transmutation]
 ---
 

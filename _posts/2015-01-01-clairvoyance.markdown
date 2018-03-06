@@ -2,7 +2,7 @@
 layout: post
 title:  "Clairvoyance"
 date:   2015-01-01
-sources: [PHB.222]
+sources: [PHB.222, SRD.124]
 tags: [bard, cleric, sorcerer, warlock (great old one), wizard, level3, divination]
 ---
 

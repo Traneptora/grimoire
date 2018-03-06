@@ -2,7 +2,7 @@
 layout: post
 title:  "Revivify"
 date:   2015-01-02
-sources: [PHB.272]
+sources: [PHB.272, SRD.175]
 tags: [cleric, paladin, level3, necromancy]
 ---
 

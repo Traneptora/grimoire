@@ -2,7 +2,7 @@
 layout: post
 title:  "Wish"
 date:   2015-01-10
-sources: [PHB.288]
+sources: [PHB.288, SRD.193]
 tags:   [sorcerer, wizard, level9, conjuration]
 ---
 

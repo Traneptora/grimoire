@@ -2,7 +2,7 @@
 layout: post
 title:  "Comprehend Languages"
 date:   2014-08-24
-sources: [PHB.224]
+sources: [PHB.224, SRD.126]
 tags: [bard, sorcerer, warlock, wizard, level1, ritual, divination]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Darkness"
 date:   2015-01-07
-sources: [PHB.230]
+sources: [PHB.230, SRD.133]
 tags: [elf (drow), elf (mul daya), tiefling, druid (swamp), monk (shadow), paladin (oathbreaker), sorcerer, warlock, wizard, level2, evocation]
 ---
 

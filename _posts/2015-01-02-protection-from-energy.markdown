@@ -2,7 +2,7 @@
 layout: post
 title:  "Protection from Energy"
 date:   2015-01-02
-sources: [PHB.270]
+sources: [PHB.270, SRD.173]
 tags: [cleric, druid, paladin (ancients), paladin (vengeance), ranger, sorcerer, wizard, level3, abjuration]
 ---
 

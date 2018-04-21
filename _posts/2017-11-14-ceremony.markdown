@@ -28,4 +28,4 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 **Funeral Rite.** You touch one corpse, and for the next 7 days, the target can’t become undead by any means short of a wish spell.
 
-**Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only of widowed.
+**Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 30 feet of each other. A creature can benefit from this rite again only if widowed.

@@ -25,17 +25,17 @@
 			<a id="{{level.tag}}"></a>
 			<h2 class="post-list-head jetsHide">{{level.title}}</h2>
 			{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
-			{% for post in post_list %}
-			{% for tag in post.tags %}
-			{% if tag == page.tag %}
 			<ul class="post-list jetsContent">
+				{% for post in post_list %}
+				{% for tag in post.tags %}
+				{% if tag == page.tag %}
 				<li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</li>
+				{% endif %}
+				{% endfor %}
+				{% endfor %}
 			</ul>
-			{% endif %}
-			{% endfor %}
-			{% endfor %}
 			<a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
 			{% endfor %}
 		</div>

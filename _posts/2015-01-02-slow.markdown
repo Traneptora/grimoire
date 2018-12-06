@@ -22,4 +22,4 @@ An affected target’s speed is halved, it takes a -2 penalty to AC and Dexterit
 
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted.
 
-A creature affected by this spell makes another Wisdom saving throw at the end of its turn. On a successful save, the effect ends for it.
+A creature affected by this spell makes another Wisdom saving throw at the end of each of its turns. On a successful save, the effect ends for it.

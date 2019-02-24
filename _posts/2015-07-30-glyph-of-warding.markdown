@@ -12,7 +12,7 @@ tags: [bard, cleric, wizard, level3, abjuration]
 
 **Range**: Touch
 
-**Components**: V, S, M, (incense and powdered diamond worth at least 200 gp, which the spell consumes)
+**Components**: V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes)
 
 **Duration**: Until dispelled or triggered
 

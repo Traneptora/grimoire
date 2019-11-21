@@ -3,7 +3,7 @@ layout: post
 title:  "Arcane Eye"
 date:   2015-01-01
 sources: [PHB.214, SRD.118]
-tags: [cleric (knowledge), cleric (arcana), wizard, level4, divination]
+tags: [artificer, cleric (knowledge), cleric (arcana), wizard, level4, divination]
 ---
 
 **4th-level divination**

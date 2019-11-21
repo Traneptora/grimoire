@@ -3,7 +3,7 @@ layout: post
 title: "Bigby’s Hand"
 date: 2015-07-30
 sources: [PHB.218]
-tags: [wizard, level5, evocation]
+tags: [artificer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

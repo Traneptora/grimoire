@@ -35,11 +35,6 @@
         text-align: right;
     }
 
-    #menu {
-        float: right;
-        width: 75%;
-    }
-
     .page-link {
         color: $text-color;
         font-size: 18px;
@@ -48,6 +43,13 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             padding-left: 20px;
+        }
+    }
+
+    @include media-query($on-laptop) {
+        #menu {
+            float: right;
+            width: 75%;
         }
     }
 

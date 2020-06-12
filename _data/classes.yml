@@ -1,3 +1,5 @@
+- name: Artificer
+  tag: artificer
 - name: Bard
   tag: bard
 - name: Cleric
@@ -14,5 +16,3 @@
   tag: warlock
 - name: Wizard
   tag: wizard
-- name: Artificer
-  tag: artificer

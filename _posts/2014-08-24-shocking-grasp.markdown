@@ -3,7 +3,7 @@ layout: post
 title:  "Shocking Grasp"
 date:   2014-08-24
 sources: [PHB.275, SRD.179]
-tags: [sorcerer, wizard, cantrip, evocation]
+tags: [artificer, sorcerer, wizard, cantrip, evocation]
 ---
 
 **Evocation cantrip**

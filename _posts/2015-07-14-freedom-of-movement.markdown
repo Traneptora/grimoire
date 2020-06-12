@@ -3,7 +3,7 @@ layout: post
 title: "Freedom of Movement"
 date: 2015-07-14
 sources: [PHB.244, SRD.147]
-tags: [bard, cleric, druid, paladin (devotion), ranger, level4, abjuration]
+tags: [artificer, bard, cleric, druid, paladin (devotion), ranger, level4, abjuration]
 ---
 
 **4th-level abjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Tiny Servant"
 date:   2017-11-14
 sources: [Xanathar.168]
-tags: [wizard, level3, transmutation]
+tags: [artificer, wizard, level3, transmutation]
 ---
 
 **3rd-level transmutation**

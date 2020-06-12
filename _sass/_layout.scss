@@ -26,6 +26,7 @@
 
 .site-nav {
     line-height: 56px;
+    text-align: right;
 
     .menu-icon {
         display: none;
@@ -33,6 +34,11 @@
 
     .trigger {
         text-align: right;
+    }
+
+    #menu {
+        float: right;
+        width: 60%;
     }
 
     .page-link {
@@ -43,13 +49,6 @@
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             padding-left: 20px;
-        }
-    }
-
-    @include media-query($on-laptop) {
-        #menu {
-            float: right;
-            width: 75%;
         }
     }
 
@@ -91,6 +90,11 @@
             -ms-transition: max-height 0.5s;
             transition: max-height 0.5s;
             text-align: center;
+        }
+
+        #menu {
+            float: initial;
+            width: 100%;
         }
 
         .show {

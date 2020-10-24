@@ -32,6 +32,4 @@ The target’s gear melds into the new form. The creature can’t activate, use,
 
 If the spell becomes permanent, you no longer control the creature. It might remain friendly to you, depending on how you have treated it.
 
-
-
 **Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object’s size is no larger than the creature’s size. The creature’s statistics become those of the object, and the creature has no memory of time spent in this form, after the spell ends and it returns to its normal form.

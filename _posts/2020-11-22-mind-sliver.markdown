@@ -6,7 +6,7 @@ sources: [TCE.108]
 tags: [sorcerer, warlock, wizard, cantrip, enchantment]
 ---
 
-**Enchantment Cantrip**
+**Enchantment cantrip**
 
 **Casting Time**: 1 action
 

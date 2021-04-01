@@ -9,10 +9,10 @@ Grimoire is forked from [ephe/grimoire](https://github.com/ephe/grimoire/), whic
 ## Contributing
 Feel free to open pull requests or issues on Github for any defects or suggested enhancements you may find. Alternatively, join my public discord at [https://discord.gg/gbykrG2](https://discord.gg/gbykrG2) and chat with me in `#software-dev-stuff`.
 
-If you'd like to submit a Pull Request or somehow contribute code, I recommend you read the [Style Guidelines](https://github.com/thebombzen/grimoire/blob/master/style-guidelines.md). If your submissions do not match this style I'll probably request changes rather than merge it. 
+If you'd like to submit a Pull Request or somehow contribute code, I recommend you read the [Style Guidelines](https://github.com/thebombzen/grimoire/blob/master/style-guidelines.md). If your submissions do not match this style I'll probably request changes rather than merge it.
 
 ## Changelog
-* See the commit history. The Grimoire is "done" at this point in that all the spells have been added (as of mid-to-late 2016).
+* See the commit history. The Grimoire is "done" at this point in that all the spells from the base game have been added (as of mid-to-late 2016).
 
 ## To Do
 * Find a real home for class specializations (e.g. cleric's domains). Currently, to view spells available to a tempest cleric, one must do a tag search for: cleric | cleric (tempest). This is ulgy and needs fixing.
@@ -20,9 +20,9 @@ If you'd like to submit a Pull Request or somehow contribute code, I recommend y
 ## Structure
 Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](https://jekyllrb.com) to process the posts properly.
 
-If you'd like to help fill out the rest of the spells from the PHB, for each new spell you make:
+If you'd like to help fill out the rest of the spells from the PHB or another source, for each new spell you make:
 
-1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell.
+1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell. The date on the spell is not important, but Jekyll needs one to generate the site.
 2. Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
 
 ## Build Instructions
@@ -37,4 +37,4 @@ Thanks to [@sethxd](https://github.com/sethxd/) for suggesting [Jets.js](https:/
 
 Thanks to [@ephe](https://github.com/ephe/) for writing the original version of this thing in the first place.
 
-Thanks to [@Eikrem63](https://github.com/Eikrem63) and [@duatharben](https://github.com/duatharben) for adding the spells from Xanathar's Guide to Everything. 
+Thanks to [@Eikrem63](https://github.com/Eikrem63), [@duatharben](https://github.com/duatharben), and [@MrRelik](https://github.com/MrRelik) for their work in adding spells from supplemental materials.

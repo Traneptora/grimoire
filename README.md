@@ -7,7 +7,7 @@ See the latest compiled build here: [https://thebombzen.com/grimoire/](https://t
 Grimoire is forked from [ephe/grimoire](https://github.com/ephe/grimoire/), which has since been taken down (à la DMCA).
 
 ## Contributing
-Feel free to open pull requests or issues on Github for any defects or suggested enhancements you may find. Alternatively, join my public discord at [https://discord.gg/gbykrG2](https://discord.gg/gbykrG2) and chat with me in `#software-dev-stuff`.
+Feel free to open pull requests or issues on Github for any defects or suggested enhancements you may find. Alternatively, join my public discord at [https://discord.gg/dddyZ7be9q](https://discord.gg/dddyZ7be9q) and chat with me in `#software-dev-stuff`.
 
 If you'd like to submit a Pull Request or somehow contribute code, I recommend you read the [Style Guidelines](https://github.com/thebombzen/grimoire/blob/master/style-guidelines.md). If your submissions do not match this style I'll probably request changes rather than merge it.
 
@@ -22,7 +22,7 @@ Spells can be found inside `_posts/`. Each spell gets its own post, written and 
 
 If you'd like to help fill out the rest of the spells from the PHB or another source, for each new spell you make:
 
-1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell. The date on the spell is not important, but Jekyll needs one to generate the site.
+1. Make a new post inside `_posts/` for each new spell, and copy the formatting from another spell.
 2. Submit a pull request for the spell(s) when you're finished, and that's it! Thank you so much. :)
 
 ## Build Instructions

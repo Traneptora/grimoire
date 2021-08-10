@@ -1,26 +1,24 @@
 function parseURLParams(url) {
-    var queryStart = url.indexOf("?") + 1,
-        queryEnd   = url.indexOf("#") + 1 || url.length + 1,
-        query = url.slice(queryStart, queryEnd - 1),
-        pairs = query.replace(/\+/g, " ").split("&"),
-        parms = {}, i, n, v, nv;
+    let queryStart = url.indexOf("?") + 1;
+    let queryEnd   = url.indexOf("#") + 1 || url.length + 1;
+    let query = url.slice(queryStart, queryEnd - 1);
+    let pairs = query.split("&");
+    let params = {};
 
     if (query === url || query === "") {
-        return;
+        return [];
     }
 
-    for (i = 0; i < pairs.length; i++) {
-        nv = pairs[i].split("=");
-        n = decodeURIComponent(nv[0]);
-        v = decodeURIComponent(nv[1]);
-
-        if (!parms.hasOwnProperty(n)) {
-            parms[n] = [];
+    for (let i = 0; i < pairs.length; i++) {
+        let eqIndex = pairs[i].indexOf("=");
+        if (eqIndex < 0){
+            continue;
         }
-
-        parms[n].push(nv.length === 2 ? v : null);
+        let key = decodeURIComponent(pairs[i].slice(0, eqIndex));
+        let value = decodeURIComponent(pairs[i].slice(eqIndex + 1));
+        params[key] = value;
     }
-    return parms;
+    return params;
 }
 
 function doesElementListMatchElementSearchNot(elementSearch, elementList, matchFunction){

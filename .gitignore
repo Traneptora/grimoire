@@ -3,3 +3,4 @@ _site/
 _drafts/
 grimoire.sublime*
 .sass-cache/
+.jekyll-cache/

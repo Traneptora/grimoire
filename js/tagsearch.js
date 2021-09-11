@@ -1,49 +1,49 @@
-
-function getTagSearchFromURL(url){
-	var urlp  = parseURLParams(url);
-	if (urlp && urlp.tagSearch && urlp.tagSearch.length > 0) {
-		return urlp.tagSearch[0];
-	} else {
-		return undefined;
-	}
-}
-
-function doesTagMatchTagList(tag, tagList){
-	var tagListArr = tagList.split(',');
-    for (var j = 0; j < tagListArr.length; j++){
-        if (tagListArr[j].trim().toLowerCase() === tag.toLowerCase()){
-            return true;
+function matchTagList(searchQuery, tagList){
+    const tagArray = tagList.split(',').map((tag) => tag.replaceAll(/\s+/g, '').replaceAll(/\..*$/g, '').toLowerCase());
+    return searchQuery.toLowerCase().split('|').some((part) => part.split('&').every((part2) => {
+        let atom = part2.replaceAll(/\s+/g, '');
+        let flip = false;
+        while (atom.startsWith('!')){
+            atom = atom.substring(1);
+            flip = !flip;
         }
+        return flip ^ tagArray.includes(atom);
+    }));
+}
+
+function runTagSearch(bar, dataEntry, classPrefix){
+    const searchQuery = document.getElementById(bar).value;
+    Array.from(document.querySelectorAll("li.post-link-container")).filter((elem) => {
+        return !!elem.dataset[dataEntry];
+    }).forEach((elem) => {
+        if (!searchQuery || matchTagList(searchQuery, elem.dataset[dataEntry])){
+            elem.classList.remove(classPrefix + "-hide");
+        } else {
+            elem.classList.add(classPrefix + "-hide");
+        }
+    });
+}
+
+function ready(){
+    const tagSearchBar = document.getElementById("tagSearchBar");
+    const sourceSearchBar = document.getElementById("sourceSearchBar");
+    const params = new URLSearchParams(window.location.search);
+    if (params.get("tagSearch")){
+        tagSearchBar.value = params.get("tagSearch");
     }
-    return false;
+    if (params.get("sourceSearch")){
+        sourceSearchBar.value = params.get("sourceSearch");
+    }
+    const tagSearch = (event) => runTagSearch("tagSearchBar", "tags", "tagsearch");
+    tagSearchBar.addEventListener("change", tagSearch);
+    tagSearchBar.addEventListener("keydown", tagSearch);
+    tagSearchBar.addEventListener("input", tagSearch);
+    const sourceSearch = (event) => runTagSearch("sourceSearchBar", "sources", "sourcesearch");
+    sourceSearchBar.addEventListener("change", sourceSearch);
+    sourceSearchBar.addEventListener("keydown", sourceSearch);
+    sourceSearchBar.addEventListener("input", sourceSearch);
+    tagSearch();
+    sourceSearch();
 }
 
-function runTagSearch(){
-	var lis = document.getElementsByTagName("li");
-  	var query = document.getElementById("tagSearchBar").value;
-  	var invalid = !query || query === "";
-  	for (var i = 0; i < lis.length; i++){
-  		var li = lis[i];
-  		if (li.dataset && li.dataset.tags){
-  			var tagList = li.dataset.tags;
-	  		if (!invalid && !doesElementListMatchElementSearch(query, tagList, doesTagMatchTagList)){
-	  			li.classList.add("tagsearch-hide");
-	  		} else {
-	  			li.classList.remove("tagsearch-hide");
-	  		}
-  		}
-  	}
-}
-
-document.addEventListener("DOMContentLoaded", function(event) {
-	var tsb = document.getElementById("tagSearchBar");
-	var tsu  = getTagSearchFromURL(window.location.search);
-	if (tsu) {
-		tsb.value = tsu;
-	}
-	tsb.addEventListener("change", runTagSearch);
-	tsb.addEventListener("keydown", runTagSearch);
-	tsb.addEventListener("input", runTagSearch);
-	runTagSearch();
-});
-
+document.addEventListener("DOMContentLoaded", ready);

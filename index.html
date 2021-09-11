@@ -21,7 +21,7 @@ layout: default
     <ul class="post-list jetsContent">
       {% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
       {% for post in post_list %}
-        <li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
+        <li class="post-link-container" data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
       {% endfor %}

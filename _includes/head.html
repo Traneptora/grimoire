@@ -7,6 +7,7 @@
     <meta name="description" content="{{ site.description }}">
 	<link rel="icon" href="{{ "/images/calibre-viewer.png" | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="/fonts/linux-libertine/index.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:title" content="{{ site.title }}">
     <meta property="og:type" content="website">
@@ -38,16 +39,5 @@
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
 	    }
     </script>
-    <script src="{{ '/js/search-common.js' | prepend: site.baseurl }}"></script>
     <script src="{{ '/js/tagsearch.js' | prepend: site.baseurl }}"></script>
-    <script src="{{ '/js/sourcesearch.js' | prepend: site.baseurl }}"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
-    <script>
-        WebFont.load({
-            custom: {
-                families: ['Linux Libertine', 'Linux Libertine Display'],
-                urls: ['/fonts/libertine/linux-libertine/linux-libertine.css']
-            }
-        });
-    </script>
 </head>

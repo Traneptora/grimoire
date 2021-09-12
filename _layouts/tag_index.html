@@ -29,7 +29,7 @@
 				{% for post in post_list %}
 				{% for tag in post.tags %}
 				{% if tag == page.tag %}
-				<li data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
+				<li class="post-link-container" data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
 					<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 				</li>
 				{% endif %}

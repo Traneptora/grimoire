@@ -1,30 +1,392 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>The Grimoire</title>
+    <description>A searchable D&amp;D 5e spell list, sorted by class and level.</description>
+    <link>https://thebombzen.com/grimoire/</link>
+    <atom:link href="https://thebombzen.com/grimoire/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Oct 2021 22:38:10 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Oct 2021 22:38:10 -0400</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Tasha’s Otherworldly Guise</title>
+        <description>&lt;p&gt;&lt;strong&gt;6th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 bonus action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: Self&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (an object engraved with a symbol of the Outer Planes, worth at least 500gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 minute&lt;/p&gt;
+
+&lt;p&gt;Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are immune to the poisoned condition (Lower Planes) or the charmed condition (Upper Planes).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spectral wings appear on your back, giving you a flying speed of 40 feet.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You have a +2 bonus to AC.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/tashas-otherwordly-guise</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/tashas-otherwordly-guise</guid>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level6</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Summon Undead</title>
+        <description>&lt;p&gt;&lt;strong&gt;3rd-level necromancy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (A gilded skull worth at least 300 gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature’s form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-undead</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-undead</guid>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level3</category>
+        
+        <category>necromancy</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Shadowspawn</title>
+        <description>&lt;p&gt;&lt;strong&gt;3rd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (tears inside a gem worth at least 300gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-shadowspawn</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-shadowspawn</guid>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level3</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Fiend</title>
+        <description>&lt;p&gt;&lt;strong&gt;6th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (humanoid blood inside a ruby vial worth at least 600gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-fiend</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-fiend</guid>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level6</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Fey</title>
+        <description>&lt;p&gt;&lt;strong&gt;3rd-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (A gilded flower worth at least 300 gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fey Spirit stat block. When you cast the spell, choose a mood: Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-fey</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-fey</guid>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level3</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Elemental</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (air, a pebble, ash, and water inside a gold inlaid vial worth at least 400gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-elemental</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-elemental</guid>
+        
+        <category>druid</category>
+        
+        <category>ranger</category>
+        
+        <category>wizard</category>
+        
+        <category>level4</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Construct</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (An ornate stone and metal lockbox worth at least 400gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Construct Spirit stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-construct</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-construct</guid>
+        
+        <category>artificer</category>
+        
+        <category>wizard</category>
+        
+        <category>level4</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Celestial</title>
+        <description>&lt;p&gt;&lt;strong&gt;5th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a gold reliquary worth at least 500gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the Celestial Spirit stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature’s attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 6th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-celestial</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-celestial</guid>
+        
+        <category>cleric</category>
+        
+        <category>paladin</category>
+        
+        <category>level5</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Summon Aberration</title>
+        <description>&lt;p&gt;&lt;strong&gt;4th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 1 action&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 90 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (A pickled tentacle and an eyeball in a platinum-inlaid vial worth at least 400gp)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: Concentration, up to 1 hour&lt;/p&gt;
+
+&lt;p&gt;You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Aberrant Spirit stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.&lt;/p&gt;
+
+&lt;p&gt;The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don’t issue any, it takes the Dodge action and uses its move to avoid danger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At Higher Levels.&lt;/strong&gt; When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell’s level appears in the stat block.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/summon-aberration</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/summon-aberration</guid>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level4</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
+      <item>
+        <title>Dream of the Blue Veil</title>
+        <description>&lt;p&gt;&lt;strong&gt;7th-level conjuration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Casting Time&lt;/strong&gt;: 10 minutes&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Range&lt;/strong&gt;: 20 feet&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components&lt;/strong&gt;: V, S, M (a magic item or a willing creature from the destination world)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duration&lt;/strong&gt;: 6 hours&lt;/p&gt;
+
+&lt;p&gt;You and up to eight willing creatures within range fall unconscious for the spell’s duration and experience visions of another world on the Material Plane, such as Oerth, Toril, Krynn, or Eberron. If the spell reaches its full duration, the visions conclude with each of you encountering and pulling back a mysterious blue curtain. The spell then ends with you mentally and physically transported to the world that was in the visions.&lt;/p&gt;
+
+&lt;p&gt;To cast this spell, you must have a magic item that originated in the world you wish to reach, and you must be aware of the world’s existence, even if you don’t know the world’s name. Your destination in the other world is a safe location within 1 mile of where the magic item was created. Alternatively, you can cast the spell if one of the affected creatures was born on the other world, which causes your destination to be a safe location within 1 mile of where that creature was born.&lt;/p&gt;
+
+&lt;p&gt;The spell ends early on a creature if that creature takes any damage, and the creature isn’t transported. If you take any damage, the spell ends for you and all the other creatures, with none of you being transported.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2020 00:00:00 -0500</pubDate>
+        <link>https://thebombzen.com/grimoire/spells/dream-of-the-blue-veil</link>
+        <guid isPermaLink="true">https://thebombzen.com/grimoire/spells/dream-of-the-blue-veil</guid>
+        
+        <category>bard</category>
+        
+        <category>sorcerer</category>
+        
+        <category>warlock</category>
+        
+        <category>wizard</category>
+        
+        <category>level7</category>
+        
+        <category>conjuration</category>
+        
+        
+        <category>spells</category>
+        
+      </item>
+    
   </channel>
 </rss>

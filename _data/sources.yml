@@ -8,3 +8,7 @@
   source: Xanathar
 - name: Tasha’s Cauldron of Everything
   source: TCE
+- name: Fizban’s Treasury of Dragons
+  source: FTD
+- name: "Strixhaven: A Curriculum of Chaos"
+  source: SCC

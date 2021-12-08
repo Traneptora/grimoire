@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fizban's Platinum Shield"
+title: "Fizban’s Platinum Shield"
 date: 2021-10-30
 sources: [FTD.20]
 tags: [sorcerer, wizard, level6, abjuration]

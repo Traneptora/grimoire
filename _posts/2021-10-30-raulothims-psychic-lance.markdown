@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Raulothim's Psychic Lance"
+title: "Raulothim’s Psychic Lance"
 date: 2021-10-30
 sources: [FTD.21]
 tags: [bard, sorcerer, warlock, wizard, level4, enchantment]

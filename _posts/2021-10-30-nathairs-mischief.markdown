@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nathair's Mischief"
+title: "Nathair’s Mischief"
 date: 2021-10-30
 sources: [FTD.20]
 tags: [bard, sorcerer, wizard, level2, illusion]

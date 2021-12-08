@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ashardalon's Stride"
+title: "Ashardalon’s Stride"
 date: 2021-10-30
 sources: [FTD.19]
 tags: [artificer, ranger, sorcerer, wizard, level3, transmutation]

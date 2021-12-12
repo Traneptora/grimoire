@@ -3,7 +3,7 @@ layout: post
 title:  "Elemental Weapon"
 date:   2015-01-01
 sources: [PHB.237]
-tags: [artificer, cleric (forge), paladin, level3, transmutation]
+tags: [artificer, cleric (forge), paladin, ranger, level3, transmutation]
 ---
 
 **3rd-level transmutation**

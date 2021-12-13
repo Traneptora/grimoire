@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Power Word Heal"
-date:   2015-01-10
+title: "Power Word Heal"
+date: 2015-01-10
 sources: [PHB.266]
-tags:   [bard, level9, evocation]
+tags: [cleric, bard, level9, evocation]
 ---
 
 **9th-level evocation**

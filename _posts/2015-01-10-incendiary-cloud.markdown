@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Incendiary Cloud"
-date:   2015-01-10
+title: "Incendiary Cloud"
+date: 2015-01-10
 sources: [PHB.253, SRD.157]
-tags:   [sorcerer, wizard, level8, conjuration]
+tags: [druid, sorcerer, wizard, level8, conjuration]
 ---
 
 **8th-level conjuration**

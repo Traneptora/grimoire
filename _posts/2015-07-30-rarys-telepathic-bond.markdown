@@ -3,7 +3,7 @@ layout: post
 title: "Rary’s Telepathic Bond"
 date:  2015-07-30
 sources: [PHB.270]
-tags:  [wizard, level5, ritual, divination]
+tags:  [bard, wizard, level5, ritual, divination]
 ---
 
 **5th-level divination (ritual)**

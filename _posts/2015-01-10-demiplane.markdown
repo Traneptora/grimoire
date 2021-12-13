@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Demiplane"
-date:   2015-01-10
+title: "Demiplane"
+date: 2015-01-10
 sources: [PHB.231, SRD.134]
-tags:   [warlock, wizard, level8, conjuration]
+tags: [sorcerer, warlock, wizard, level8, conjuration]
 ---
 
 **8th-level conjuration**

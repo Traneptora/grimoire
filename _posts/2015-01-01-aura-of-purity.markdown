@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Aura of Purity"
-date:   2015-01-01
+title: "Aura of Purity"
+date: 2015-01-01
 sources: [PHB.216]
-tags: [artificer (battle smith), paladin, level4, abjuration]
+tags: [artificer (battle smith), cleric, paladin, level4, abjuration]
 ---
 
 **4th-level abjuration**

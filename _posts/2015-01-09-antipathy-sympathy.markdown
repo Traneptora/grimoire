@@ -3,7 +3,7 @@ layout: post
 title:  "Antipathy/Sympathy"
 date:   2015-01-09
 sources: [PHB.214, SRD.117]
-tags:   [druid, wizard, level8, enchantment]
+tags:   [bard, druid, wizard, level8, enchantment]
 ---
 
 **8th-level enchantment**

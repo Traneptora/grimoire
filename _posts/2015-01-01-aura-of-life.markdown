@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Aura of Life"
-date:   2015-01-01
+title: "Aura of Life"
+date: 2015-01-01
 sources: [PHB.216]
-tags: [paladin, warlock (undying), level4, abjuration]
+tags: [cleric, paladin, warlock (undying), level4, abjuration]
 ---
 
 **4th-level abjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Prayer of Healing"
 date:   2014-12-31
 sources: [PHB.267, SRD.170]
-tags: [cleric, level2, evocation]
+tags: [cleric, paladin, level2, evocation]
 ---
 
 **2nd-level evocation**

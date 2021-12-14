@@ -3,7 +3,7 @@ layout: post
 title:  "Infernal Calling"
 date: 2017-11-16
 sources: [Xanathar.158]
-tags: [warlock, wizard, level5, conjuration]
+tags: [warlock, wizard, level5, concentration, conjuration]
 ---
 
 **5th-level conjuration**

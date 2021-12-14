@@ -3,7 +3,7 @@ layout: post
 title:  "Holy Weapon"
 date:   2017-11-14
 sources: [Xanathar.157]
-tags: [cleric, paladin, level5, evocation]
+tags: [cleric, paladin, level5, concentration, evocation]
 ---
 
 **5th-level evocation**

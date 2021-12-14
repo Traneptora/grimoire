@@ -3,7 +3,7 @@ layout: post
 title: "Summon Shadowspawn"
 date: 2020-11-23
 sources: [TCE.113]
-tags: [warlock, wizard, level3, conjuration]
+tags: [warlock, wizard, level3, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

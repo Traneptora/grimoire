@@ -3,7 +3,7 @@ layout: post
 title:  "Friends"
 date:   2014-08-24
 sources: [PHB.244]
-tags: [bard, sorcerer, warlock, wizard, cantrip, enchantment]
+tags: [bard, sorcerer, warlock, wizard, cantrip, concentration, enchantment]
 ---
 
 **Enchantment cantrip**

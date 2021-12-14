@@ -3,7 +3,7 @@ layout: post
 title: "Summon Construct"
 date: 2020-11-23
 sources: [TCE.111]
-tags: [artificer, wizard, level4, conjuration]
+tags: [artificer, wizard, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

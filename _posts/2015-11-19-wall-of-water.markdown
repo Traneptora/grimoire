@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Water"
 date: 2015-11-19
 sources: [EE.23, Xanathar.170]
-tags: [druid, sorcerer, wizard, level3, evocation]
+tags: [druid, sorcerer, wizard, level3, concentration, evocation]
 ---
 
 **3rd-level evocation**

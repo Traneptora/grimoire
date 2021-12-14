@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Sand"
 date: 2015-11-22
 sources: [EE.23, Xanathar.170]
-tags: [wizard, level3, evocation]
+tags: [wizard, level3, concentration, evocation]
 ---
 
 **3rd-level evocation**

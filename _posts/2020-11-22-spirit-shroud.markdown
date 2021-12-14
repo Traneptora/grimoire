@@ -3,7 +3,7 @@ layout: post
 title: "Spirit Shroud"
 date: 2020-11-22
 sources: [TCE.108]
-tags: [cleric, paladin, warlock, wizard, level3, necromancy]
+tags: [cleric, paladin, warlock, wizard, level3, concentration, necromancy]
 ---
 
 **3rd-level necromancy**

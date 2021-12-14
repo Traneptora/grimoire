@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Force"
 date: 2015-07-30
 sources: [PHB.285, SRD.190]
-tags: [artificer (artillerist), paladin (redemption), wizard, level5, evocation]
+tags: [artificer (artillerist), paladin (redemption), wizard, level5, concentration, evocation]
 ---
 
 **5th-level evocation**

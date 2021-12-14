@@ -3,7 +3,7 @@ layout: post
 title: "Circle of Power"
 date: 2015-07-14
 sources: [PHB.221]
-tags: [paladin, level5, abjuration]
+tags: [paladin, level5, concentration, abjuration]
 ---
 
 **5th-level abjuration**

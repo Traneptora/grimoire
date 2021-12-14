@@ -3,7 +3,7 @@ layout: post
 title: "Conjure Elemental"
 date: 2015-07-14
 sources: [PHB.225, SRD.128]
-tags: [druid, wizard, level5, conjuration]
+tags: [druid, wizard, level5, concentration, conjuration]
 ---
 
 **5th-level conjuration**

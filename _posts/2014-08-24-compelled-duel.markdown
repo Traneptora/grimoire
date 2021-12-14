@@ -3,7 +3,7 @@ layout: post
 title:  "Compelled Duel"
 date:   2014-08-24
 sources: [PHB.224]
-tags: [paladin, level1, enchantment]
+tags: [paladin, level1, concentration, enchantment]
 ---
 
 **1st-level enchantment**

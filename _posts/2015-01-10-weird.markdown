@@ -3,7 +3,7 @@ layout: post
 title: "Weird"
 date: 2015-01-10
 sources: [PHB.288, SRD.192]
-tags: [warlock, wizard, level9, illusion]
+tags: [warlock, wizard, level9, concentration, illusion]
 ---
 
 **9th-level illusion**

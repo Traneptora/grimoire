@@ -3,7 +3,7 @@ layout: post
 title: "Summon Aberration"
 date: 2020-11-23
 sources: [TCE.109]
-tags: [warlock, wizard, level4, conjuration]
+tags: [warlock, wizard, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

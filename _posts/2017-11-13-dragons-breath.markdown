@@ -3,7 +3,7 @@ layout: post
 title:  "Dragon’s Breath"
 date: 2017-11-13
 sources: [Xanathar.154]
-tags: [sorcerer, wizard, level2, transmutation]
+tags: [sorcerer, wizard, level2, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

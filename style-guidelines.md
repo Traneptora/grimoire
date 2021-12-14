@@ -2,12 +2,12 @@
 
 Here's a list of code stylistic guidelines for post markdown pages I'd like to be able to follow for future pages on The Grimoire, and eventually get around to editing all previous entries to fit these styles.
 
-Many of these conventions have reason, and many of them are arbitrary and have consistency.
+Some of these conventions have a reason, but some of them are arbitrary and exist only for the sake of consistency.
 
 ## Capitalization
 
-- Post markdown filenames are lowercase, even if the spell title has capital letters
-- The official spell lists usually disagree with the official spell descriptions on how the spell title is capitalized. If there's a conflict, the capitalization used in the spell description is preferred. (Example: *Toll the Dead* is capitalized as such in its description, but it's listed as "Toll the dead" on the Wizard list.)
+- Post markdown filenames are lowercase, even if the spell title has capital letters.
+- The official spell lists frequently disagree with the official spell descriptions on how the spell title is capitalized. If there's a conflict, the capitalization used in the spell description is preferred. (Example: *Toll the Dead* is capitalized as such in its description, but it's listed as "Toll the dead" on the Wizard list.)
 - Cantrips are capitalized as such: **Necromancy cantrip**
 - 1st-level and higher spells are capitalized as such: **4th-level evocation**
 - Hyperlinks and other references to spells are capitalized the same way as the spell itself.
@@ -17,7 +17,7 @@ Many of these conventions have reason, and many of them are arbitrary and have c
 - Italics should use *\*asterisks\**. Do not use \_underscores\_ for italics. (This makes the markdown more human-readable.)
 - Bold should use **\*\*double asterisks\*\***. Do not use \_\_double underscores\_\_ for bold text. (This makes the markdown more human-readable.)
 - If an em-dash (---) and an en-dash (--) both make sense in context, use an em-dash.
-- Use smart quotes (i.e. “” or ’) instead of straight quotes (i.e. "" and ') in the main post bodies. Don't do this in post headers or footers.
+- Use smart quotes (i.e. “” or ’) instead of straight quotes (i.e. "" and ') in the main post bodies, and also in post headers and footers. Omit both in filenames.
 
 ## Spell References
 
@@ -33,8 +33,9 @@ Tags are sorted in this order:
 1. Race tags, alphabetically, if applicable.
 2. Class tags, alphabetically. Class domain tags count as class tags.
 3. The level tag.
-4. The ritual tag, if applicable.
-5. The school tag.
+4. The concentration tag, if applicable.
+5. The ritual tag, if applicable.
+6. The school tag.
 
 Example: [Speak with Animals](https://thebombzen.com/grimoire/spells/speak-with-animals): \[barbarian (totem warrior), bard, cleric (nature), druid, paladin (ancients), ranger, level1, ritual, divination\]
 

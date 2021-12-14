@@ -3,7 +3,7 @@ layout: post
 title: "Summon Fey"
 date: 2020-11-23
 sources: [TCE.112]
-tags: [druid, ranger, warlock, wizard, level3, conjuration]
+tags: [druid, ranger, warlock, wizard, level3, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Alter Self"
 date: 2015-01-02
 sources: [PHB.211, SRD.114]
-tags: [artificer, sorcerer, wizard, level2, transmutation]
+tags: [artificer, sorcerer, wizard, level2, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

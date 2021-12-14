@@ -3,7 +3,7 @@ layout: post
 title:  "Antimagic Field"
 date:   2015-01-09
 sources: [PHB.213, SRD.117]
-tags: [cleric, wizard, level8, abjuration]
+tags: [cleric, wizard, level8, concentration, abjuration]
 ---
 
 **8th-level abjuration**

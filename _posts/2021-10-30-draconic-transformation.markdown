@@ -3,7 +3,7 @@ layout: post
 title: "Draconic Transformation"
 date: 2021-10-30
 sources: [FTD.19]
-tags: [druid, sorcerer, wizard, level7, transmutation]
+tags: [druid, sorcerer, wizard, level7, concentration, transmutation]
 ---
 
 **7th-level transmutation**

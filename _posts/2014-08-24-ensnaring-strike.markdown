@@ -3,7 +3,7 @@ layout: post
 title:  "Ensnaring Strike"
 date:   2014-08-24
 sources: [PHB.237]
-tags: [paladin (ancients), ranger, level1, conjuration]
+tags: [paladin (ancients), ranger, level1, concentration, conjuration]
 ---
 
 **1st-level conjuration**

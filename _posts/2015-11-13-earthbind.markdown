@@ -3,7 +3,7 @@ layout: post
 title:  "Earthbind"
 date: 2015-11-13
 sources: [EE.17, Xanathar.154]
-tags: [druid, sorcerer, warlock, wizard, level2, transmutation]
+tags: [druid, sorcerer, warlock, wizard, level2, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

@@ -3,7 +3,7 @@ layout: post
 title:  "Whirlwind"
 date: 2015-11-19
 sources: [EE.23, Xanathar.171]
-tags: [druid, sorcerer, wizard, level7, evocation]
+tags: [druid, sorcerer, wizard, level7, concentration, evocation]
 ---
 
 **7th-level evocation**

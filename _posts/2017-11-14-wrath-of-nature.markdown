@@ -3,7 +3,7 @@ layout: post
 title:  "Wrath of Nature"
 date:   2017-11-14
 sources: [Xanathar.171]
-tags: [druid, ranger, level5, evocation]
+tags: [druid, ranger, level5, concentration, evocation]
 ---
 
 **5th-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Summon Draconic Spirit"
 date: 2021-10-30
 sources: [FTD.21]
-tags: [druid, sorcerer, wizard, level5, conjuration]
+tags: [druid, sorcerer, wizard, level5, concentration, conjuration]
 ---
 
 **5th-level conjuration**

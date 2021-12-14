@@ -3,7 +3,7 @@ layout: post
 title:  "Conjure Minor Elementals"
 date:   2015-01-05
 sources: [PHB.226, SRD.128]
-tags: [druid, wizard, level4, conjuration]
+tags: [druid, wizard, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

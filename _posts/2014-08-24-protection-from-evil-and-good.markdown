@@ -3,7 +3,7 @@ layout: post
 title:  "Protection from Evil and Good"
 date:   2014-08-24
 sources: [PHB.270, SRD.173]
-tags: [cleric, druid, paladin, warlock, wizard, level1, abjuration]
+tags: [cleric, druid, paladin, warlock, wizard, level1, concentration, abjuration]
 ---
 
 **1st-level abjuration**

@@ -3,7 +3,7 @@ layout: post
 title: "Gate"
 date: 2015-01-10
 sources: [PHB.244, SRD.148]
-tags: [cleric, sorcerer, warlock, wizard, level9, conjuration]
+tags: [cleric, sorcerer, warlock, wizard, level9, concentration, conjuration]
 ---
 
 **9th-level conjuration**

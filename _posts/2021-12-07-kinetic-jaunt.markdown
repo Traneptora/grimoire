@@ -3,7 +3,7 @@ layout: post
 title: "Kinetic Jaunt"
 date: 2021-12-07
 sources: [SCC.37]
-tags: [artificer, bard, sorcerer, wizard, level2, transmutation]
+tags: [artificer, bard, sorcerer, wizard, level2, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

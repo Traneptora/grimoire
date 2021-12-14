@@ -3,7 +3,7 @@ layout: post
 title:  "Hail of Thorns"
 date:   2014-08-24
 sources: [PHB.249]
-tags: [ranger, level1, conjuration]
+tags: [ranger, level1, concentration, conjuration]
 ---
 
 **1st-level conjuration**

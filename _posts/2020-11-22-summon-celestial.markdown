@@ -3,7 +3,7 @@ layout: post
 title: "Summon Celestial"
 date: 2020-11-23
 sources: [TCE.110]
-tags: [cleric, paladin, level5, conjuration]
+tags: [cleric, paladin, level5, concentration, conjuration]
 ---
 
 **5th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Far Step"
 date: 2017-11-15
 sources: [Xanathar.155]
-tags: [sorcerer, warlock, wizard, level5, conjuration]
+tags: [sorcerer, warlock, wizard, level5, concentration, conjuration]
 ---
 
 **5th-level conjuration**

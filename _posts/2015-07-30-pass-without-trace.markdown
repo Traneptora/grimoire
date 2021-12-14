@@ -3,7 +3,7 @@ layout: post
 title: "Pass Without Trace"
 date: 2015-07-30
 sources: [PHB.264, SRD.167]
-tags: [genasi (earth), cleric (trickery), druid, monk (shadow), ranger, level2, abjuration]
+tags: [genasi (earth), cleric (trickery), druid, monk (shadow), ranger, level2, concentration, abjuration]
 ---
 
 **2nd-level abjuration**

@@ -3,7 +3,7 @@ layout: post
 title: "Summon Elemental"
 date: 2020-11-23
 sources: [TCE.111]
-tags: [druid, ranger, wizard, level4, conjuration]
+tags: [druid, ranger, wizard, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

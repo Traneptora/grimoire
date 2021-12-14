@@ -3,7 +3,7 @@ layout: post
 title: "Blade of Disaster"
 date: 2020-11-23
 sources: [TCE.106]
-tags: [sorcerer, warlock, wizard, level9, conjuration]
+tags: [sorcerer, warlock, wizard, level9, concentration, conjuration]
 ---
 
 **9th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Conjure Animals"
 date:   2015-01-01
 sources: [PHB.225, SRD.127]
-tags: [druid, ranger, level3, conjuration]
+tags: [druid, ranger, level3, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

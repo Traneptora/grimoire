@@ -11,25 +11,19 @@ require 'rubygems'
     task :generate do
       Jekyll::Site.new(Jekyll.configuration({
         "source"      => ".",
-        "destination" => "_site"
+        "destination" => "dist"
       })).process
     end
 
-    desc "Generate and publish blog to dist branch"
+    desc "Generate and publish blog to grimoire-dist"
     task :publish => [:generate] do
-      Dir.mktmpdir do |tmp|
-        system "mv _site/ #{tmp}/_site/"
-        system "git checkout dist"
-        system "rm -rf *"
-        system "mv #{tmp}/_site/* ./"
-        message = "Site updated at #{Time.now.utc}"
-        system "git add ."
-        system "git commit -am #{message.shellescape}"
-        system "git push"
-        system "git checkout master"
-        system "rmdir #{tmp}/_site/"
-        system "echo Published!"
-      end
+      Dir.chdir "dist/"
+      message = "Site updated at #{Time.now.utc}"
+      system "git add -Av"
+      system "git commit -m #{message.shellescape}"
+      system "git push"
+      Dir.chdir ".."
+      puts "Published!"
     end
 
 task :default => :publish

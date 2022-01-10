@@ -4,6 +4,21 @@
   tag: bard
 - name: Cleric
   tag: cleric
+  subclasses:
+   - name: Knowledge
+     subtag: knowledge
+   - name: Life
+     subtag: life
+   - name: Light
+     subtag: light
+   - name: Nature
+     subtag: nature
+   - name: Tempest
+     subtag: tempest
+   - name: Trickery
+     subtag: trickery
+   - name: War
+     subtag: war
 - name: Druid
   tag: druid
 - name: Paladin

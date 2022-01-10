@@ -7,20 +7,27 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <dl class="tag-list">
     <dt>Sources:</dt>
-    {% for source in page.sources %}
-    <dd>{{source}}</dd>
-    {% endfor %}
+      {% for source in page.sources %}
+      <dd>{{source}}</dd>
+      {% endfor %}
+    </dl>
     <dl class="tag-list">
-    <dt>Tags:</dt>
-    {% for tag in page.tags %}
-    <dd>
-        {% if tag == 'cantrip' or tag contains 'level' %}
-          <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
-        {% else %}
-          <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
-        {% endif %}
-    </dd>
-    {% endfor %}
+      <dt>Tags:</dt>
+      {% for tag in page.tags %}
+      <dd>
+          {% if tag == 'cantrip' or tag contains 'level' %}
+            <a href="{{site.baseurl}}/#{{tag}}">{{tag}}</a>
+          {% else %}
+            <a href="{{site.baseurl}}/tags/{{tag}}.html">{{tag}}</a>
+          {% endif %}
+      </dd>
+      {% endfor %}
+    </dl>
+    <dl class="tag-list">
+      {% for sub in page.subtags %}
+      <dd>{{sub}}</dd>
+      {% endfor %}
+    </dl>
   </header>
 
   <article class="post-content">

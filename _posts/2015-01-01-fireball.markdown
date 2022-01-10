@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Fireball"
-date:   2015-01-01
+title: "Fireball"
+date: 2015-01-01
 sources: [PHB.241, SRD.144]
 tags: [sorcerer, wizard, level3, evocation]
+subtags: [cleric: light]
 ---
 
 **3rd-level evocation**

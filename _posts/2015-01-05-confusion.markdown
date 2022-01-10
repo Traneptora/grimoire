@@ -4,6 +4,7 @@ title:  "Confusion"
 date:   2015-01-05
 sources: [PHB.224, SRD.127]
 tags: [bard, druid, sorcerer, wizard, level4, concentration, enchantment]
+subtags: [cleric: knowledge]
 ---
 
 **4th-level enchantment**

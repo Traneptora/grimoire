@@ -4,6 +4,7 @@ title:  "Arcane Eye"
 date:   2015-01-01
 sources: [PHB.214, SRD.118]
 tags: [artificer, wizard, level4, concentration, divination]
+subtags: [cleric: knowledge]
 ---
 
 **4th-level divination**

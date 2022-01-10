@@ -4,6 +4,7 @@ title:  "Identify"
 date:   2014-08-24
 sources: [PHB.252, SRD.155]
 tags: [artificer, bard, wizard, level1, ritual, divination]
+subtags: [cleric: knowledge]
 ---
 
 **1st-level divination (ritual)**

@@ -3,7 +3,7 @@ layout: post
 title:  "Faerie Fire"
 date:   2014-08-24
 sources: [PHB.239, SRD.141]
-tags: [elf (drow), artificer, bard, cleric (light), druid, warlock (fae), level1, concentration, evocation]
+tags: [artificer, bard, cleric (light), druid, warlock (fae), level1, concentration, evocation]
 ---
 
 **1st-level evocation**

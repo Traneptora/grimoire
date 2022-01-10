@@ -3,7 +3,7 @@ layout: post
 title:  "Burning Hands"
 date:   2014-08-24
 sources: [PHB.220, SRD.123]
-tags: [genasi (fire), cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level1, evocation]
+tags: [cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level1, evocation]
 ---
 
 **1st-level evocation**

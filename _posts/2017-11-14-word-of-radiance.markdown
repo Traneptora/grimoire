@@ -2,7 +2,7 @@
 layout: post
 title:  "Word of Radiance"
 date:   2017-11-14
-sources: [Xanathar.171]
+sources: [XGE.171]
 tags: [cleric, cantrip, evocation]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Gust"
 date: 2015-11-11
-sources: [EE.19, Xanathar.157]
+sources: [EE.19, XGE.157]
 tags: [druid, sorcerer, wizard, cantrip, transmutation]
 ---
 

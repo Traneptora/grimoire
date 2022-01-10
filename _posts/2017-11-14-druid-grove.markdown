@@ -2,7 +2,7 @@
 layout: post
 title:  "Druid Grove"
 date:   2017-11-14
-sources: [Xanathar.154]
+sources: [XGE.154]
 tags: [druid, level6, abjuration]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Tiny Servant"
 date:   2017-11-14
-sources: [Xanathar.168]
+sources: [XGE.168]
 tags: [artificer, wizard, level3, transmutation]
 ---
 

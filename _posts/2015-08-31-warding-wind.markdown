@@ -2,7 +2,7 @@
 layout: post
 title:  "Warding Wind"
 date: 2015-08-31
-sources: [EE.23, Xanathar.170]
+sources: [EE.23, XGE.170]
 tags: [bard, druid, sorcerer, wizard, level2, concentration, evocation]
 ---
 

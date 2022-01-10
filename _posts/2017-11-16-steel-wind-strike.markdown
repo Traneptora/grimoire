@@ -2,7 +2,7 @@
 layout: post
 title:  "Steel Wind Strike"
 date: 2017-11-16
-sources: [Xanathar.166]
+sources: [XGE.166]
 tags: [ranger, wizard, level5, conjuration]
 ---
 

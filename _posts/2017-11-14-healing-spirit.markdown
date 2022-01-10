@@ -2,7 +2,7 @@
 layout: post
 title:  "Healing Spirit"
 date:   2017-11-14
-sources: [Xanathar.157]
+sources: [XGE.157]
 tags: [druid, ranger, level2, concentration, conjuration]
 ---
 

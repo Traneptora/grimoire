@@ -2,7 +2,7 @@
 layout: post
 title:  "Immolation"
 date: 2015-11-20
-sources: [EE.19, Xanathar.158]
+sources: [EE.19, XGE.158]
 tags: [sorcerer, wizard, level5, concentration, evocation]
 ---
 

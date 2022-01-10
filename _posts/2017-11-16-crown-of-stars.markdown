@@ -2,7 +2,7 @@
 layout: post
 title:  "Crown of Stars"
 date: 2017-11-16
-sources: [Xanathar.152]
+sources: [XGE.152]
 tags: [sorcerer, warlock, wizard, level7, evocation]
 ---
 

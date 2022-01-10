@@ -2,7 +2,7 @@
 layout: post
 title:  "Primordial Ward"
 date: 2015-11-19
-sources: [EE.21, Xanathar.163]
+sources: [EE.21, XGE.163]
 tags: [druid, level6, concentration, abjuration]
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Dawn"
 date: 2017-11-15
-sources: [Xanathar.153]
+sources: [XGE.153]
 tags: [cleric, wizard, level5, concentration, evocation]
 ---
 

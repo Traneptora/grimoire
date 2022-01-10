@@ -2,7 +2,7 @@
 layout: post
 title:  "Transmute Rock"
 date: 2015-11-19
-sources: [EE.22, Xanathar.169]
+sources: [EE.22, XGE.169]
 tags: [artificer, druid, wizard, level5, transmutation]
 ---
 

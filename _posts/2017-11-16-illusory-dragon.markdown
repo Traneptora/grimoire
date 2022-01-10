@@ -2,7 +2,7 @@
 layout: post
 title:  "Illusory Dragon"
 date:   2017-11-16
-sources: [Xanathar.157]
+sources: [XGE.157]
 tags: [wizard, level8, concentration, illusion]
 ---
 

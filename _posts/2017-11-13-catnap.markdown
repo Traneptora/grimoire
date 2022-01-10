@@ -2,7 +2,7 @@
 layout: post
 title:  "Catnap"
 date: 2017-11-13
-sources: [Xanathar.151]
+sources: [XGE.151]
 tags: [artificer, bard, sorcerer, wizard, level3, enchantment]
 ---
 

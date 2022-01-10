@@ -2,7 +2,7 @@
 layout: post
 title:  "Pyrotechnics"
 date: 2015-08-31
-sources: [EE.21, Xanathar.163]
+sources: [EE.21, XGE.163]
 tags: [artificer, bard, sorcerer, wizard, level2, transmutation]
 ---
 

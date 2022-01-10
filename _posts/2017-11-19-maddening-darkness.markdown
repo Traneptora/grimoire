@@ -2,7 +2,7 @@
 layout: post
 title:  "Maddening Darkness"
 date:   2017-11-19
-sources: [Xanathar.160]
+sources: [XGE.160]
 tags: [warlock, wizard, level8, concentration, evocation]
 ---
 

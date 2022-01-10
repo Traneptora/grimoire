@@ -2,7 +2,7 @@
 layout: post
 title:  "Mass Polymorph"
 date:   2017-11-14
-sources: [Xanathar.160]
+sources: [XGE.160]
 tags: [bard, sorcerer, wizard, level9, concentration, transmutation]
 ---
 

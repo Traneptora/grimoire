@@ -2,7 +2,7 @@
 layout: post
 title:  "Catapult"
 date: 2015-11-19
-sources: [EE.15, Xanathar.150]
+sources: [EE.15, XGE.150]
 tags: [artificer, sorcerer, wizard, level1, transmutation]
 ---
 

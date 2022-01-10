@@ -2,7 +2,7 @@
 layout: post
 title:  "Snilloc’s Snowball Swarm"
 date: 2015-11-19
-sources: [EE.22, Xanathar.165]
+sources: [EE.22, XGE.165]
 tags: [sorcerer, wizard, level2, evocation]
 ---
 

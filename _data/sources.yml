@@ -5,7 +5,7 @@
 - name: Elemental Evil Player’s Companion
   source: EE
 - name: Xanathar’s Guide to Everything
-  source: Xanathar
+  source: XGE
 - name: Tasha’s Cauldron of Everything
   source: TCE
 - name: Fizban’s Treasury of Dragons

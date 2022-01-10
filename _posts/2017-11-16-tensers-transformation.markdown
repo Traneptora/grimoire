@@ -2,7 +2,7 @@
 layout: post
 title:  "Tenser’s Transformation"
 date:   2017-11-16
-sources: [Xanathar.168]
+sources: [XGE.168]
 tags: [wizard, level6, concentration, transmutation]
 ---
 

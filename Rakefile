@@ -3,7 +3,6 @@ require 'rubygems'
     require 'rdoc'
     require 'date'
     require 'yaml'
-    require 'tmpdir'
     require 'jekyll'
     require 'shellwords'
 

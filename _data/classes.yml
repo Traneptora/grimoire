@@ -29,5 +29,12 @@
   tag: sorcerer
 - name: Warlock
   tag: warlock
+  subclasses:
+    - name: Fey
+      subtag: fey
+    - name: Fiend
+      subtag: fiend
+    - name: Great Old One
+      subtag: great old one
 - name: Wizard
   tag: wizard

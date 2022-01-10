@@ -23,11 +23,18 @@ layout: default
       </dd>
       {% endfor %}
     </dl>
-    <dl class="tag-list">
-      {% for sub in page.subtags %}
-      <dd>{{sub}}</dd>
-      {% endfor %}
-    </dl>
+    {% if page.subtags %}
+      <dl class="tag-list">
+        <dt>Subtags:</dt>
+        {% for sub in page.subtags %}
+        <dd>
+          {% for item in sub %}
+          <a href="{{site.baseurl}}/tags/{{item[0]}}-{{item[1]}}.html">{{item[0]}} ({{item[1]}})</a>
+          {% endfor %}
+        </dd>
+        {% endfor %}
+      </dl>
+    {% endif %}
   </header>
 
   <article class="post-content">

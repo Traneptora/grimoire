@@ -3,7 +3,7 @@ layout: post
 title: "Stoneskin"
 date: 2015-07-30
 sources: [PHB.278, SRD.183]
-tags: [artificer, cleric (war), druid, monk (four elements), paladin (ancients), paladin (conquest), paladin (redemption), sorcerer, ranger, wizard, level4, concentration, abjuration]
+tags: [artificer, druid, sorcerer, ranger, wizard, level4, concentration, abjuration]
 ---
 
 **4th-level abjuration**

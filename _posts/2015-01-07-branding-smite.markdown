@@ -3,7 +3,7 @@ layout: post
 title:  "Branding Smite"
 date:   2015-01-07
 sources: [PHB.219, SRD.123]
-tags: [artificer (battle smith), paladin, level2, concentration, evocation]
+tags: [paladin, level2, concentration, evocation]
 ---
 
 **2nd-level evocation**

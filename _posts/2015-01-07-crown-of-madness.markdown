@@ -3,7 +3,7 @@ layout: post
 title:  "Crown of Madness"
 date:   2015-01-07
 sources: [PHB.229]
-tags: [bard, paladin (oathbreaker), sorcerer, warlock, wizard, level2, concentration, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level2, concentration, enchantment]
 ---
 
 **2nd-level enchantment**

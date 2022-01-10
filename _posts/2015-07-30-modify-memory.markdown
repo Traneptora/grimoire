@@ -3,7 +3,7 @@ layout: post
 title: "Modify Memory"
 date: 2015-07-30
 sources: [PHB.261, SRD.166]
-tags: [bard, cleric (trickery), wizard, level5, concentration, enchantment]
+tags: [bard, wizard, level5, concentration, enchantment]
 ---
 
 **5th-level enchantment**

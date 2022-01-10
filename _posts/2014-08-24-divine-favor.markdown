@@ -3,7 +3,7 @@ layout: post
 title:  "Divine Favor"
 date:   2014-08-24
 sources: [PHB.234, SRD.136]
-tags: [cleric (war), paladin, level1, concentration, evocation]
+tags: [paladin, level1, concentration, evocation]
 ---
 
 **1st-level evocation**

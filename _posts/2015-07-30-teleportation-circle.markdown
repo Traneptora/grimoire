@@ -3,7 +3,7 @@ layout: post
 title: "Teleportation Circle"
 date: 2015-07-30
 sources: [PHB.281, SRD.186]
-tags: [bard, cleric (arcana), sorcerer, warlock, wizard, level5, conjuration]
+tags: [bard, sorcerer, warlock, wizard, level5, conjuration]
 ---
 
 **5th-level conjuration**

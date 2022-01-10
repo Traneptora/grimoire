@@ -3,7 +3,7 @@ layout: post
 title:  "Sleet Storm"
 date:   2015-01-02
 sources: [PHB.276, SRD.180]
-tags: [cleric (tempest), druid, sorcerer, wizard, level3, concentration, conjuration]
+tags: [druid, sorcerer, wizard, level3, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

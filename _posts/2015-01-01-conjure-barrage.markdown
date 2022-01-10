@@ -3,7 +3,7 @@ layout: post
 title:  "Conjure Barrage"
 date:   2015-01-01
 sources: [PHB.225]
-tags: [artificer (battle smith), ranger, level3, conjuration]
+tags: [ranger, level3, conjuration]
 ---
 
 **3rd-level conjuration**

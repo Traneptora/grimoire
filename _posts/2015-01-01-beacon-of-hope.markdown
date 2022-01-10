@@ -3,7 +3,7 @@ layout: post
 title:  "Beacon of Hope"
 date:   2015-01-01
 sources: [PHB.217, SRD.121]
-tags: [cleric, paladin (devotion), level3, concentration, abjuration]
+tags: [cleric, level3, concentration, abjuration]
 ---
 
 **3rd-level abjuration**

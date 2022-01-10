@@ -3,7 +3,7 @@ layout: post
 title:  "Fireball"
 date:   2015-01-01
 sources: [PHB.241, SRD.144]
-tags: [artificer (artillerist), cleric (light), monk (four elements), sorcerer, warlock (fiend), wizard, level3, evocation]
+tags: [sorcerer, wizard, level3, evocation]
 ---
 
 **3rd-level evocation**

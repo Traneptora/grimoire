@@ -3,7 +3,7 @@ layout: post
 title: "Cone of Cold"
 date: 2015-07-14
 sources: [PHB.224, SRD.127]
-tags: [artificer (artillerist), druid, monk (four elements), sorcerer, wizard, level5, evocation]
+tags: [druid, sorcerer, wizard, level5, evocation]
 ---
 
 **5th-level evocation**

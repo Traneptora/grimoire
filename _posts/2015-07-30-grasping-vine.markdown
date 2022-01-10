@@ -3,7 +3,7 @@ layout: post
 title: "Grasping Vine"
 date: 2015-07-30
 sources: [PHB.246]
-tags: [cleric (nature), druid, ranger, level4, concentration, conjuration]
+tags: [druid, ranger, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

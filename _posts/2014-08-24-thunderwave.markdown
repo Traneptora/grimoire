@@ -3,7 +3,7 @@ layout: post
 title:  "Thunderwave"
 date:   2014-08-24
 sources: [PHB.282, SRD.187]
-tags: [artificer (artillerist), bard, cleric (tempest), druid, monk (four elements), sorcerer, wizard, level1, evocation]
+tags: [bard, druid, sorcerer, wizard, level1, evocation]
 ---
 
 **1st-level evocation**

@@ -3,7 +3,7 @@ layout: post
 title: "Flaming Sphere"
 date: 2015-07-14
 sources: [PHB.242, SRD.145]
-tags: [artificer (alchemist), cleric (light), druid, sorcerer, wizard, level2, concentration, conjuration]
+tags: [druid, sorcerer, wizard, level2, concentration, conjuration]
 ---
 
 **2nd-level conjuration**

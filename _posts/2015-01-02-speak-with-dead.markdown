@@ -3,7 +3,7 @@ layout: post
 title:  "Speak with Dead"
 date:   2015-01-02
 sources: [PHB.277, SRD.181]
-tags: [bard, cleric, warlock (undying), wizard, level3, necromancy]
+tags: [bard, cleric, wizard, level3, necromancy]
 ---
 
 **3rd-level necromancy**

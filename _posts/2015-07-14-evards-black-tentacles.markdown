@@ -3,7 +3,7 @@ layout: post
 title:  "Evard’s Black Tentacles"
 date:   2015-07-14
 sources: [PHB.238]
-tags: [warlock (great old one), wizard, level4, concentration, conjuration]
+tags: [wizard, level4, concentration, conjuration]
 ---
 
 **4th-level conjuration**

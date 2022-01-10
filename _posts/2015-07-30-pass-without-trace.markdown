@@ -3,7 +3,7 @@ layout: post
 title: "Pass Without Trace"
 date: 2015-07-30
 sources: [PHB.264, SRD.167]
-tags: [cleric (trickery), druid, monk (shadow), ranger, level2, concentration, abjuration]
+tags: [druid, ranger, level2, concentration, abjuration]
 ---
 
 **2nd-level abjuration**

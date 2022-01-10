@@ -3,7 +3,7 @@ layout: post
 title: "Ice Storm"
 date: 2015-07-30
 sources: [PHB.252, SRD.155]
-tags: [artificer (artillerist), cleric (tempest), druid, paladin (ancients), sorcerer, wizard, level4, evocation]
+tags: [druid, sorcerer, wizard, level4, evocation]
 ---
 
 **4th-level evocation**

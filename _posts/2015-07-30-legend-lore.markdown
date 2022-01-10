@@ -3,7 +3,7 @@ layout: post
 title: "Legend Lore"
 date: 2015-07-30
 sources: [PHB.254, SRD.158]
-tags: [bard, cleric, warlock (undying), wizard, level5, divination]
+tags: [bard, cleric, wizard, level5, divination]
 ---
 
 **5th-level divination**

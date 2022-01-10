@@ -3,7 +3,7 @@ layout: post
 title: "Polymorph"
 date: 2015-07-30
 sources: [PHB.266, SRD.169]
-tags: [bard, cleric (trickery), druid, sorcerer, wizard, level4, concentration, transmutation]
+tags: [bard, druid, sorcerer, wizard, level4, concentration, transmutation]
 ---
 
 **4th-level transmutation**

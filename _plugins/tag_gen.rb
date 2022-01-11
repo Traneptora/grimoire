@@ -12,7 +12,7 @@ module Jekyll
       if subtag != nil
         self.data['tag'] = tag['tag']
         self.data['subtag'] = subtag['subtag']
-        self.data['title'] = "#{tag['name']}: #{subtag['name']})"
+        self.data['title'] = "#{tag['name']}: #{subtag['name']}"
       else
         self.data['tag'] = tag
         self.data['subtag'] = nil

@@ -5,47 +5,47 @@
 - name: Cleric
   tag: cleric
   subclasses:
-   - name: Knowledge
+   - name: Knowledge Domain
      subtag: knowledge
-   - name: Life
+   - name: Life Domain
      subtag: life
-   - name: Light
+   - name: Light Domain
      subtag: light
-   - name: Nature
+   - name: Nature Domain
      subtag: nature
-   - name: Tempest
+   - name: Tempest Domain
      subtag: tempest
-   - name: Trickery
+   - name: Trickery Domain
      subtag: trickery
-   - name: War
+   - name: War Domain
      subtag: war
 - name: Druid
   tag: druid
   subclasses:
-   - name: Arctic
+   - name: "Circle of the Land: Arctic"
      subtag: arctic
-   - name: Coast
+   - name: "Circle of the Land: Coast"
      subtag: coast
-   - name: Desert
+   - name: "Circle of the Land: Desert"
      subtag: desert
-   - name: Forest
+   - name: "Circle of the Land: Forest"
      subtag: forest
-   - name: Grassland
+   - name: "Circle of the Land: Grassland"
      subtag: grassland
-   - name: Mountain
+   - name: "Circle of the Land: Mountain"
      subtag: mountain
-   - name: Swamp
+   - name: "Circle of the Land: Swamp"
      subtag: swamp
-   - name: Underdark
+   - name: "Circle of the Land: The Underdark"
      subtag: underdark
 - name: Paladin
   tag: paladin
   subclasses:
-   - name: Devotion
+   - name: Oath of Devotion
      subtag: devotion
-   - name: The Ancients
+   - name: Oath of The Ancients
      subtag: ancients
-   - name: Vengeance
+   - name: Oath of Vengeance
      subtag: vengeance
 - name: Ranger
   tag: ranger
@@ -54,11 +54,11 @@
 - name: Warlock
   tag: warlock
   subclasses:
-    - name: Archfey
+    - name: The Archfey
       subtag: fey
-    - name: Fiend
+    - name: The Fiend
       subtag: fiend
-    - name: Great Old One
+    - name: The Great Old One
       subtag: great old one
 - name: Wizard
   tag: wizard

@@ -21,6 +21,23 @@
      subtag: war
 - name: Druid
   tag: druid
+  subclasses:
+   - name: Arctic
+     subtag: arctic
+   - name: Coast
+     subtag: coast
+   - name: Desert
+     subtag: desert
+   - name: Forest
+     subtag: forest
+   - name: Grassland
+     subtag: grassland
+   - name: Mountain
+     subtag: mountain
+   - name: Swamp
+     subtag: swamp
+   - name: Underdark
+     subtag: underdark
 - name: Paladin
   tag: paladin
 - name: Ranger

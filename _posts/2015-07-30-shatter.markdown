@@ -4,6 +4,7 @@ title: "Shatter"
 date: 2015-07-30
 sources: [PHB.275, SRD.178]
 tags: [bard, sorcerer, warlock, wizard, level2, evocation]
+subtags: [cleric: tempest]
 ---
 
 **2nd-level evocation**

@@ -4,6 +4,7 @@ title:  "Sleet Storm"
 date:   2015-01-02
 sources: [PHB.276, SRD.180]
 tags: [druid, sorcerer, wizard, level3, concentration, conjuration]
+subtags: [cleric: tempest]
 ---
 
 **3rd-level conjuration**

@@ -4,6 +4,7 @@ title: "Ice Storm"
 date: 2015-07-30
 sources: [PHB.252, SRD.155]
 tags: [druid, sorcerer, wizard, level4, evocation]
+subtags: [cleric: tempest]
 ---
 
 **4th-level evocation**

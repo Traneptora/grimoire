@@ -4,6 +4,7 @@ title: "Gust of Wind"
 date: 2015-07-30
 sources: [PHB.248, SRD.152]
 tags: [druid, ranger, sorcerer, wizard, level2, concentration, evocation]
+subtags: [cleric: tempest]
 ---
 
 **2nd-level evocation**

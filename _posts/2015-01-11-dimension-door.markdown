@@ -4,6 +4,7 @@ title:  "Dimension Door"
 date:   2015-01-11
 sources: [PHB.233, SRD.135]
 tags: [bard, sorcerer, warlock, wizard, level4, conjuration]
+subtags: [cleric: trickery]
 ---
 
 **4th-level conjuration**

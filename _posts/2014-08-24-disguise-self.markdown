@@ -4,6 +4,7 @@ title:  "Disguise Self"
 date:   2014-08-24
 sources: [PHB.233, SRD.135]
 tags: [artificer, bard, sorcerer, wizard, level1, illusion]
+subtags: [cleric: trickery]
 ---
 
 **1st-level illusion**

@@ -4,6 +4,7 @@ title: "Polymorph"
 date: 2015-07-30
 sources: [PHB.266, SRD.169]
 tags: [bard, druid, sorcerer, wizard, level4, concentration, transmutation]
+subtags: [cleric: trickery]
 ---
 
 **4th-level transmutation**

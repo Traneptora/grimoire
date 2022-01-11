@@ -4,6 +4,7 @@ title:  "Sanctuary"
 date:   2014-08-24
 sources: [PHB.272, SRD.176]
 tags: [artificer, cleric, level1, abjuration]
+subtags: [paladin: devotion]
 ---
 
 **1st-level abjuration**

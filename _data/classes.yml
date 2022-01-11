@@ -40,6 +40,13 @@
      subtag: underdark
 - name: Paladin
   tag: paladin
+  subclasses:
+   - name: Devotion
+     subtag: devotion
+   - name: The Ancients
+     subtag: ancients
+   - name: Vengeance
+     subtag: vengeance
 - name: Ranger
   tag: ranger
 - name: Sorcerer

@@ -4,6 +4,7 @@ title:  "Ensnaring Strike"
 date:   2014-08-24
 sources: [PHB.237]
 tags: [ranger, level1, concentration, conjuration]
+subtags: [paladin: ancients]
 ---
 
 **1st-level conjuration**

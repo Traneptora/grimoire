@@ -4,6 +4,7 @@ title:  "Hold Person"
 date:   2014-12-31
 sources: [PHB.251, SRD.154]
 tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2, concentration, enchantment]
+subtags: [paladin: vengeance]
 ---
 
 **2nd-level enchantment**

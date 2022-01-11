@@ -4,6 +4,7 @@ title:  "Spirit Guardians"
 date:   2015-01-02
 sources: [PHB.278, SRD.182]
 tags: [cleric, level3, concentration, conjuration]
+subtags: [cleric: war]
 ---
 
 **3rd-level conjuration**

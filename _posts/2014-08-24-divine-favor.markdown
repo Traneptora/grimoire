@@ -4,6 +4,7 @@ title:  "Divine Favor"
 date:   2014-08-24
 sources: [PHB.234, SRD.136]
 tags: [paladin, level1, concentration, evocation]
+subtags: [cleric: war]
 ---
 
 **1st-level evocation**

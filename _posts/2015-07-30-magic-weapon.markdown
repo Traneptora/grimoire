@@ -4,6 +4,7 @@ title: "Magic Weapon"
 date: 2015-07-30
 sources: [PHB.257, SRD.161]
 tags: [artificer, paladin, ranger, sorcerer, wizard, level2, concentration, transmutation]
+subtags: [cleric: war]
 ---
 
 **2nd-level transmutation**

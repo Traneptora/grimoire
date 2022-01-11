@@ -4,6 +4,7 @@ title: "Hold Monster"
 date: 2015-07-30
 sources: [PHB.251, SRD.154]
 tags: [bard, sorcerer, warlock, wizard, level5, concentration, enchantment]
+subtags: [cleric: war]
 ---
 
 **5th-level enchantment**

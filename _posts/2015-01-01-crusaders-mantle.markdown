@@ -4,6 +4,7 @@ title:  "Crusader’s Mantle"
 date:   2015-01-01
 sources: [PHB.230]
 tags: [paladin, level3, concentration, evocation]
+subtags: [cleric: war]
 ---
 
 **3rd-level evocation**

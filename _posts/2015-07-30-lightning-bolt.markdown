@@ -4,6 +4,7 @@ title: "Lightning Bolt"
 date: 2015-07-30
 sources: [PHB.255, SRD.159]
 tags: [sorcerer, wizard, level3, evocation]
+subtags: [druid: mountain]
 ---
 
 **3rd-level evocation**

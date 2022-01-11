@@ -4,6 +4,7 @@ title:  "Slow"
 date:   2015-01-02
 sources: [PHB.277, SRD.180]
 tags: [bard, sorcerer, wizard, level3, concentration, transmutation]
+subtags: [druid: arctic]
 ---
 
 **3rd-level transmutation**

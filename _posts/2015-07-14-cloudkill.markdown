@@ -4,6 +4,7 @@ title: "Cloudkill"
 date: 2015-07-14
 sources: [PHB.222, SRD.125]
 tags: [sorcerer, wizard, level5, concentration, conjuration]
+subtags: [druid: underdark]
 ---
 
 **5th-level conjuration**

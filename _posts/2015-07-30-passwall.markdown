@@ -4,6 +4,7 @@ title: "Passwall"
 date: 2015-07-30
 sources: [PHB.264, SRD.167]
 tags: [wizard, level5, transmutation]
+subtags: [druid: mountain]
 ---
 
 **5th-level transmutation**

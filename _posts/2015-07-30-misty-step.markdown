@@ -4,6 +4,7 @@ title: "Misty Step"
 date: 2015-07-30
 sources: [PHB.260, SRD.165]
 tags: [sorcerer, warlock, wizard, level2, conjuration]
+subtags: [druid: coast]
 ---
 
 **2nd-level conjuration**

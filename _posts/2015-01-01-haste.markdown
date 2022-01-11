@@ -4,6 +4,7 @@ title:  "Haste"
 date:   2015-01-01
 sources: [PHB.250, SRD.153]
 tags: [artificer, sorcerer, wizard, level3, concentration, transmutation]
+subtags: [druid: grassland]
 ---
 
 **3rd-level transmutation**

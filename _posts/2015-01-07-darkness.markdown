@@ -4,6 +4,7 @@ title:  "Darkness"
 date:   2015-01-07
 sources: [PHB.230, SRD.133]
 tags: [sorcerer, warlock, wizard, level2, concentration, evocation]
+subtags: [druid: swamp]
 ---
 
 **2nd-level evocation**

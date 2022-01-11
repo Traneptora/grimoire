@@ -4,6 +4,7 @@ title:  "Barkskin"
 date:   2015-01-02
 sources: [PHB.217, SRD.121]
 tags: [druid, ranger, level2, concentration, transmutation]
+subtags: [cleric: nature]
 ---
 
 **2nd-level transmutation**

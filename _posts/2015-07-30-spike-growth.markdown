@@ -4,6 +4,7 @@ title: "Spike Growth"
 date: 2015-07-30
 sources: [PHB.277, SRD.182]
 tags: [druid, ranger, level2, concentration, transmutation]
+subtags: [cleric: nature]
 ---
 
 **2nd-level transmutation**

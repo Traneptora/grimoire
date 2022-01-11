@@ -4,6 +4,7 @@ title: "Tree Stride"
 date: 2015-07-30
 sources: [PHB.283, SRD.188]
 tags: [druid, ranger, level5, concentration, conjuration]
+subtags: [cleric: nature]
 ---
 
 **5th-level conjuration**

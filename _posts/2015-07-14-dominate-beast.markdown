@@ -4,6 +4,7 @@ title: "Dominate Beast"
 date: 2015-07-14
 sources: [PHB.234, SRD.137]
 tags: [druid, ranger, sorcerer, level4, concentration, enchantment]
+subtags: [cleric: nature]
 ---
 
 **4th-level enchantment**

@@ -4,6 +4,7 @@ title:  "Plant Growth"
 date:   2015-01-02
 sources: [PHB.266, SRD.169]
 tags: [bard, druid, ranger, level3, transmutation]
+subtags: [cleric: nature]
 ---
 
 **3rd-level transmutation**

@@ -9,11 +9,13 @@ module Jekyll
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      self.data['subtag'] = subtag
       if subtag != nil
-        self.data['title'] = "#{tag} (#{subtag})".capitalize
+        self.data['tag'] = tag['tag']
+        self.data['subtag'] = subtag['subtag']
+        self.data['title'] = "#{tag['name']} (#{subtag['name']})".capitalize
       else
+        self.data['tag'] = tag
+        self.data['subtag'] = nil
         self.data['title'] = tag.capitalize
       end
     end
@@ -29,7 +31,7 @@ module Jekyll
           site.data['classes'].each do |clazz|
             if clazz['tag'] == tag && clazz['subclasses'] != nil
               clazz['subclasses'].each do |subclazz|
-                write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['subtag']}"), clazz['tag'], subclazz['subtag'])
+                write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['subtag']}"), clazz, subclazz)
               end
             end
           end

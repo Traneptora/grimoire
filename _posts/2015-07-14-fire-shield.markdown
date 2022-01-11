@@ -4,6 +4,7 @@ title: "Fire Shield"
 date: 2015-07-14
 sources: [PHB.241, SRD.144]
 tags: [druid, sorcerer, wizard, level4, evocation]
+subtags: [warlock: fiend]
 ---
 
 **4th-level evocation**

@@ -4,6 +4,7 @@ title: "Hallow"
 date: 2015-07-30
 sources: [PHB.249, SRD.152]
 tags: [cleric, level5, evocation]
+subtags: [warlock: fiend]
 ---
 
 **5th-level evocation**

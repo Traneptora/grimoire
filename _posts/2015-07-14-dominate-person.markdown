@@ -4,7 +4,7 @@ title: "Dominate Person"
 date: 2015-07-14
 sources: [PHB.235, SRD.138]
 tags: [bard, sorcerer, wizard, level5, concentration, enchantment]
-subtags: [cleric: trickery]
+subtags: [cleric: trickery, warlock: fey, warlock: great old one]
 ---
 
 **5th-level enchantment**

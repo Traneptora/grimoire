@@ -4,7 +4,7 @@ title: "Wall of Fire"
 date: 2015-07-30
 sources: [PHB.285, SRD.190]
 tags: [druid, sorcerer, wizard, level4, concentration, evocation]
-subtags: [cleric: light]
+subtags: [cleric: light, warlock: fiend]
 ---
 
 **4th-level evocation**

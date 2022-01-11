@@ -4,7 +4,7 @@ title: "Scorching Ray"
 date: 2015-07-30
 sources: [PHB.273, SRD.176]
 tags: [sorcerer, wizard, level2, evocation]
-subtags: [cleric: light]
+subtags: [cleric: light, warlock: fiend]
 ---
 
 **2nd-level evocation**

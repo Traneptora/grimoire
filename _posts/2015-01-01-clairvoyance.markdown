@@ -4,6 +4,7 @@ title:  "Clairvoyance"
 date:   2015-01-01
 sources: [PHB.222, SRD.124]
 tags: [bard, cleric, sorcerer, wizard, level3, concentration, divination]
+subtags: [warlock: great old one]
 ---
 
 **3rd-level divination**

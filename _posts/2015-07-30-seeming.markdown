@@ -4,6 +4,7 @@ title: "Seeming"
 date: 2015-07-30
 sources: [PHB.274, SRD.177]
 tags: [bard, sorcerer, wizard, level5, illusion]
+subtags: [warlock: fey]
 ---
 
 **5th-level illusion**

@@ -54,7 +54,7 @@
 - name: Warlock
   tag: warlock
   subclasses:
-    - name: Fey
+    - name: Archfey
       subtag: fey
     - name: Fiend
       subtag: fiend

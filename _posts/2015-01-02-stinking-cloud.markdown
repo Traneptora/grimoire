@@ -4,7 +4,7 @@ title:  "Stinking Cloud"
 date:   2015-01-02
 sources: [PHB.278, SRD.182]
 tags: [bard, sorcerer, wizard, level3, concentration, conjuration]
-subtags: [druid: swamp, druid: underdark]
+subtags: [druid: swamp, druid: underdark, warlock: fiend]
 ---
 
 **3rd-level conjuration**

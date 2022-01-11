@@ -4,6 +4,7 @@ title:  "Sending"
 date:   2015-01-02
 sources: [PHB.274, SRD.177]
 tags: [bard, cleric, wizard, level3, evocation]
+subtags: [warlock: great old one]
 ---
 
 **3rd-level evocation**

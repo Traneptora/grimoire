@@ -1,0 +1,18 @@
+- name: Ritual
+  tag: ritual
+  help: This spell can be cast as a ritual if you have the Ritual Casting feature.
+- name: Concentration
+  tag: concentration
+  help: This spell requires you to maintain your concentration.
+- name: Action
+  tag: action
+  help: This spell uses your Action.
+- name: Bonus Action
+  tag: bonus
+  help: This spell uses your Bonus Action.
+- name: Reaction
+  tag: reaction
+  help: This spell uses your Reaction.
+- name: Long Casting Time
+  tag: long
+  help: This spell has a casting time greater than one round.

@@ -3,7 +3,7 @@ layout: post
 title:  "Hunger of Hadar"
 date:   2015-01-01
 sources: [PHB.251]
-tags: [warlock, level3, concentration, conjuration]
+tags: [warlock, level3, action, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

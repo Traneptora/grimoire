@@ -3,7 +3,7 @@ layout: post
 title:  "Wall of Light"
 date: 2017-11-16
 sources: [XGE.170]
-tags: [sorcerer, warlock, wizard, level5, concentration, evocation]
+tags: [sorcerer, warlock, wizard, level5, action, concentration, evocation]
 ---
 
 **5th-level evocation**

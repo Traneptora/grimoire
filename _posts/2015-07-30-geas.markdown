@@ -3,7 +3,7 @@ layout: post
 title: "Geas"
 date: 2015-07-30
 sources: [PHB.245, SRD.148]
-tags: [cleric, wizard, paladin, druid, bard, level5, enchantment]
+tags: [cleric, wizard, paladin, druid, bard, level5, long, enchantment]
 ---
 
 **5th-level enchantment**

@@ -3,7 +3,7 @@ layout: post
 title: "Protection from Poison"
 date: 2015-07-30
 sources: [PHB.270, SRD.173]
-tags: [artificer, cleric, ranger, paladin, druid, level2, abjuration]
+tags: [artificer, cleric, ranger, paladin, druid, level2, action, abjuration]
 ---
 
 **2nd-level abjuration**

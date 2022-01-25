@@ -3,7 +3,7 @@ layout: post
 title: "Phantasmal Killer"
 date: 2015-07-30
 sources: [PHB.265, SRD.167]
-tags: [bard, wizard, level4, concentration, illusion]
+tags: [bard, wizard, level4, action, concentration, illusion]
 ---
 
 **4th-level illusion**

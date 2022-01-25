@@ -3,7 +3,7 @@ layout: post
 title: "Mass Suggestion"
 date: 2015-07-30
 sources: [PHB.258, SRD.163]
-tags: [bard, sorcerer, warlock, wizard, level6, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level6, action, enchantment]
 ---
 
 **6th-level enchantment**

@@ -3,7 +3,7 @@ layout: post
 title:  "Blade Ward"
 date: 2014-08-24
 sources: [PHB.218]
-tags: [bard, sorcerer, warlock, wizard, cantrip, abjuration]
+tags: [bard, sorcerer, warlock, wizard, cantrip, action, abjuration]
 ---
 
 **Abjuration cantrip**

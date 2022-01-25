@@ -3,7 +3,7 @@ layout: post
 title: "Dispel Evil and Good"
 date: 2015-07-14
 sources: [PHB.233, SRD.136]
-tags: [cleric, paladin, level5, concentration, abjuration]
+tags: [cleric, paladin, level5, action, concentration, abjuration]
 ---
 
 **5th-level abjuration**

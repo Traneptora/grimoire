@@ -3,7 +3,7 @@ layout: post
 title:  "Animal Shapes"
 date:   2015-01-09
 sources: [PHB.212, SRD.115]
-tags: [druid, level8, concentration, transmutation]
+tags: [druid, level8, action, concentration, transmutation]
 ---
 
 **8th-level transmutation**

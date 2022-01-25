@@ -3,7 +3,7 @@ layout: post
 title:  "Minor Illusion"
 date:   2014-08-24
 sources: [PHB.260, SRD.164]
-tags: [bard, sorcerer, warlock, wizard, cantrip, illusion]
+tags: [bard, sorcerer, warlock, wizard, cantrip, action, illusion]
 ---
 
 **Illusion cantrip**

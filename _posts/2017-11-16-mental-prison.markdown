@@ -3,7 +3,7 @@ layout: post
 title:  "Mental Prison"
 date: 2017-11-16
 sources: [XGE.161]
-tags: [sorcerer, warlock, wizard, level6, concentration, illusion]
+tags: [sorcerer, warlock, wizard, level6, action, concentration, illusion]
 ---
 
 **6th-level illusion**

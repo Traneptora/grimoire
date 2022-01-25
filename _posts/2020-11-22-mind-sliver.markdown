@@ -3,7 +3,7 @@ layout: post
 title: "Mind Sliver"
 date: 2020-11-22
 sources: [TCE.108]
-tags: [sorcerer, warlock, wizard, cantrip, enchantment]
+tags: [sorcerer, warlock, wizard, cantrip, action, enchantment]
 ---
 
 **Enchantment cantrip**

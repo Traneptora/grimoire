@@ -3,7 +3,7 @@ layout: post
 title: "Find the Path"
 date: 2015-07-14
 sources: [PHB.240, SRD.143]
-tags: [bard, cleric, druid, level6, concentration, divination]
+tags: [bard, cleric, druid, level6, long, concentration, divination]
 ---
 
 **6th-level divination**

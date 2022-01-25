@@ -3,7 +3,7 @@ layout: post
 title: "Spider Climb"
 date: 2015-07-30
 sources: [PHB.277, SRD.182]
-tags: [artificer, sorcerer, warlock, wizard, level2, concentration, transmutation]
+tags: [artificer, sorcerer, warlock, wizard, level2, action, concentration, transmutation]
 subtags: [druid: forest, druid: mountain, druid: underdark]
 ---
 

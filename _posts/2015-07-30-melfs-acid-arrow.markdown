@@ -3,7 +3,7 @@ layout: post
 title: "Melf’s Acid Arrow"
 date: 2015-07-30
 sources: [PHB.259]
-tags: [wizard, level2, evocation]
+tags: [wizard, level2, action, evocation]
 subtags: [druid: swamp]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Animal Messenger"
 date:   2014-12-31
 sources: [PHB.212, SRD.115]
-tags: [bard, druid, ranger, level2, ritual, enchantment]
+tags: [bard, druid, ranger, level2, action, ritual, enchantment]
 ---
 
 **2nd-level enchantment (ritual)**

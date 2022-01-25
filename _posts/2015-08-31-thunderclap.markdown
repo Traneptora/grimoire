@@ -3,7 +3,7 @@ layout: post
 title:  "Thunderclap"
 date: 2015-08-31
 sources: [EE.22, XGE.168]
-tags: [artificer, bard, druid, sorcerer, warlock, wizard, cantrip, evocation]
+tags: [artificer, bard, druid, sorcerer, warlock, wizard, cantrip, action, evocation]
 ---
 
 **Evocation cantrip**

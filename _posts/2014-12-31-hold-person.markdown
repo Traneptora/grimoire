@@ -3,7 +3,7 @@ layout: post
 title:  "Hold Person"
 date:   2014-12-31
 sources: [PHB.251, SRD.154]
-tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2, concentration, enchantment]
+tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2, action, concentration, enchantment]
 subtags: [paladin: vengeance]
 ---
 

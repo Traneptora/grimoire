@@ -3,7 +3,7 @@ layout: post
 title:  "Illusory Script"
 date:   2014-08-24
 sources: [PHB.252, SRD.156]
-tags: [bard, warlock, wizard, level1, ritual, illusion]
+tags: [bard, warlock, wizard, level1, long, ritual, illusion]
 ---
 
 **1st-level illusion (ritual)**

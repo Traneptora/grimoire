@@ -3,7 +3,7 @@ layout: post
 title: "Phantasmal Force"
 date: 2015-07-30
 sources: [PHB.264]
-tags: [bard, sorcerer, wizard, level2, concentration, illusion]
+tags: [bard, sorcerer, wizard, level2, action, concentration, illusion]
 subtags: [warlock: fey, warlock: great old one]
 ---
 

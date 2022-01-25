@@ -3,7 +3,7 @@ layout: post
 title: "Shield of Faith"
 date: 2014-08-24
 sources: [PHB.275, SRD.179]
-tags: [cleric, paladin, level1, concentration, abjuration]
+tags: [cleric, paladin, level1, bonus, concentration, abjuration]
 ---
 
 **1st-level abjuration**

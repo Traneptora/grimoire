@@ -3,7 +3,7 @@ layout: post
 title:  "Skywrite"
 date: 2015-08-31
 sources: [EE.22, XGE.165]
-tags: [artificer, bard, druid, wizard, level2, concentration, ritual, transmutation]
+tags: [artificer, bard, druid, wizard, level2, action, concentration, ritual, transmutation]
 ---
 
 **2nd-level transmutation (ritual)**

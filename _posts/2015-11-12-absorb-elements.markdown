@@ -3,7 +3,7 @@ layout: post
 title:  "Absorb Elements"
 date: 2015-11-12
 sources: [EE.15, XGE.150]
-tags: [artificer, druid, ranger, sorcerer, wizard, level1, abjuration]
+tags: [artificer, druid, ranger, sorcerer, wizard, level1, reaction, abjuration]
 ---
 
 **1st-level abjuration**

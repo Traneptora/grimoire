@@ -3,7 +3,7 @@ layout: post
 title: "Wither and Bloom"
 date: 2021-12-07
 sources: [SCC.38]
-tags: [druid, sorcerer, wizard, level2, necromancy]
+tags: [druid, sorcerer, wizard, level2, action, necromancy]
 ---
 
 **2nd-level necromancy**

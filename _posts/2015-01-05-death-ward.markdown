@@ -3,7 +3,7 @@ layout: post
 title:  "Death Ward"
 date:   2015-01-05
 sources: [PHB.230, SRD.133]
-tags: [cleric, paladin, level4, abjuration]
+tags: [cleric, paladin, level4, action, abjuration]
 ---
 
 **4th-level abjuration**

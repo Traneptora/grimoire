@@ -3,7 +3,7 @@ layout: post
 title: "Enhance Ability"
 date: 2015-07-14
 sources: [PHB.237, SRD.139]
-tags: [artificer, bard, cleric, druid, ranger, sorcerer, wizard, level2, concentration, transmutation]
+tags: [artificer, bard, cleric, druid, ranger, sorcerer, wizard, level2, action, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

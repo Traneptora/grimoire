@@ -3,7 +3,7 @@ layout: post
 title:  "Sword Burst"
 date:   2015-12-07
 sources: [SCAG.143, TCE.115]
-tags: [artificer, sorcerer, warlock, wizard, cantrip, conjuration]
+tags: [artificer, sorcerer, warlock, wizard, cantrip, action, conjuration]
 ---
 
 **Conjuration cantrip**

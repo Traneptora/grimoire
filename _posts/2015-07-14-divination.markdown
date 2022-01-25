@@ -3,7 +3,7 @@ layout: post
 title: "Divination"
 date: 2015-07-14
 sources: [PHB.234, SRD.136]
-tags: [cleric, druid, wizard, level4, ritual, divination]
+tags: [cleric, druid, wizard, level4, action, ritual, divination]
 ---
 
 **4th-level divination (ritual)**

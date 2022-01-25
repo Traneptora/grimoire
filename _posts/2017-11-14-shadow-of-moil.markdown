@@ -3,7 +3,7 @@ layout: post
 title:  "Shadow of Moil"
 date:   2017-11-14
 sources: [XGE.164]
-tags: [warlock, level4, concentration, necromancy]
+tags: [warlock, level4, action, concentration, necromancy]
 ---
 
 **4th-level necromancy**

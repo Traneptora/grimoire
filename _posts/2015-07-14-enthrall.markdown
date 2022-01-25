@@ -3,7 +3,7 @@ layout: post
 title: "Enthrall"
 date: 2015-07-14
 sources: [PHB.238, SRD.140]
-tags: [bard, warlock, level2, enchantment]
+tags: [bard, warlock, level2, action, enchantment]
 ---
 
 **2nd-level enchantment**

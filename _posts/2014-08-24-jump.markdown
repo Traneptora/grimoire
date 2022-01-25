@@ -3,7 +3,7 @@ layout: post
 title:  "Jump"
 date:   2014-08-24
 sources: [PHB.254, SRD.158]
-tags: [artificer, druid, ranger, sorcerer, wizard, level1, transmutation]
+tags: [artificer, druid, ranger, sorcerer, wizard, level1, action, transmutation]
 ---
 
 **1st-level transmutation**

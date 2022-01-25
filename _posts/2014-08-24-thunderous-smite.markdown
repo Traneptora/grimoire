@@ -3,7 +3,7 @@ layout: post
 title:  "Thunderous Smite"
 date:   2014-08-24
 sources: [PHB.282]
-tags: [paladin, level1, concentration, evocation]
+tags: [paladin, level1, bonus, concentration, evocation]
 ---
 
 **1st-level evocation**

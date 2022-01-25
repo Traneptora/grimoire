@@ -3,7 +3,7 @@ layout: post
 title:  "Sending"
 date:   2015-01-02
 sources: [PHB.274, SRD.177]
-tags: [bard, cleric, wizard, level3, evocation]
+tags: [bard, cleric, wizard, level3, action, evocation]
 subtags: [warlock: great old one]
 ---
 

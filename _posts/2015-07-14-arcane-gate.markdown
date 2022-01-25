@@ -3,7 +3,7 @@ layout: post
 title: "Arcane Gate"
 date: 2015-07-14
 sources: [PHB.214]
-tags: [sorcerer, warlock, wizard, level6, concentration, conjuration]
+tags: [sorcerer, warlock, wizard, level6, action, concentration, conjuration]
 ---
 
 **6th-level conjuration**

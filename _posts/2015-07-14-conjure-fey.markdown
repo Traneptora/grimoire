@@ -3,7 +3,7 @@ layout: post
 title: "Conjure Fey"
 date: 2015-07-14
 sources: [PHB.226, SRD.128]
-tags: [druid, warlock, level6, concentration, conjuration]
+tags: [druid, warlock, level6, long, concentration, conjuration]
 ---
 
 **6th-level conjuration**

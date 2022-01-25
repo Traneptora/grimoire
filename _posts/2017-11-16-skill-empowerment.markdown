@@ -3,7 +3,7 @@ layout: post
 title:  "Skill Empowerment"
 date: 2017-11-16
 sources: [XGE.165]
-tags: [artificer, bard, sorcerer, wizard, level5, concentration, transmutation]
+tags: [artificer, bard, sorcerer, wizard, level5, action, concentration, transmutation]
 ---
 
 **5th-level transmutation**

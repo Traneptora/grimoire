@@ -3,7 +3,7 @@ layout: post
 title: "Summon Beast"
 date: 2020-11-22
 sources: [TCE.109]
-tags: [druid, ranger, level2, concentration, conjuration]
+tags: [druid, ranger, level2, action, concentration, conjuration]
 ---
 
 **2nd-level conjuration**

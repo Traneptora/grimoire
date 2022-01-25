@@ -3,7 +3,7 @@ layout: post
 title:  "Cure Wounds"
 date:   2014-08-24
 sources: [PHB.230, SRD.132]
-tags: [artificer, bard, cleric, druid, paladin, ranger, level1, evocation]
+tags: [artificer, bard, cleric, druid, paladin, ranger, level1, action, evocation]
 ---
 
 **1st-level evocation**

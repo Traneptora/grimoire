@@ -3,7 +3,7 @@ layout: post
 title:  "Psychic Scream"
 date:   2017-11-14
 sources: [XGE.163]
-tags: [bard, sorcerer, warlock, wizard, level9, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level9, action, enchantment]
 ---
 
 **9th-level enchantment**

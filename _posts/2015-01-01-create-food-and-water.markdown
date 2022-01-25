@@ -3,7 +3,7 @@ layout: post
 title:  "Create Food and Water"
 date:   2015-01-01
 sources: [PHB.229, SRD.131]
-tags: [artificer, cleric, paladin, level3, conjuration]
+tags: [artificer, cleric, paladin, level3, action, conjuration]
 subtags: [druid: desert]
 ---
 

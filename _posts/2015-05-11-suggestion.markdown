@@ -3,7 +3,7 @@ layout: post
 title: "Suggestion"
 date: 2015-05-11
 sources: [PHB.279, SRD.183]
-tags: [bard, sorcerer, warlock, wizard, level2, concentration, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level2, action, concentration, enchantment]
 subtags: [cleric: knowledge]
 ---
 

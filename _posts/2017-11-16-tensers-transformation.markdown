@@ -3,7 +3,7 @@ layout: post
 title:  "Tenser’s Transformation"
 date:   2017-11-16
 sources: [XGE.168]
-tags: [wizard, level6, concentration, transmutation]
+tags: [wizard, level6, action, concentration, transmutation]
 ---
 
 **6th-level transmutation**

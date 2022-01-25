@@ -3,7 +3,7 @@ layout: post
 title: "Water Breathing"
 date: 2015-07-30
 sources: [PHB.287, SRD.191]
-tags: [artificer, druid, ranger, sorcerer, wizard, level3, ritual, transmutation]
+tags: [artificer, druid, ranger, sorcerer, wizard, level3, action, ritual, transmutation]
 ---
 
 **3rd-level transmutation (ritual)**

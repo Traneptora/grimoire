@@ -3,7 +3,7 @@ layout: post
 title: "Word of Recall"
 date: 2015-07-30
 sources: [PHB.289, SRD.193]
-tags: [cleric, level6, conjuration]
+tags: [cleric, level6, action, conjuration]
 ---
 
 **6th-level conjuration**

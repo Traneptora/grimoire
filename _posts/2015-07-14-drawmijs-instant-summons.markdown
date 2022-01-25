@@ -3,7 +3,7 @@ layout: post
 title:  "Drawmij’s Instant Summons"
 date:   2015-07-14
 sources: [PHB.235]
-tags: [wizard, level6, ritual, conjuration]
+tags: [wizard, level6, long, ritual, conjuration]
 ---
 
 **6th-level conjuration (ritual)**

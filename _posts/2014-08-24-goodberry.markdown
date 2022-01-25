@@ -3,7 +3,7 @@ layout: post
 title:  "Goodberry"
 date:   2014-08-24
 sources: [PHB.246, SRD.150]
-tags: [druid, ranger, level1, transmutation]
+tags: [druid, ranger, level1, action, transmutation]
 ---
 
 **1st-level transmutation**

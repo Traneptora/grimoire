@@ -3,7 +3,7 @@ layout: post
 title: "Forcecage"
 date: 2015-01-11
 sources: [PHB.243, SRD.147]
-tags: [bard, warlock, wizard, level7, evocation]
+tags: [bard, warlock, wizard, level7, action, evocation]
 ---
 
 **7th-level evocation**

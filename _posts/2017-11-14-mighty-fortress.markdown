@@ -3,7 +3,7 @@ layout: post
 title:  "Mighty Fortress"
 date:   2017-11-14
 sources: [XGE.161]
-tags: [wizard, level8, conjuration]
+tags: [wizard, level8, long, conjuration]
 ---
 
 **8th-level conjuration**

@@ -3,7 +3,7 @@ layout: post
 title:  "Dimension Door"
 date:   2015-01-11
 sources: [PHB.233, SRD.135]
-tags: [bard, sorcerer, warlock, wizard, level4, conjuration]
+tags: [bard, sorcerer, warlock, wizard, level4, action, conjuration]
 subtags: [cleric: trickery, paladin: ancients]
 ---
 

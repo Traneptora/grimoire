@@ -3,7 +3,7 @@ layout: post
 title: "Guardian of Faith"
 date: 2015-07-30
 sources: [PHB.246, SRD.150]
-tags: [cleric, level4, conjuration]
+tags: [cleric, level4, action, conjuration]
 subtags: [paladin: devotion]
 ---
 

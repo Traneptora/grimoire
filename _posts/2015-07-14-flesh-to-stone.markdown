@@ -3,7 +3,7 @@ layout: post
 title: "Flesh to Stone"
 date: 2015-07-14
 sources: [PHB.243, SRD.145]
-tags: [druid, sorcerer, warlock, wizard, level6, concentration, transmutation]
+tags: [druid, sorcerer, warlock, wizard, level6, action, concentration, transmutation]
 ---
 
 **6th-level transmutation**

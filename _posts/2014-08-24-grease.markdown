@@ -3,7 +3,7 @@ layout: post
 title:  "Grease"
 date:   2014-08-24
 sources: [PHB.246, SRD.150]
-tags: [artificer, sorcerer, wizard, level1, conjuration]
+tags: [artificer, sorcerer, wizard, level1, action, conjuration]
 ---
 
 **1st-level conjuration**

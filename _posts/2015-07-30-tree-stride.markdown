@@ -3,7 +3,7 @@ layout: post
 title: "Tree Stride"
 date: 2015-07-30
 sources: [PHB.283, SRD.188]
-tags: [druid, ranger, level5, concentration, conjuration]
+tags: [druid, ranger, level5, action, concentration, conjuration]
 subtags: [cleric: nature, paladin: ancients]
 ---
 

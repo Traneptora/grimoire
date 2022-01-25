@@ -3,7 +3,7 @@ layout: post
 title:  "Feign Death"
 date:   2015-01-01
 sources: [PHB.240]
-tags: [bard, cleric, druid, wizard, level3, ritual, necromancy]
+tags: [bard, cleric, druid, wizard, level3, action, ritual, necromancy]
 ---
 
 **3rd-level necromancy (ritual)**

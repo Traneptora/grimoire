@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Stone"
 date: 2015-07-30
 sources: [PHB.287, SRD.190]
-tags: [artificer, druid, sorcerer, wizard, level5, concentration, evocation]
+tags: [artificer, druid, sorcerer, wizard, level5, action, concentration, evocation]
 ---
 
 **5th-level evocation**

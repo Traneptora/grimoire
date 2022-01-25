@@ -3,7 +3,7 @@ layout: post
 title:  "Chill Touch"
 date:   2014-08-24
 sources: [PHB.221, SRD.124]
-tags: [sorcerer, warlock, wizard, cantrip, necromancy]
+tags: [sorcerer, warlock, wizard, cantrip, action, necromancy]
 ---
 
 **Necromancy cantrip**

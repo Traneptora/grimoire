@@ -3,7 +3,7 @@ layout: post
 title:  "Life Transference"
 date: 2017-11-13
 sources: [XGE.160]
-tags: [cleric, wizard, level3, necromancy]
+tags: [cleric, wizard, level3, action, necromancy]
 ---
 
 **3rd-level necromancy**

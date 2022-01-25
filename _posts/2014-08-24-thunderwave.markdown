@@ -3,7 +3,7 @@ layout: post
 title:  "Thunderwave"
 date:   2014-08-24
 sources: [PHB.282, SRD.187]
-tags: [bard, druid, sorcerer, wizard, level1, evocation]
+tags: [bard, druid, sorcerer, wizard, level1, action, evocation]
 subtags: [cleric: tempest]
 ---
 

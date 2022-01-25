@@ -3,7 +3,7 @@ layout: post
 title:  "Dust Devil"
 date: 2015-11-13
 sources: [EE.17, XGE.154]
-tags: [druid, sorcerer, wizard, level2, concentration, conjuration]
+tags: [druid, sorcerer, wizard, level2, action, concentration, conjuration]
 ---
 
 **2nd-level conjuration**

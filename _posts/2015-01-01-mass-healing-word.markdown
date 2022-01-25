@@ -3,7 +3,7 @@ layout: post
 title:  "Mass Healing Word"
 date:   2015-01-01
 sources: [PHB.258, SRD.163]
-tags: [bard, cleric, level3, evocation]
+tags: [bard, cleric, level3, bonus, evocation]
 ---
 
 **3rd-level evocation**

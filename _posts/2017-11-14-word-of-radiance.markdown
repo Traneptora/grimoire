@@ -3,7 +3,7 @@ layout: post
 title:  "Word of Radiance"
 date:   2017-11-14
 sources: [XGE.171]
-tags: [cleric, cantrip, evocation]
+tags: [cleric, cantrip, action, evocation]
 ---
 
 **Evocation cantrip**

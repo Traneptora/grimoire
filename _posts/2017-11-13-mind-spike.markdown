@@ -3,7 +3,7 @@ layout: post
 title:  "Mind Spike"
 date: 2017-11-13
 sources: [XGE.162]
-tags: [sorcerer, warlock, wizard, level2, concentration, divination]
+tags: [sorcerer, warlock, wizard, level2, action, concentration, divination]
 ---
 
 **2nd-level divination**

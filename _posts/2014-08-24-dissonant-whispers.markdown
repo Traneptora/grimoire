@@ -3,7 +3,7 @@ layout: post
 title:  "Dissonant Whispers"
 date:   2014-08-24
 sources: [PHB.234]
-tags: [bard, level1, enchantment]
+tags: [bard, level1, action, enchantment]
 subtags: [warlock: great old one]
 ---
 

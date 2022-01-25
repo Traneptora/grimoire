@@ -3,7 +3,7 @@ layout: post
 title:  "Illusory Dragon"
 date:   2017-11-16
 sources: [XGE.157]
-tags: [wizard, level8, concentration, illusion]
+tags: [wizard, level8, action, concentration, illusion]
 ---
 
 **8th-level illusion**

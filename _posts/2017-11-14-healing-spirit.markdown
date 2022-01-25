@@ -3,7 +3,7 @@ layout: post
 title:  "Healing Spirit"
 date:   2017-11-14
 sources: [XGE.157]
-tags: [druid, ranger, level2, concentration, conjuration]
+tags: [druid, ranger, level2, bonus, concentration, conjuration]
 ---
 
 **2nd-level conjuration**

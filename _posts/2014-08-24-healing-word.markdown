@@ -3,7 +3,7 @@ layout: post
 title:  "Healing Word"
 date:   2014-08-24
 sources: [PHB.250, SRD.153]
-tags: [bard, cleric, druid, level1, evocation]
+tags: [bard, cleric, druid, level1, bonus, evocation]
 ---
 
 **1st-level evocation**

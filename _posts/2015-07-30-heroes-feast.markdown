@@ -3,7 +3,7 @@ layout: post
 title: "Heroes’ Feast"
 date: 2015-07-30
 sources: [PHB.251, SRD.154]
-tags: [bard, cleric, druid, level6, conjuration]
+tags: [bard, cleric, druid, level6, long, conjuration]
 ---
 
 **6th-level conjuration**

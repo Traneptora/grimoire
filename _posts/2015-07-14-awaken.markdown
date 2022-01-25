@@ -3,7 +3,7 @@ layout: post
 title: "Awaken"
 date: 2015-07-14
 sources: [PHB.216, SRD.120]
-tags: [bard, druid, level5, transmutation]
+tags: [bard, druid, level5, long, transmutation]
 ---
 
 **5th-level transmutation**

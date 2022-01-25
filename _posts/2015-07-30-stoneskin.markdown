@@ -3,7 +3,7 @@ layout: post
 title: "Stoneskin"
 date: 2015-07-30
 sources: [PHB.278, SRD.183]
-tags: [artificer, druid, sorcerer, ranger, wizard, level4, concentration, abjuration]
+tags: [artificer, druid, sorcerer, ranger, wizard, level4, action, concentration, abjuration]
 subtags: [cleric: war, paladin: ancients]
 ---
 

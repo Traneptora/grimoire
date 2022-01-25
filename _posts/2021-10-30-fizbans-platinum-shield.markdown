@@ -3,7 +3,7 @@ layout: post
 title: "Fizban’s Platinum Shield"
 date: 2021-10-30
 sources: [FTD.20]
-tags: [sorcerer, wizard, level6, concentration, abjuration]
+tags: [sorcerer, wizard, level6, bonus, concentration, abjuration]
 ---
 
 **6th-level abjuration**

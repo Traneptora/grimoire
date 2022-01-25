@@ -3,7 +3,7 @@ layout: post
 title: "Guards and Wards"
 date: 2015-07-30
 sources: [PHB.248, SRD.151]
-tags: [bard, wizard, level6, abjuration]
+tags: [bard, wizard, level6, long, abjuration]
 ---
 
 **6th-level abjuration**

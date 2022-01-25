@@ -3,7 +3,7 @@ layout: post
 title: "Dream of the Blue Veil"
 date: 2020-11-23
 sources: [TCE.106]
-tags: [bard, sorcerer, warlock, wizard, level7, conjuration]
+tags: [bard, sorcerer, warlock, wizard, level7, long, conjuration]
 ---
 
 **7th-level conjuration**

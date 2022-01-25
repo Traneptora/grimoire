@@ -3,7 +3,7 @@ layout: post
 title:  "Inflict Wounds"
 date:   2014-08-24
 sources: [PHB.253, SRD.157]
-tags: [cleric, level1, necromancy]
+tags: [cleric, level1, action, necromancy]
 ---
 
 **1st-level necromancy**

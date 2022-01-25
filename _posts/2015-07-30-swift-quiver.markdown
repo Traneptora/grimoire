@@ -3,7 +3,7 @@ layout: post
 title: "Swift Quiver"
 date: 2015-07-30
 sources: [PHB.279]
-tags: [ranger, level5, concentration, transmutation]
+tags: [ranger, level5, bonus, concentration, transmutation]
 ---
 
 **5th-level transmutation**

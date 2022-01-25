@@ -3,7 +3,7 @@ layout: post
 title: "Lightning Bolt"
 date: 2015-07-30
 sources: [PHB.255, SRD.159]
-tags: [sorcerer, wizard, level3, evocation]
+tags: [sorcerer, wizard, level3, action, evocation]
 subtags: [druid: mountain]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Wall of Thorns"
 date: 2015-07-30
 sources: [PHB.287, SRD.191]
-tags: [druid, level6, concentration, conjuration]
+tags: [druid, level6, action, concentration, conjuration]
 ---
 
 **6th-level conjuration**

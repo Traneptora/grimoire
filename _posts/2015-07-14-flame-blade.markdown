@@ -3,7 +3,7 @@ layout: post
 title: "Flame Blade"
 date: 2015-07-14
 sources: [PHB.242, SRD.145]
-tags: [druid, sorcerer, level2, concentration, evocation]
+tags: [druid, sorcerer, level2, bonus, concentration, evocation]
 ---
 
 **2nd-level evocation**

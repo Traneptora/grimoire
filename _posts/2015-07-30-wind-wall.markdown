@@ -3,7 +3,7 @@ layout: post
 title: "Wind Wall"
 date: 2015-07-30
 sources: [PHB.288, SRD.192]
-tags: [druid, ranger, level3, concentration, evocation]
+tags: [druid, ranger, level3, action, concentration, evocation]
 subtags: [cleric: nature]
 ---
 

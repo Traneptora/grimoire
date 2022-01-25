@@ -3,7 +3,7 @@ layout: post
 title: "Otiluke’s Freezing Sphere"
 date: 2015-07-30
 sources: [PHB.263]
-tags: [sorcerer, wizard, level6, evocation]
+tags: [sorcerer, wizard, level6, action, evocation]
 ---
 
 **6th-level evocation**

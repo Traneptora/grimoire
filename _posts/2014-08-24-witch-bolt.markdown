@@ -3,7 +3,7 @@ layout: post
 title:  "Witch Bolt"
 date:   2014-08-24
 sources: [PHB.289]
-tags: [sorcerer, warlock, wizard, level1, concentration, evocation]
+tags: [sorcerer, warlock, wizard, level1, action, concentration, evocation]
 ---
 
 **1st-level evocation**

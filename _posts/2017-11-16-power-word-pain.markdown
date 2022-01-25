@@ -3,7 +3,7 @@ layout: post
 title:  "Power Word Pain"
 date:   2017-11-16
 sources: [XGE.163]
-tags: [sorcerer, warlock, wizard, level7, enchantment]
+tags: [sorcerer, warlock, wizard, level7, action, enchantment]
 ---
 
 **7th-level enchantment**

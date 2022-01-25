@@ -3,7 +3,7 @@ layout: post
 title: "Harm"
 date: 2015-07-30
 sources: [PHB.249, SRD.153]
-tags: [cleric, level6, necromancy]
+tags: [cleric, level6, action, necromancy]
 ---
 
 **6th-level necromancy**

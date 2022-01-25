@@ -3,7 +3,7 @@ layout: post
 title:  "Dancing Lights"
 date:   2014-08-24
 sources: [PHB.230, SRD.133]
-tags: [artificer, bard, sorcerer, wizard, cantrip, concentration, evocation]
+tags: [artificer, bard, sorcerer, wizard, cantrip, action, concentration, evocation]
 ---
 
 **Evocation cantrip**

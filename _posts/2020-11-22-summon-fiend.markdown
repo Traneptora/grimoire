@@ -3,7 +3,7 @@ layout: post
 title: "Summon Fiend"
 date: 2020-11-23
 sources: [TCE.112]
-tags: [warlock, wizard, level6, concentration, conjuration]
+tags: [warlock, wizard, level6, action, concentration, conjuration]
 ---
 
 **6th-level conjuration**

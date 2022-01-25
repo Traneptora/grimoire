@@ -3,7 +3,7 @@ layout: post
 title:  "Catnap"
 date: 2017-11-13
 sources: [XGE.151]
-tags: [artificer, bard, sorcerer, wizard, level3, enchantment]
+tags: [artificer, bard, sorcerer, wizard, level3, action, enchantment]
 ---
 
 **3rd-level enchantment**

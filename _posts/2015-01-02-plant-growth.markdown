@@ -3,7 +3,7 @@ layout: post
 title:  "Plant Growth"
 date:   2015-01-02
 sources: [PHB.266, SRD.169]
-tags: [bard, druid, ranger, level3, transmutation]
+tags: [bard, druid, ranger, level3, action, transmutation]
 subtags: [cleric: nature, paladin: ancients, warlock: fey]
 ---
 

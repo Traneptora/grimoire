@@ -3,7 +3,7 @@ layout: post
 title:  "Vicious Mockery"
 date:   2014-08-24
 sources: [PHB.285, SRD.189]
-tags: [bard, cantrip, enchantment]
+tags: [bard, cantrip, action, enchantment]
 ---
 
 **Enchantment cantrip**

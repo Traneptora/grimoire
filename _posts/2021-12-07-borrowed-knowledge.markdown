@@ -3,7 +3,7 @@ layout: post
 title: "Borrowed Knowledge"
 date: 2021-12-07
 sources: [SCC.37]
-tags: [bard, cleric, warlock, wizard, level2, divination]
+tags: [bard, cleric, warlock, wizard, level2, action, divination]
 ---
 
 **2nd-level divination**

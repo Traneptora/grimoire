@@ -3,7 +3,7 @@ layout: post
 title: "Knock"
 date: 2015-07-30
 sources: [PHB.254, SRD.158]
-tags: [bard, sorcerer, wizard, level2, transmutation]
+tags: [bard, sorcerer, wizard, level2, action, transmutation]
 ---
 
 **2nd-level transmutation**

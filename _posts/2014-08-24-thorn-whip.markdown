@@ -3,7 +3,7 @@ layout: post
 title:  "Thorn Whip"
 date:   2014-08-24
 sources: [PHB.282]
-tags: [artificer, druid, cantrip, transmutation]
+tags: [artificer, druid, cantrip, action, transmutation]
 ---
 
 **Transmutation cantrip**

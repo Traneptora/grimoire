@@ -3,7 +3,7 @@ layout: post
 title:  "Speak with Plants"
 date:   2015-01-02
 sources: [PHB.277, SRD.181]
-tags: [bard, druid, ranger, level3, transmutation]
+tags: [bard, druid, ranger, level3, action, transmutation]
 ---
 
 **3rd-level transmutation**

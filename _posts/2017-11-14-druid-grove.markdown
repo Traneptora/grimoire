@@ -3,7 +3,7 @@ layout: post
 title:  "Druid Grove"
 date:   2017-11-14
 sources: [XGE.154]
-tags: [druid, level6, abjuration]
+tags: [druid, level6, long, abjuration]
 ---
 
 **6th-level abjuration**

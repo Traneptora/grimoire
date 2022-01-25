@@ -3,7 +3,7 @@ layout: post
 title: "Vortex Warp"
 date: 2021-12-07
 sources: [SCC.38]
-tags: [artificer, sorcerer, wizard, level2, conjuration]
+tags: [artificer, sorcerer, wizard, level2, action, conjuration]
 ---
 
 **2nd-level conjuration**

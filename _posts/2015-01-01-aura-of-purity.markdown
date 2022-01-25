@@ -3,7 +3,7 @@ layout: post
 title: "Aura of Purity"
 date: 2015-01-01
 sources: [PHB.216]
-tags: [cleric, paladin, level4, concentration, abjuration]
+tags: [cleric, paladin, level4, action, concentration, abjuration]
 ---
 
 **4th-level abjuration**

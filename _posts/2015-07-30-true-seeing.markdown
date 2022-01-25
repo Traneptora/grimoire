@@ -3,7 +3,7 @@ layout: post
 title: "True Seeing"
 date: 2015-07-30
 sources: [PHB.284, SRD.189]
-tags: [bard, cleric, sorcerer, warlock, wizard, level6, divination]
+tags: [bard, cleric, sorcerer, warlock, wizard, level6, action, divination]
 ---
 
 **6th-level divination**

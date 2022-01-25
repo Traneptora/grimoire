@@ -3,7 +3,7 @@ layout: post
 title: "Heat Metal"
 date: 2015-07-30
 sources: [PHB.250, SRD.153]
-tags: [artificer, bard, druid, level2, concentration, transmutation]
+tags: [artificer, bard, druid, level2, action, concentration, transmutation]
 ---
 
 **2nd-level transmutation**

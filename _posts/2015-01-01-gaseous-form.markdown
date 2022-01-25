@@ -3,7 +3,7 @@ layout: post
 title:  "Gaseous Form"
 date:   2015-01-01
 sources: [PHB.244, SRD.148]
-tags: [sorcerer, wizard, warlock, level3, concentration, transmutation]
+tags: [sorcerer, wizard, warlock, level3, action, concentration, transmutation]
 subtags: [druid: underdark]
 ---
 

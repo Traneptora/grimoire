@@ -3,7 +3,7 @@ layout: post
 title:  "Thaumaturgy"
 date:   2014-08-24
 sources: [PHB.282, SRD.187]
-tags: [cleric, cantrip, transmutation]
+tags: [cleric, cantrip, action, transmutation]
 ---
 
 **Transmutation cantrip**

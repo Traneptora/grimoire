@@ -3,7 +3,7 @@ layout: post
 title:  "Lightning Arrow"
 date:   2015-01-01
 sources: [PHB.255]
-tags: [ranger, level3, concentration, transmutation]
+tags: [ranger, level3, bonus, concentration, transmutation]
 ---
 
 **3rd-level transmutation**

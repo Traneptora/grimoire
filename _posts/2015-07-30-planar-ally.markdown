@@ -3,7 +3,7 @@ layout: post
 title: "Planar Ally"
 date: 2015-07-30
 sources: [PHB.265, SRD.168]
-tags: [cleric, level6, conjuration]
+tags: [cleric, level6, long, conjuration]
 ---
 
 **6th-level conjuration**

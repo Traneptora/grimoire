@@ -3,7 +3,7 @@ layout: post
 title:  "Summon Lesser Demons"
 date: 2017-11-13
 sources: [XGE.167]
-tags: [warlock, wizard, level3, concentration, conjuration]
+tags: [warlock, wizard, level3, action, concentration, conjuration]
 ---
 
 **3rd-level conjuration**

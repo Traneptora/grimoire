@@ -3,7 +3,7 @@ layout: post
 title:  "Cloud of Daggers"
 date:   2015-01-01
 sources: [PHB.222]
-tags: [bard, sorcerer, warlock, wizard, level2, concentration, conjuration]
+tags: [bard, sorcerer, warlock, wizard, level2, action, concentration, conjuration]
 ---
 
 **2nd-level conjuration**

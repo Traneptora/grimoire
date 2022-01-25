@@ -3,7 +3,7 @@ layout: post
 title: "Intellect Fortress"
 date: 2020-11-22
 sources: [TCE.107]
-tags: [artificer, bard, sorcerer, warlock, wizard, level3, concentration, abjuration]
+tags: [artificer, bard, sorcerer, warlock, wizard, level3, action, concentration, abjuration]
 ---
 
 **3rd-level abjuration**

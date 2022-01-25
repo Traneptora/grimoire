@@ -3,7 +3,7 @@ layout: post
 title: "Silvery Barbs"
 date: 2021-12-07
 sources: [SCC.38]
-tags: [bard, sorcerer, wizard, level1, enchantment]
+tags: [bard, sorcerer, wizard, level1, reaction, enchantment]
 ---
 
 **1st-level enchantment**

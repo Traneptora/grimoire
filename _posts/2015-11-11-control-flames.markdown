@@ -3,7 +3,7 @@ layout: post
 title:  "Control Flames"
 date: 2015-11-11
 sources: [EE.16, XGE.152]
-tags: [druid, sorcerer, wizard, cantrip, transmutation]
+tags: [druid, sorcerer, wizard, cantrip, action, transmutation]
 ---
 
 **Transmutation cantrip**

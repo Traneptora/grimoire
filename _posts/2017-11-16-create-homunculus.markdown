@@ -3,7 +3,7 @@ layout: post
 title:  "Create Homunculus"
 date: 2017-11-16
 sources: [XGE.152]
-tags: [wizard, level6, transmutation]
+tags: [wizard, level6, long, transmutation]
 ---
 
 **6th-level transmutation**

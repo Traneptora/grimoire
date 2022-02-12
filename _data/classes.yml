@@ -68,6 +68,6 @@
     - name: The Fiend
       subtag: fiend
     - name: The Great Old One
-      subtag: great old one
+      subtag: great-old-one
 - name: Wizard
   tag: wizard

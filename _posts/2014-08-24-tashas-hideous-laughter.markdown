@@ -4,7 +4,7 @@ title:  "Tasha’s Hideous Laughter"
 date:   2014-08-24
 sources: [PHB.280]
 tags: [bard, wizard, level1, action, concentration, enchantment]
-subtags: [warlock: great old one]
+subtags: [warlock: great-old-one]
 ---
 
 **1st-level enchantment**

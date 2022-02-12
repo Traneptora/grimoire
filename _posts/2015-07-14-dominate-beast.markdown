@@ -4,7 +4,7 @@ title: "Dominate Beast"
 date: 2015-07-14
 sources: [PHB.234, SRD.137]
 tags: [druid, ranger, sorcerer, level4, action, concentration, enchantment]
-subtags: [cleric: nature, warlock: fey, warlock: great old one]
+subtags: [cleric: nature, warlock: fey, warlock: great-old-one]
 ---
 
 **4th-level enchantment**

@@ -1,5 +1,14 @@
 - name: Artificer
   tag: artificer
+  subclasses:
+   - name: Alchemist
+     subtag: alchemist
+   - name: Armorer
+     subtag: armorer
+   - name: Artillerist
+     subtag: artillerist
+   - name: Battle Smith
+     subtag: battle-smith
 - name: Bard
   tag: bard
 - name: Cleric

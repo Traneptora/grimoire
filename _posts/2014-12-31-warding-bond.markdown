@@ -4,6 +4,7 @@ title:  "Warding Bond"
 date:   2014-12-31
 sources: [PHB.287, SRD.191]
 tags: [cleric, paladin, level2, action, abjuration]
+subtags: [artificer: battle-smith]
 ---
 
 **2nd-level abjuration**

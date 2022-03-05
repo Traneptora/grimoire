@@ -4,6 +4,7 @@ title:  "Chill Touch"
 date:   2014-08-24
 sources: [PHB.221, SRD.124]
 tags: [sorcerer, warlock, wizard, cantrip, action, necromancy]
+subtags: [druid: spores]
 ---
 
 **Necromancy cantrip**

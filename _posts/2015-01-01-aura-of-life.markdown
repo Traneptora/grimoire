@@ -4,6 +4,7 @@ title: "Aura of Life"
 date: 2015-01-01
 sources: [PHB.216]
 tags: [cleric, paladin, level4, action, concentration, abjuration]
+subtags: [druid: wildfire]
 ---
 
 **4th-level abjuration**

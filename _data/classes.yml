@@ -49,10 +49,14 @@
      subtag: grassland
    - name: "Circle of the Land: Mountain"
      subtag: mountain
+   - name: Circle of Spores
+     subtag: spores
    - name: "Circle of the Land: Swamp"
      subtag: swamp
    - name: "Circle of the Land: The Underdark"
      subtag: underdark
+   - name: Circle of Wildfire
+     subtag: wildfire
 - name: Paladin
   tag: paladin
   subclasses:

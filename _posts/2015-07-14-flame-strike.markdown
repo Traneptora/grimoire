@@ -4,7 +4,7 @@ title: "Flame Strike"
 date: 2015-07-14
 sources: [PHB.242, SRD.145]
 tags: [cleric, level5, action, evocation]
-subtags: [paladin: devotion, warlock: fiend]
+subtags: [druid: wildfire, paladin: devotion, warlock: fiend]
 ---
 
 **5th-level evocation**

@@ -4,7 +4,7 @@ title:  "Burning Hands"
 date:   2014-08-24
 sources: [PHB.220, SRD.123]
 tags: [sorcerer, wizard, level1, action, evocation]
-subtags: [cleric: light, warlock: fiend]
+subtags: [cleric: light, druid: wildfire, warlock: fiend]
 ---
 
 **1st-level evocation**

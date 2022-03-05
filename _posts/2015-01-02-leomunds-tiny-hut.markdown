@@ -4,6 +4,7 @@ title:  "Leomund’s Tiny Hut"
 date: 2015-01-02
 sources: [PHB.255]
 tags: [bard, wizard, level3, long, ritual, evocation]
+subtags: [cleric: twilight]
 ---
 
 **3rd-level evocation (ritual)**
@@ -13,6 +14,7 @@ tags: [bard, wizard, level3, long, ritual, evocation]
 **Range**: Self (10-foot-radius hemisphere)
 
 **Components**: V, S, M (a small crystal bead)
+
 
 **Duration**: 8 hours
 

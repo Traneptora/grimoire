@@ -22,10 +22,16 @@
      subtag: light
    - name: Nature Domain
      subtag: nature
+   - name: Order Domain
+     subtag: order
+   - name: Peace Domain
+     subtag: peace
    - name: Tempest Domain
      subtag: tempest
    - name: Trickery Domain
      subtag: trickery
+   - name: Twilight Domain
+     subtag: twilight
    - name: War Domain
      subtag: war
 - name: Druid

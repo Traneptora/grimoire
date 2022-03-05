@@ -4,6 +4,7 @@ title: "Otiluke’s Resilient Sphere"
 date: 2015-07-30
 sources: [PHB.264]
 tags: [artificer, wizard, level4, action, concentration, evocation]
+subtags: [cleric: peace]
 ---
 
 **4th-level evocation**

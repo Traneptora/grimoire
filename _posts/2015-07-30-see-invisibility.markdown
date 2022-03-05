@@ -4,6 +4,7 @@ title: "See Invisibility"
 date: 2015-07-30
 sources: [PHB.274, SRD.177]
 tags: [artificer, bard, sorcerer, wizard, level2, action, divination]
+subtags: [cleric: twilight]
 ---
 
 **2nd-level divination**

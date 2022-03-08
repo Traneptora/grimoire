@@ -27,7 +27,7 @@
     <meta property="og:image:alt" content="A book with a magnifying glass">
     <script defer src="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}"></script>
     <script defer type="text/javascript">
-        document.getElementById('menuIcon').addEventListener('click', () => {
+        const menuClick = () => {
             const menu = document.getElementById('menu');
             if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
                 menu.className = menu.className.replace( /(?:^|\s)show(?!\S)/g, '');
@@ -40,6 +40,9 @@
             } else {
                 menu2.className += ' show';
             }
+        };
+        document.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('menuIcon').addEventListener('click', menuClick);
         });
     </script>
     <script defer src="{{ '/js/tagsearch.js' | prepend: site.baseurl }}"></script>

@@ -1,13 +1,20 @@
 <head>
+    <link rel="preconnect"  crossorigin="anonymous" href="https://cdnjs.cloudflare.com/">
+    <link rel="preload" as="style" href="/fonts/libertinus.css">
+    <link rel="preload" as="style" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
+    <link rel="preload" as="script" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/jets/0.14.0/jets.min.js">
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
-    <link rel="icon" href="{{ '/images/calibre-viewer.png' | prepend: site.baseurl }}">
+    <link rel="icon" href="{{ '/images/calibre-viewer.png?v=1' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="/fonts/linux-libertine/index.css">
+    <link rel="stylesheet" href="/fonts/libertinus.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:title" content="{{ site.title }}">
     <meta property="og:type" content="website">

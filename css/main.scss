@@ -3,11 +3,9 @@
 ---
 @charset "utf-8";
 
-
-
 // Our variables
 // $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-family: "Linux Libertine", Georgia, serif;
+$base-font-family: "Libertinus Serif", Georgia, serif;
 $base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -28,7 +26,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          750px;
 $on-laptop:        800px;
-
 
 
 // Using media queries with like this:

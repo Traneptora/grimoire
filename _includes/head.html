@@ -1,10 +1,9 @@
 <head>
-    <link rel="preconnect"  crossorigin="anonymous" href="https://cdnjs.cloudflare.com/">
     <link rel="preload" as="style" href="/fonts/libertinus.css">
     <link rel="preload" as="style" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
-    <link rel="preload" as="script" crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/jets/0.14.0/jets.min.js">
+    <link rel="preload" as="script" crossorigin="anonymous" href="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -25,7 +24,7 @@
     <meta property="og:image:width" content="256">
     <meta property="og:image:height" content="256">
     <meta property="og:image:alt" content="A book with a magnifying glass">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jets/0.14.0/jets.min.js"></script>
+    <script src="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}"></script>
     <script type="text/javascript">
     	function menuClick() {
     		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {

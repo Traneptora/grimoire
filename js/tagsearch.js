@@ -26,6 +26,9 @@ function runTagSearch(bar, dataEntry, classPrefix){
 
 function ready(){
     const tagSearchBar = document.getElementById("tagSearchBar");
+    if (!tagSearchBar) {
+        return;
+    }
     const sourceSearchBar = document.getElementById("sourceSearchBar");
     const params = new URLSearchParams(window.location.search);
     if (params.get("tagSearch")){

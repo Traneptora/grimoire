@@ -26,7 +26,9 @@
     <meta property="og:image:height" content="256">
     <meta property="og:image:alt" content="A book with a magnifying glass">
     <script defer src="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}"></script>
+    <script defer src="{{ '/js/tagsearch.js' | prepend: site.baseurl }}"></script>
     <script defer type="text/javascript">
+        var jets;
         const menuClick = () => {
             const menu = document.getElementById('menu');
             if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
@@ -43,7 +45,22 @@
         };
         document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('menuIcon').addEventListener('click', menuClick);
+            jets = new Jets({
+                searchTag: '#jetsSearch',
+                contentTag: '.jetsContent',
+                didSearch: function(search_phrase) {
+                    var elements = document.getElementsByClassName("jetsHide");
+                    if (!search_phrase.trim()) {
+                        for (let i = 0; i < elements.length; i++) {
+                            elements[i].classList.remove("searchHide");
+                        }
+                    } else {
+                        for (let i = 0; i < elements.length; i++) {
+                            elements[i].classList.add("searchHide");
+                        }
+                    }
+                },
+            });
         });
-    </script>
-    <script defer src="{{ '/js/tagsearch.js' | prepend: site.baseurl }}"></script>
+    </script>   
 </head>

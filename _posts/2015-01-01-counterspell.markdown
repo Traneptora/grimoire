@@ -4,6 +4,7 @@ title:  "Counterspell"
 date:   2015-01-01
 sources: [PHB.228, SRD.131]
 tags: [sorcerer, warlock, wizard, level3, reaction, abjuration]
+subtags: [paladin: watchers]
 ---
 
 **3rd-level abjuration**

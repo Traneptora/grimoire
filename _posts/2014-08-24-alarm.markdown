@@ -4,6 +4,7 @@ title:  "Alarm"
 date:   2014-08-24
 sources: [PHB.211, SRD.114]
 tags: [artificer, ranger, wizard, level1, long, ritual, abjuration]
+subtags: [paladin: watchers]
 ---
 
 **1st-level abjuration (ritual)**

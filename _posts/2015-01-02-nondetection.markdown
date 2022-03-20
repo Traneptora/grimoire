@@ -4,7 +4,7 @@ title:  "Nondetection"
 date:   2015-01-02
 sources: [PHB.263, SRD.167]
 tags: [bard, ranger, wizard, level3, action, abjuration]
-subtags: [cleric: knowledge]
+subtags: [cleric: knowledge, paladin: watchers]
 ---
 
 **3rd-level abjuration**

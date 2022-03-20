@@ -62,8 +62,12 @@
   subclasses:
    - name: Oath of Devotion
      subtag: devotion
+   - name: Oath of Glory
+     subtag: glory
    - name: Oath of The Ancients
      subtag: ancients
+   - name: Oath of The Watchers
+     subtag: watchers
    - name: Oath of Vengeance
      subtag: vengeance
 - name: Ranger

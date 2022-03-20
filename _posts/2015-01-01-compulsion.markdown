@@ -4,7 +4,7 @@ title:  "Compulsion"
 date:   2015-01-01
 sources: [PHB.224, SRD.126]
 tags: [bard, level4, action, concentration, enchantment]
-subtags: [cleric: order]
+subtags: [cleric: order, paladin: glory]
 ---
 
 **4th-level enchantment**

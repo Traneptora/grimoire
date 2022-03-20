@@ -4,7 +4,7 @@ title: "Moonbeam"
 date: 2015-07-30
 sources: [PHB.261, SRD.166]
 tags: [druid, level2, action, concentration, evocation]
-subtags: [cleric: twilight, paladin: ancients]
+subtags: [cleric: twilight, paladin: ancients, paladin: watchers]
 ---
 
 **2nd-level evocation**

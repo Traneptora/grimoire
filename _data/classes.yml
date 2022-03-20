@@ -37,24 +37,24 @@
 - name: Druid
   tag: druid
   subclasses:
-   - name: "Circle of the Land: Arctic"
+   - name: "Circle of the Land — Arctic"
      subtag: arctic
-   - name: "Circle of the Land: Coast"
+   - name: "Circle of the Land — Coast"
      subtag: coast
-   - name: "Circle of the Land: Desert"
+   - name: "Circle of the Land — Desert"
      subtag: desert
-   - name: "Circle of the Land: Forest"
+   - name: "Circle of the Land — Forest"
      subtag: forest
-   - name: "Circle of the Land: Grassland"
+   - name: "Circle of the Land — Grassland"
      subtag: grassland
-   - name: "Circle of the Land: Mountain"
+   - name: "Circle of the Land — Mountain"
      subtag: mountain
+   - name: "Circle of the Land — Swamp"
+     subtag: swamp
+   - name: "Circle of the Land — The Underdark"
+     subtag: underdark
    - name: Circle of Spores
      subtag: spores
-   - name: "Circle of the Land: Swamp"
-     subtag: swamp
-   - name: "Circle of the Land: The Underdark"
-     subtag: underdark
    - name: Circle of Wildfire
      subtag: wildfire
 - name: Paladin
@@ -93,13 +93,13 @@
       subtag: fathomless
     - name: The Fiend
       subtag: fiend
-    - name: "The Genie - Dao"
+    - name: "The Genie — Dao"
       subtag: genie-dao
-    - name: "The Genie - Djinni"
+    - name: "The Genie — Djinni"
       subtag: genie-djinni
-    - name: "The Genie - Efreeti"
+    - name: "The Genie — Efreeti"
       subtag: genie-efreeti
-    - name: "The Genie - Marid"
+    - name: "The Genie — Marid"
       subtag: genie-marid
     - name: The Great Old One
       subtag: great-old-one

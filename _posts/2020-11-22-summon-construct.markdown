@@ -4,6 +4,7 @@ title: "Summon Construct"
 date: 2020-11-23
 sources: [TCE.111]
 tags: [artificer, wizard, level4, action, concentration, conjuration]
+subtags: [sorcerer: clockwork-soul]
 ---
 
 **4th-level conjuration**

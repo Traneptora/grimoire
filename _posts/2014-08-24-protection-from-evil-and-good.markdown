@@ -4,6 +4,7 @@ title:  "Protection from Evil and Good"
 date:   2014-08-24
 sources: [PHB.270, SRD.173]
 tags: [cleric, druid, paladin, warlock, wizard, level1, action, concentration, abjuration]
+subtags: [sorcerer: clockwork-soul]
 ---
 
 **1st-level abjuration**

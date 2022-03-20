@@ -4,6 +4,7 @@ title:  "Hunger of Hadar"
 date:   2015-01-01
 sources: [PHB.251]
 tags: [warlock, level3, action, concentration, conjuration]
+subtags: [sorcerer: aberrant-mind]
 ---
 
 **3rd-level conjuration**

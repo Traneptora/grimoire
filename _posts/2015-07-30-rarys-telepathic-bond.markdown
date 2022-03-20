@@ -4,7 +4,7 @@ title: "Rary’s Telepathic Bond"
 date:  2015-07-30
 sources: [PHB.270]
 tags:  [bard, wizard, level5, ritual, divination]
-subtags: [cleric: peace]
+subtags: [cleric: peace, sorcerer: aberrant-mind]
 ---
 
 **5th-level divination (ritual)**

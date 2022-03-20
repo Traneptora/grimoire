@@ -4,6 +4,7 @@ title: "Summon Aberration"
 date: 2020-11-23
 sources: [TCE.109]
 tags: [warlock, wizard, level4, action, concentration, conjuration]
+subtags: [sorcerer: aberrant-mind]
 ---
 
 **4th-level conjuration**

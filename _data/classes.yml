@@ -79,6 +79,11 @@
      subtag: swarmkeeper
 - name: Sorcerer
   tag: sorcerer
+  subclasses:
+   - name: Aberrant Mind
+     subtag: aberrant-mind
+   - name: Clockwork Soul
+     subtag: clockwork-soul
 - name: Warlock
   tag: warlock
   subclasses:

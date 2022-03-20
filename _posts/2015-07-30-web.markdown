@@ -4,7 +4,7 @@ title: "Web"
 date: 2015-07-30
 sources: [PHB.287, SRD.192]
 tags: [artificer, sorcerer, wizard, level2, action, concentration, conjuration]
-subtags: [druid: underdark]
+subtags: [druid: underdark, ranger: swarmkeeper]
 ---
 
 **2nd-level conjuration**

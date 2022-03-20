@@ -72,6 +72,11 @@
      subtag: vengeance
 - name: Ranger
   tag: ranger
+  subclasses:
+   - name: Fey Wanderer
+     subtag: fey-wanderer
+   - name: Swarmkeeper
+     subtag: swarmkeeper
 - name: Sorcerer
   tag: sorcerer
 - name: Warlock

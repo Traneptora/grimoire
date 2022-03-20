@@ -4,6 +4,7 @@ title: "Phantasmal Killer"
 date: 2015-07-30
 sources: [PHB.265, SRD.167]
 tags: [bard, wizard, level4, action, concentration, illusion]
+subtags: [warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid]
 ---
 
 **4th-level illusion**

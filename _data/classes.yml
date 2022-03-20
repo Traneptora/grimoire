@@ -89,8 +89,18 @@
   subclasses:
     - name: The Archfey
       subtag: fey
+    - name: The Fathomless
+      subtag: fathomless
     - name: The Fiend
       subtag: fiend
+    - name: "The Genie - Dao"
+      subtag: genie-dao
+    - name: "The Genie - Djinni"
+      subtag: genie-djinni
+    - name: "The Genie - Efreeti"
+      subtag: genie-efreeti
+    - name: "The Genie - Marid"
+      subtag: genie-marid
     - name: The Great Old One
       subtag: great-old-one
 - name: Wizard

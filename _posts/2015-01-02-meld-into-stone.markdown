@@ -4,6 +4,7 @@ title:  "Meld Into Stone"
 date:   2015-01-02
 sources: [PHB.259, SRD.163]
 tags: [cleric, druid, ranger, level3, action, ritual, transmutation]
+subtags: [warlock: genie-dao]
 ---
 
 **3rd-level transmutation (ritual)**

@@ -4,7 +4,7 @@ title: "Greater Invisibility"
 date: 2015-07-30
 sources: [PHB.246, SRD.150]
 tags: [bard, sorcerer, wizard, level4, action, concentration, illusion]
-subtags: [artificer: armorer, cleric: twilight, druid: underdark, warlock: fey]
+subtags: [artificer: armorer, cleric: twilight, druid: underdark, warlock: fey, warlock: genie-djinni]
 ---
 
 **4th-level illusion**

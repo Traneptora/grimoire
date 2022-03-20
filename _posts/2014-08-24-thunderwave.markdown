@@ -4,7 +4,7 @@ title:  "Thunderwave"
 date:   2014-08-24
 sources: [PHB.282, SRD.187]
 tags: [bard, druid, sorcerer, wizard, level1, action, evocation]
-subtags: [artificer: armorer, artificer: artillerist, cleric: tempest, warlock: genie-djinni]
+subtags: [artificer: armorer, artificer: artillerist, cleric: tempest, warlock: fathomless, warlock: genie-djinni]
 ---
 
 **1st-level evocation**

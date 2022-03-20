@@ -4,6 +4,7 @@ title: "Summon Elemental"
 date: 2020-11-23
 sources: [TCE.111]
 tags: [druid, ranger, wizard, level4, action, concentration, conjuration]
+subtags: [warlock: fathomless]
 ---
 
 **4th-level conjuration**

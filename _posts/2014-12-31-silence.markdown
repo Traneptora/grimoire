@@ -4,7 +4,7 @@ title:  "Silence"
 date:   2014-12-31
 sources: [PHB.275, SRD.179]
 tags: [bard, cleric, ranger, level2, action, concentration, ritual, illusion]
-subtags: [druid: desert]
+subtags: [druid: desert, warlock: fathomless]
 ---
 
 **2nd-level illusion (ritual)**

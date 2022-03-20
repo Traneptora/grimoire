@@ -4,6 +4,7 @@ title: "Bigby’s Hand"
 date: 2015-07-30
 sources: [PHB.218]
 tags: [artificer, sorcerer, wizard, level5, action, concentration, evocation]
+subtags: [warlock: fathomless]
 ---
 
 **5th-level evocation**

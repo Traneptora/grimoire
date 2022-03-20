@@ -4,6 +4,7 @@ title:  "Create or Destroy Water"
 date:   2014-08-24
 sources: [PHB.229, SRD.132]
 tags: [cleric, druid, level1, action, transmutation]
+subtags: [warlock: fathomless]
 ---
 
 **1st-level transmutation**

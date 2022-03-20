@@ -4,7 +4,7 @@ title: "Gust of Wind"
 date: 2015-07-30
 sources: [PHB.248, SRD.152]
 tags: [druid, ranger, sorcerer, wizard, level2, action, concentration, evocation]
-subtags: [cleric: tempest, warlock: genie-djinni]
+subtags: [cleric: tempest, warlock: fathomless, warlock: genie-djinni]
 ---
 
 **2nd-level evocation**

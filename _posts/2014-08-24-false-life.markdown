@@ -4,6 +4,7 @@ title:  "False Life"
 date:   2014-08-24
 sources: [PHB.239, SRD.142]
 tags: [artificer, sorcerer, wizard, level1, action, necromancy]
+subtags: [cleric: death, cleric: grave]
 ---
 
 **1st-level necromancy**

@@ -4,6 +4,7 @@ title: "Animate Objects"
 date: 2015-07-14
 sources: [PHB.213, SRD.116]
 tags: [artificer, bard, sorcerer, wizard, level5, action, concentration, transmutation]
+subtags: [cleric: forge]
 ---
 
 **5th-level transmutation**

@@ -4,6 +4,7 @@ title: "Nystul’s Magic Aura"
 date: 2015-07-30
 sources: [PHB.263]
 tags: [wizard, level2, action, illusion]
+subtags: [cleric: arcana]
 ---
 
 **2nd-level illusion**

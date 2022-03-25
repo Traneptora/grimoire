@@ -4,6 +4,7 @@ title: "Leomund’s Secret Chest"
 date: 2015-07-30
 sources: [PHB.254]
 tags: [artificer, wizard, level4, action, conjuration]
+subtags: [cleric: arcana]
 ---
 
 **4th-level conjuration**

@@ -4,6 +4,7 @@ title: "Ray of Enfeeblement"
 date: 2015-07-30
 sources: [PHB.271, SRD.174]
 tags: [warlock, wizard, level2, action, concentration, necromancy]
+subtags: [cleric: death, cleric: grave]
 ---
 
 **2nd-level necromancy**

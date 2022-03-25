@@ -4,7 +4,7 @@ title: "Creation"
 date: 2015-07-14
 sources: [PHB.229, SRD.132]
 tags: [artificer, sorcerer, wizard, level5, long, illusion]
-subtags: [warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid]
+subtags: [cleric: forge, warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid]
 ---
 
 **5th-level illusion**

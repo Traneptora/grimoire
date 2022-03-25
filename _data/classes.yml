@@ -14,6 +14,14 @@
 - name: Cleric
   tag: cleric
   subclasses:
+   - name: Arcana Domain
+     subtag: arcana
+   - name: Death Domain
+     subtag: death
+   - name: Forge Domain
+     subtag: forge
+   - name: Grave Domain
+     subtag: grave
    - name: Knowledge Domain
      subtag: knowledge
    - name: Life Domain

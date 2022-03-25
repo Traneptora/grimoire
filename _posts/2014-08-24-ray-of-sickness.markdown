@@ -4,7 +4,7 @@ title:  "Ray of Sickness"
 date:   2014-08-24
 sources: [PHB.271]
 tags: [sorcerer, wizard, level1, action, necromancy]
-subtags: [artificer: alchemist]
+subtags: [artificer: alchemist, cleric: death]
 ---
 
 **1st-level necromancy**

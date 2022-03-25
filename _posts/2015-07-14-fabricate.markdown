@@ -4,6 +4,7 @@ title: "Fabricate"
 date: 2015-07-14
 sources: [PHB.239, SRD.141]
 tags: [artificer, wizard, level4, long, transmutation]
+subtags: [cleric: forge]
 ---
 
 **4th-level transmutation**

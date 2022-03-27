@@ -4,7 +4,7 @@ title:  "Sleep"
 date:   2014-08-24
 sources: [PHB.276, SRD.180]
 tags: [bard, sorcerer, wizard, level1, action, enchantment]
-subtags: [cleric: twilight, warlock: fey]
+subtags: [cleric: twilight, paladin: redemption, warlock: fey]
 ---
 
 **1st-level enchantment**

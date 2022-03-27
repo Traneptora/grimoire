@@ -4,7 +4,7 @@ title:  "Sanctuary"
 date:   2014-08-24
 sources: [PHB.272, SRD.176]
 tags: [artificer, cleric, level1, bonus, abjuration]
-subtags: [paladin: devotion, warlock: genie-dao]
+subtags: [paladin: devotion, paladin: redemption, warlock: genie-dao]
 ---
 
 **1st-level abjuration**

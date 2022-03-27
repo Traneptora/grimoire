@@ -4,6 +4,7 @@ title:  "Bestow Curse"
 date:   2015-01-01
 sources: [PHB.218, SRD.121]
 tags: [bard, cleric, wizard, level3, action, concentration, necromancy]
+subtags: [paladin: conquest, paladin: oathbreaker]
 ---
 
 **3rd-level necromancy**

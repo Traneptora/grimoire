@@ -4,7 +4,7 @@ title:  "Hypnotic Pattern"
 date:   2015-01-01
 sources: [PHB.252, SRD.155]
 tags: [bard, sorcerer, warlock, wizard, level3, action, concentration, illusion]
-subtags: [artificer: armorer]
+subtags: [artificer: armorer, paladin: redemption]
 ---
 
 **3rd-level illusion**

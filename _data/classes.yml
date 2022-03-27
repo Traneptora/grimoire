@@ -68,16 +68,24 @@
 - name: Paladin
   tag: paladin
   subclasses:
+   - name: Oath of Conquest
+     subtag: conquest
    - name: Oath of Devotion
      subtag: devotion
    - name: Oath of Glory
      subtag: glory
+   - name: Oath of Redemption
+     subtag: redemption
    - name: Oath of The Ancients
      subtag: ancients
+   - name: Oath of The Crown
+     subtags: crown
    - name: Oath of The Watchers
      subtag: watchers
    - name: Oath of Vengeance
      subtag: vengeance
+   - name: Oathbreaker
+     subtag: oathbreaker
 - name: Ranger
   tag: ranger
   subclasses:

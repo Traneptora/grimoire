@@ -4,7 +4,7 @@ title:  "Blindness/Deafness"
 date:   2014-12-31
 sources: [PHB.219]
 tags: [bard, cleric, sorcerer, wizard, level2, action, necromancy]
-subtags: [druid: spores, warlock: fiend]
+subtags: [druid: spores, warlock: fiend, warlock: undead, warlock: undying]
 ---
 
 **2nd-level necromancy**

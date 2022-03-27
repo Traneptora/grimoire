@@ -4,7 +4,7 @@ title: "Greater Restoration"
 date: 2015-07-30
 sources: [PHB.246, SRD.150]
 tags: [artificer, bard, cleric, druid, ranger, level5, action, abjuration]
-subtags: [sorcerer: clockwork-soul]
+subtags: [sorcerer: clockwork-soul, warlock: celestial]
 ---
 
 **5th-level abjuration**

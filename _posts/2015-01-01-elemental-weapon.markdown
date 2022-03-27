@@ -4,7 +4,7 @@ title:  "Elemental Weapon"
 date:   2015-01-01
 sources: [PHB.237]
 tags: [artificer, druid, paladin, ranger, level3, action, concentration, transmutation]
-subtags: [cleric: forge]
+subtags: [cleric: forge, warlock: hexblade]
 ---
 
 **3rd-level transmutation**

@@ -4,7 +4,7 @@ title: "Flaming Sphere"
 date: 2015-07-14
 sources: [PHB.242, SRD.145]
 tags: [druid, sorcerer, wizard, level2, action, concentration, conjuration]
-subtags: [artificer: alchemist, cleric: light]
+subtags: [artificer: alchemist, cleric: light, warlock: celestial]
 ---
 
 **2nd-level conjuration**

@@ -4,7 +4,7 @@ title: "Guardian of Faith"
 date: 2015-07-30
 sources: [PHB.246, SRD.150]
 tags: [cleric, level4, action, conjuration]
-subtags: [paladin: crown, paladin: devotion]
+subtags: [paladin: crown, paladin: devotion, warlock: celestial]
 ---
 
 **4th-level conjuration**

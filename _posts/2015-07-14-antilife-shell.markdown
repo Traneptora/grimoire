@@ -4,7 +4,7 @@ title: "Antilife Shell"
 date: 2015-07-14
 sources: [PHB.213, SRD.116]
 tags: [druid, level5, action, concentration, abjuration]
-subtags: [cleric: death, cleric: grave]
+subtags: [cleric: death, cleric: grave, warlock: undead]
 ---
 
 **5th-level abjuration**

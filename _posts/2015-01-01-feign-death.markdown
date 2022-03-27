@@ -4,6 +4,7 @@ title:  "Feign Death"
 date:   2015-01-01
 sources: [PHB.240]
 tags: [bard, cleric, druid, wizard, level3, action, ritual, necromancy]
+subtags: [warlock: undying]
 ---
 
 **3rd-level necromancy (ritual)**

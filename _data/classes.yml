@@ -111,6 +111,8 @@
   subclasses:
     - name: The Archfey
       subtag: fey
+    - name: The Celestial
+      subtag: celestial
     - name: The Fathomless
       subtag: fathomless
     - name: The Fiend
@@ -125,5 +127,11 @@
       subtag: genie-marid
     - name: The Great Old One
       subtag: great-old-one
+    - name: The Hexblade
+      subtag: hexblade
+    - name: The Undead
+      subtag: undead
+    - name: The Undying
+      subtag: undying
 - name: Wizard
   tag: wizard

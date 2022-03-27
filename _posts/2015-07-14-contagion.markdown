@@ -4,7 +4,7 @@ title: "Contagion"
 date: 2015-07-14
 sources: [PHB.227, SRD.129]
 tags: [cleric, druid, level5, action, necromancy]
-subtags: [paladinn: oathbreaker]
+subtags: [paladinn: oathbreaker, warlock: undying]
 ---
 
 **5th-level necromancy**

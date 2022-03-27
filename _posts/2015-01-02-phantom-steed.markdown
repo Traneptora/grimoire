@@ -4,6 +4,7 @@ title:  "Phantom Steed"
 date:   2015-01-02
 sources: [PHB.265, SRD.167]
 tags: [wizard, level3, long, ritual, illusion]
+subtags: [warlock: undead]
 ---
 
 **3rd-level illusion (ritual)**

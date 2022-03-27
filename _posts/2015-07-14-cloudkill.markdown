@@ -4,7 +4,7 @@ title: "Cloudkill"
 date: 2015-07-14
 sources: [PHB.222, SRD.125]
 tags: [sorcerer, wizard, level5, action, concentration, conjuration]
-subtags: [artificer: alchemist, cleric: death, druid: spores, druid: underdark, paladin: conquest]
+subtags: [artificer: alchemist, cleric: death, druid: spores, druid: underdark, paladin: conquest, warlock: undead]
 ---
 
 **5th-level conjuration**

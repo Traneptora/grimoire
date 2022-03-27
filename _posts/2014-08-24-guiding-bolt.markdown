@@ -4,7 +4,7 @@ title:  "Guiding Bolt"
 date:   2014-08-24
 sources: [PHB.248, SRD.151]
 tags: [cleric, level1, action, evocation]
-subtags: [paladin: glory]
+subtags: [paladin: glory, warlock: celestial]
 ---
 
 **1st-level evocation**

@@ -4,6 +4,7 @@ title: "Rope Trick"
 date: 2015-07-30
 sources: [PHB.272, SRD.176]
 tags: [artificer, wizard, level2, action, transmutation]
+subtags: [ranger: gloom-stalker]
 ---
 
 **2nd-level transmutation**

@@ -4,7 +4,7 @@ title: "Seeming"
 date: 2015-07-30
 sources: [PHB.274, SRD.177]
 tags: [bard, sorcerer, wizard, level5, action, illusion]
-subtags: [warlock: fey, warlock: genie-djinni]
+subtags: [ranger: gloom-stalker, warlock: fey, warlock: genie-djinni]
 ---
 
 **5th-level illusion**

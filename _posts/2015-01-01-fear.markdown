@@ -4,7 +4,7 @@ title:  "Fear"
 date:   2015-01-01
 sources: [PHB.239, SRD.142]
 tags: [bard, sorcerer, warlock, wizard, level3, action, concentration, illusion]
-subtags: [paladin: conquest]
+subtags: [paladin: conquest, ranger: gloom-stalker]
 ---
 
 **3rd-level illusion**

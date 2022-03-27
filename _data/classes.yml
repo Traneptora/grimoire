@@ -91,6 +91,12 @@
   subclasses:
    - name: Fey Wanderer
      subtag: fey-wanderer
+   - name: Gloom Stalker
+     subtag: gloom-stalker
+   - name: Horizon Walker
+     subtag: horizon-walker
+   - name: Monster Slayer
+     subtag: monster-slayer
    - name: Swarmkeeper
      subtag: swarmkeeper
 - name: Sorcerer

@@ -135,3 +135,8 @@
       subtag: undying
 - name: Wizard
   tag: wizard
+  subclasses:
+   - name: Chronurgy
+     subtag: chronurgy
+   - name: Graviturgy
+     subtag: graviturgy

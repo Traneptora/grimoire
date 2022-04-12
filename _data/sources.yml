@@ -12,3 +12,5 @@
   source: FTD
 - name: "Strixhaven: A Curriculum of Chaos"
   source: SCC
+- name: "Explorer’s Guide to Wildemount"
+  source: EGW

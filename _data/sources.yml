@@ -14,3 +14,7 @@
   source: SCC
 - name: "Explorer’s Guide to Wildemount"
   source: EGW
+- name: "Acquisitions Incorporated"
+  source: AI
+- name: "Astral Adventurer’s Guide"
+  source: AAG

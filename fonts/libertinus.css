@@ -1,0 +1,122 @@
+/*
+ * All Libertinus Fonts
+ */
+
+ /* Libertinus Keyboard */
+@font-face {
+  font-family: 'Libertinus Keyboard';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusKeyboard-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusKeyboard-Regular.otf') format('opentype');
+}
+
+/* Libertinus Math */
+@font-face {
+  font-family: 'Libertinus Math';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusMath-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusMath-Regular.otf') format('opentype');
+}
+
+/* Libertinus Mono */
+@font-face {
+  font-family: 'Libertinus Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusMono-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusMono-Regular.otf') format('opentype');
+}
+
+/* Libertinus Sans */
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSans-Regular.otf') format('woff2'),
+    url('libertinus/LibertinusSans-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSans-Italic.woff2') format('woff2'),
+    url('libertinus/LibertinusSans-Italic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('libertinus/LibertinusSans-Bold.woff2') format('woff2'),
+    url('libertinus/LibertinusSans-Bold.otf') format('opentype');
+}
+
+/* Libertinus Serif */
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSerif-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: italic;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSerif-Italic.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-Italic.otf') format('opentype')
+}
+
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: normal;
+  font-weight: 600;
+  src: url('libertinus/LibertinusSerif-Semibold.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: italic;
+  font-weight: 600;
+  src: url('libertinus/LibertinusSerif-SemiboldItalic.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-SemiboldItalic.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: normal;
+  font-weight: 700;
+  src: url('libertinus/LibertinusSerif-Bold.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Libertinus Serif';
+  font-style: italic;
+  font-weight: 700;
+  src: url('libertinus/LibertinusSerif-BoldItalic.woff2') format('woff2'),
+    url('libertinus/LibertinusSerif-BoldItalic.otf') format('opentype');
+}
+
+/* Libertinus Serif Display */
+@font-face {
+  font-family: 'Libertinus Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSerifDisplay-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusSerifDisplay-Regular.otf') format('opentype');
+}
+
+/* Libertinus Serif Initials */
+@font-face {
+  font-family: 'Libertinus Serif Initials';
+  font-style: normal;
+  font-weight: 400;
+  src: url('libertinus/LibertinusSerifInitials-Regular.woff2') format('woff2'),
+    url('libertinus/LibertinusSerifInitials-Regular.otf') format('opentype');
+}

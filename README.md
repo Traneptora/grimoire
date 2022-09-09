@@ -2,7 +2,7 @@
 
 Grimoire is a mobile-friendly 5e spellbook that organizes spell lists by class and level.
 
-See the latest compiled build here: [https://thebombzen.com/grimoire/](https://thebombzen.com/grimoire/)
+See the latest compiled build here: [https://grimoire.thebombzen.xyz/](https://grimoire.thebombzen.xyz/)
 
 Grimoire is forked from [ephe/grimoire](https://github.com/ephe/grimoire/), which has since been taken down (à la DMCA).
 
@@ -15,7 +15,7 @@ If you'd like to submit a Pull Request or somehow contribute code, I recommend y
 * See the commit history. The Grimoire is "done" at this point in that all the spells from the base game have been added (as of mid-to-late 2016).
 
 ## To Do
-* Find a real home for class specializations (e.g. cleric's domains). Currently, to view spells available to a tempest cleric, one must do a tag search for: cleric | cleric (tempest). This is ulgy and needs fixing.
+* Improve class specializations and other subtags, and make it easy to look at class spell lists alone.
 
 ## Structure
 Spells can be found inside `_posts/`. Each spell gets its own post, written and stored as a [Markdown](https://daringfireball.net/projects/markdown/basics) file. The date is arbitrary and never displayed, but still necessary for [Jekyll](https://jekyllrb.com) to process the posts properly.

@@ -37,9 +37,9 @@ Tags are sorted in this order:
 5. The ritual tag, if applicable.
 6. The school tag.
 
-Example: [Speak with Animals](https://thebombzen.com/grimoire/spells/speak-with-animals): \[barbarian (totem warrior), bard, cleric (nature), druid, paladin (ancients), ranger, level1, ritual, divination\]
+Example: [Speak with Animals](https://grimoire.thebombzen.xyz/spells/speak-with-animals): \[barbarian (totem warrior), bard, cleric (nature), druid, paladin (ancients), ranger, level1, ritual, divination\]
 
-Example: [Darkness](https://thebombzen.com/grimoire/spells/darkness): \[elf (drow), elf (mul daya), tiefling, druid (swamp), monk (shadow), paladin (oathbreaker), sorcerer, warlock, wizard, level2, evocation\]
+Example: [Darkness](https://grimoire.thebombzen.xyz/spells/darkness): \[elf (drow), elf (mul daya), tiefling, druid (swamp), monk (shadow), paladin (oathbreaker), sorcerer, warlock, wizard, level2, evocation\]
 
 ## Whitespace
 

@@ -34,8 +34,7 @@
 			{% for level in site.data.levels %}
 			<a id="{{level.tag}}"></a>
 			<h2 class="post-list-head jetsHide">{{level.title}}</h2>
-			{% assign leveltag = level.tag %}
-			{% assign post_list = site.tags[leveltag] | sort: 'title' %}
+			{% assign post_list = site.tags[level.tag] | sort: 'title' %}
 			<ul class="post-list jetsContent">
 				{% for post in post_list %}
 					{% assign found = false %}

@@ -25,6 +25,12 @@
 					{% endfor %}
 				</dl>
 			{% endif %}
+			{% if page.subtag %}
+				<dl class="tag-list">
+					<dt>Parent Tag:</dt>
+					<dd><a href="{{site.baseurl}}/tags/{{page.tag}}.html">{{page.tag}}</a></dd>
+				</dl>
+			{% endif %}
 			{% for level in site.data.levels %}
 			<a id="{{level.tag}}"></a>
 			<h2 class="post-list-head jetsHide">{{level.title}}</h2>

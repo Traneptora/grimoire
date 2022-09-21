@@ -17,6 +17,14 @@
 				</dd>
 				{% endfor %}
 			</dl>
+			{% if page.subtags %}
+				<dl class="tag-list">
+					<dt>Subtags:</dt>
+					{% for subtag in page.subtags %}
+						<dd><a href="{{site.baseurl}}/tags/{{page.tag}}-{{subtag.subtag}}.html">{{subtag.name}}</a></dd>
+					{% endfor %}
+				</dl>
+			{% endif %}
 			{% for level in site.data.levels %}
 			<a id="{{level.tag}}"></a>
 			<h2 class="post-list-head jetsHide">{{level.title}}</h2>

@@ -28,7 +28,7 @@
 			{% if page.subtag %}
 				<dl class="tag-list">
 					<dt>Parent Tag:</dt>
-					<dd><a href="{{site.baseurl}}/tags/{{page.tag}}.html">{{page.tag}}</a></dd>
+					<dd><a href="{{site.baseurl}}/tags/{{page.tag}}.html">{{page.parent}}</a></dd>
 				</dl>
 			{% endif %}
 			{% for level in site.data.levels %}

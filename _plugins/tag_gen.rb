@@ -13,6 +13,7 @@ module Jekyll
         self.data['tag'] = tag['tag']
         self.data['subtag'] = subtag['subtag']
         self.data['title'] = "#{tag['name']}: #{subtag['name']}"
+        self.data['parent'] = tag['name']
         self.data['subtags'] = nil
       else
         self.data['tag'] = tag

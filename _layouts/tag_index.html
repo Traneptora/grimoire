@@ -38,11 +38,6 @@
 			<ul class="post-list jetsContent">
 				{% for post in post_list %}
 					{% assign found = false %}
-					{% for tag in post.tags %}
-						{% if tag == page.tag %}
-							{% assign found = true %}
-						{% endif %}
-					{% endfor %}
 					{% if page.subtag %}
 						{% for subtag in post.subtags %}
 						{% for item in subtag %}
@@ -50,6 +45,12 @@
 								{% assign found = true %}
 							{% endif %}
 						{% endfor %}
+						{% endfor %}
+					{% else %}
+						{% for tag in post.tags %}
+							{% if tag == page.tag %}
+								{% assign found = true %}
+							{% endif %}
 						{% endfor %}
 					{% endif %}
 					{% if found %}

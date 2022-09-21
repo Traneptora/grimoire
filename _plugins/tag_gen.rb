@@ -30,13 +30,18 @@ module Jekyll
         dir = site.config['tag_dir'] || 'tags'
         site.tags.keys.each do |tag|
           site.data['classes'].each do |clazz|
+            found = false
             if clazz['tag'] == tag
+              found = true
               write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subclasses'])
               if clazz['subclasses'] != nil
                 clazz['subclasses'].each do |subclazz|
                   write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['subtag']}"), clazz, subclazz, nil)
                 end
               end
+            end
+            if found == false
+              write_tag_index(site, File.join(dir, tag), tag, nil, nil)
             end
           end
         end

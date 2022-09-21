@@ -29,8 +29,8 @@ module Jekyll
       if site.layouts.key? 'tag_index'
         dir = site.config['tag_dir'] || 'tags'
         site.tags.keys.each do |tag|
+          found = false
           site.data['classes'].each do |clazz|
-            found = false
             if clazz['tag'] == tag
               found = true
               write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subclasses'])
@@ -40,9 +40,9 @@ module Jekyll
                 end
               end
             end
-            if found == false
-              write_tag_index(site, File.join(dir, tag), tag, nil, nil)
-            end
+          end
+          if found == false
+            write_tag_index(site, File.join(dir, tag), tag, nil, nil)
           end
         end
       end

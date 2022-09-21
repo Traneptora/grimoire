@@ -3,7 +3,7 @@ layout: post
 title:  "True Resurrection"
 date:   2015-01-10
 sources: [PHB.284, SRD.189]
-tags:   [cleric, druid, level9, necromancy]
+tags:   [cleric, druid, level9, long, necromancy]
 ---
 
 **9th-level necromancy**

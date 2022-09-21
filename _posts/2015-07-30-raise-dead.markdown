@@ -3,7 +3,7 @@ layout: post
 title: "Raise Dead"
 date: 2015-07-30
 sources: [PHB.270, SRD.173]
-tags: [cleric, paladin, bard, level5, long, necromancy]
+tags: [bard, cleric, paladin, level5, long, necromancy]
 subtags: [artificer: alchemist]
 ---
 

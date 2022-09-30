@@ -31,9 +31,11 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 **Hit Points** 10 (4d4)
 **Speed** 30 ft., climb 30 ft.
 ---
-| STR  |  DEX  |  CON  |  INT |  WIS  |  CHA |
+
+|STR   | DEX   | CON   |INT   |WIS    |CHA   |
 |:----:|:-----:|:-----:|:----:|:-----:|:----:|
 |4 (-3)|16 (+3)|10 (+O)|2 (-4)|10 (+O)|1 (-5)|
+
 ---
 **Damage Immunities** poison, psychic
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned

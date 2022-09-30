@@ -39,6 +39,6 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10  
 **Languages** —
 
-#### <u>Actions</u>
+### <u>Actions</u>
 **Slam.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  
 *Hit:* 5 (1d4 + 3) bludgeoning damage.

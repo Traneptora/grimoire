@@ -24,7 +24,7 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
-## __Tiny Servant__
+## <u>Tiny Servant</u>
 *Tiny construct, unaligned*  
 **Armor Class** 15 (natural armor)  
 **Hit Points** 10 (4d4)  
@@ -39,6 +39,6 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 **Senses** blindsight 60 ft. (blind beyond this radius), passive Perception 10  
 **Languages** —
 
-#### __Actions__
+#### <u>Actions</u>
 **Slam.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target.  
 *Hit:* 5 (1d4 + 3) bludgeoning damage.

@@ -40,7 +40,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ### <u>Actions</u>
 ***Multiattack.*** The fey makes a number of attacks equal to half this spell’s level (rounded down).
 
-***Shortsword.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target.
+***Shortsword.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target.  
 *Hit:* 1d6 + 3 + the spell’s level piercing damage + 1d6 force damage.
 
 ### <u>Bonus Actions</u>

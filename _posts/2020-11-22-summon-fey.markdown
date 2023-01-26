@@ -23,17 +23,18 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell’s level appears in the stat block.
 
 ## <u>Fey Spirit</u>
-*Small Fey, Unaligned*
-**Armor Class** 12 + the level of the spell (natural armor)
-**Hit Points** 30 + 10 for each spell level above 3rd
+
+*Small Fey, Unaligned*  
+**Armor Class** 12 + the level of the spell (natural armor)  
+**Hit Points** 30 + 10 for each spell level above 3rd  
 **Speed** 40 ft.
 
 | STR   | DEX   | CON   | INT   | WIS   | CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |13 (+1)|16 (+3)|14 (+2)|14 (+2)|11 (+0)|16 (+3)|
 
-**Condition Immunities** charmed
-**Senses** darkvision 60 ft., passive Perception 10
+**Condition Immunities** charmed  
+**Senses** darkvision 60 ft., passive Perception 10  
 **Languages** Sylvan, understands the languages you speak
 
 ### <u>Actions</u>

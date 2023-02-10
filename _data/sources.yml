@@ -20,3 +20,5 @@
   source: AAG
 - name: "Guildmasters’ Guide to Ravnica"
   source: GGR
+- name: "Icewind Dale: Rime of the Frostmaiden"
+  source: IDRF

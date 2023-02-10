@@ -18,3 +18,5 @@
   source: AI
 - name: "Astral Adventurer’s Guide"
   source: AAG
+- name: "Guildmasters’ Guide to Ravnica"
+  source: GGR

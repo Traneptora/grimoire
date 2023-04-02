@@ -4,7 +4,7 @@ title: "Misty Step"
 date: 2015-07-30
 sources: [PHB.260, SRD.165]
 tags: [sorcerer, warlock, wizard, level2, bonus, conjuration]
-subtags: [druid: coast, paladin: ancients, paladin: vengeance, ranger: fey-wanderer, ranger: horizon-stalker]
+subtags: [druid: coast, paladin: ancients, paladin: vengeance, ranger: fey-wanderer, ranger: horizon-walker]
 ---
 
 **2nd-level conjuration**

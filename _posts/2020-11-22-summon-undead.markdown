@@ -43,13 +43,13 @@ The creature is an ally to you and your companions. In combat, the creature shar
 ***Incorporeal Passage (Ghostly Only).*** The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.
 
 ### <u>Actions</u>
-***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (rounded down).
+***Multiattack.*** The spirit makes a number of attacks equal to half this spell’s level (rounded down).
 
 ***Deathly Touch (Ghostly Only).*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one creature.  
-*Hit:* 1d8 + 3 + the spell's level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target's next turn.
+*Hit:* 1d8 + 3 + the spell’s level necrotic damage, and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target’s next turn.
 
 ***Grave Bolt (Skeletal Only).*** *Ranged Spell Attack:* your spell attack modifier to hit, range 150 ft., one target.  
-*Hit:* 2d4 + 3 + the spell's level necrotic damage.
+*Hit:* 2d4 + 3 + the spell’s level necrotic damage.
 
 ***Rotting Claw (Putrid Only).*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target.  
-*Hit:* 1d6 + 3 + the spell's level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn.
+*Hit:* 1d6 + 3 + the spell’s level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn.

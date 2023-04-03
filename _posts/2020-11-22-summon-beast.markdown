@@ -12,7 +12,7 @@ tags: [druid, ranger, level2, action, concentration, conjuration]
 
 **Range**: 90 feet
 
-**Components**: V, S, M (a feather, tuft or fur, and fish tail inside a gilded acorn worth at least 200gp)
+**Components**: V, S, M (a feather, tuft of fur, and fish tail inside a gilded acorn worth at least 200gp)
 
 **Duration**: Concentration, up to 1 hour
 

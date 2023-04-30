@@ -22,3 +22,9 @@
   source: GGR
 - name: "Icewind Dale: Rime of the Frostmaiden"
   source: IDRF
+- name: "Adventures in the Forgotten Realms: A Verdant Tomb"
+  source: AVT
+- name: "Adventures in the Forgotten Realms: From Cyan Depths"
+  source: FCD
+- name: "Lost Laboratory of Kwalish"
+  source: LLK

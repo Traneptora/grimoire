@@ -16,7 +16,7 @@ tags: [druid, sorcerer, wizard, level7, bonus, concentration, transmutation]
 
 **Duration**: Concentration, up to 1 minute
 
-Wih a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:
+With a roar, you draw on the magic of dragons to transform yourself, taking on draconic features. You gain the following benefits until the spell ends:
 
 **Blindsight.** You have blindsight with a range of 30 feet. Within that range, you can effectively see anything that isn’t behind total cover, even if you’re blinded or in darkness. Moreover, you can see an invisible creature, unless the creature successfully hides from you.
 

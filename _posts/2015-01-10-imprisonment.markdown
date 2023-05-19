@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Imprisonment"
-date:   2015-01-10
+title: "Imprisonment"
+date: 2015-01-10
 sources: [PHB.252, SRD.156]
-tags:   [warlock, wizard, level9, abjuration]
+tags: [warlock, wizard, level9, long, abjuration]
 ---
 
 **9th-level abjuration**

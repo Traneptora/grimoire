@@ -3,7 +3,7 @@ layout: post
 title: "Wish"
 date: 2015-01-10
 sources: [PHB.288, SRD.193]
-tags: [sorcerer, wizard, level9, conjuration]
+tags: [sorcerer, wizard, level9, action, conjuration]
 subtags: [warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid]
 ---
 

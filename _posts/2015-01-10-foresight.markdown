@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Foresight"
-date:   2015-01-10
+title: "Foresight"
+date: 2015-01-10
 sources: [PHB.244, SRD.147]
-tags:   [bard, druid, warlock, wizard, level9, divination]
+tags: [bard, druid, warlock, wizard, level9, long, divination]
 ---
 
 **9th-level divination**

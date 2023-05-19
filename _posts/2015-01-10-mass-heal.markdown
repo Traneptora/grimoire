@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mass Heal"
-date:   2015-01-10
+title: "Mass Heal"
+date: 2015-01-10
 sources: [PHB.258, SRD.163]
-tags:   [cleric, level9, evocation]
+tags: [cleric, level9, action, evocation]
 ---
 
 **9th-level evocation**

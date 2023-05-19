@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Meteor Swarm"
-date:   2015-01-10
+title: "Meteor Swarm"
+date: 2015-01-10
 sources: [PHB.259, SRD.164]
-tags:   [sorcerer, wizard, level9, evocation]
+tags: [sorcerer, wizard, level9, action, evocation]
 ---
 
 **9th-level evocation**

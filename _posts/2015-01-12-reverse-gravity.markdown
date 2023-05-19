@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Reverse Gravity"
-date:   2015-01-12
+title: "Reverse Gravity"
+date: 2015-01-12
 sources: [PHB.272, SRD.175]
-tags:   [druid, sorcerer, wizard, level7, transmutation]
+tags: [druid, sorcerer, wizard, level7, action, concentration,transmutation]
 ---
 
 **7th-level transmutation**

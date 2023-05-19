@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Plane Shift"
-date:   2015-01-11
+title: "Plane Shift"
+date: 2015-01-11
 sources: [PHB.266, SRD.168]
-tags:   [cleric, druid, sorcerer, warlock, wizard, level7, conjuration]
+tags: [cleric, druid, sorcerer, warlock, wizard, level7, action, conjuration]
 ---
 
 **7th-level conjuration**

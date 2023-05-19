@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Divine Word"
-date:   2015-01-11
+title: "Divine Word"
+date: 2015-01-11
 sources: [PHB.234, SRD.137]
-tags:   [cleric, level7, evocation]
+tags: [cleric, level7, bonus, evocation]
 ---
 
 **7th-level evocation**

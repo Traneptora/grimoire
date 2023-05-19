@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Prismatic Spray"
-date:   2015-01-11
+title: "Prismatic Spray"
+date: 2015-01-11
 sources: [PHB.267, SRD.170]
-tags:   [bard, sorcerer, wizard, level7, evocation]
+tags: [bard, sorcerer, wizard, level7, action, evocation]
 ---
 
 **7th-level evocation**

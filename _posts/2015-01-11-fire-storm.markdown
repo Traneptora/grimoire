@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Fire Storm"
-date:   2015-01-11
+title: "Fire Storm"
+date: 2015-01-11
 sources: [PHB.241, SRD.145]
-tags:   [cleric, druid, sorcerer, level7, evocation]
+tags: [cleric, druid, sorcerer, level7, action, evocation]
 ---
 
 **7th-level evocation**

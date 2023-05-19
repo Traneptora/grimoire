@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mordenkainen’s Magnificent Mansion"
-date:   2015-01-11
+title: "Mordenkainen’s Magnificent Mansion"
+date: 2015-01-11
 sources: [PHB.261]
-tags:   [bard, wizard, level7, conjuration]
+tags: [bard, wizard, level7, long, conjuration]
 ---
 
 **7th-level conjuration**

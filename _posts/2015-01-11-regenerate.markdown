@@ -3,7 +3,7 @@ layout: post
 title:  "Regenerate"
 date:   2015-01-11
 sources: [PHB.271, SRD.174]
-tags:   [bard, cleric, druid, level7, transmutation]
+tags:   [bard, cleric, druid, level7, long, transmutation]
 ---
 
 **7th-level transmutation**

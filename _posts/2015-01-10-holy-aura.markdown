@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Holy Aura"
-date:   2015-01-10
+title: "Holy Aura"
+date: 2015-01-10
 sources: [PHB.251, SRD.155]
-tags:   [cleric, level8, abjuration]
+tags: [cleric, level8, action, concentration, abjuration]
 ---
 
 **8th-level abjuration**

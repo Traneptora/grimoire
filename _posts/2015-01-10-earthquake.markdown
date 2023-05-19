@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Earthquake"
-date:   2015-01-10
+title: "Earthquake"
+date: 2015-01-10
 sources: [PHB.236, SRD.139]
-tags:   [cleric, druid, sorcerer, level8, evocation]
+tags: [cleric, druid, sorcerer, level8, action, concentration, vocation]
 ---
 
 **8th-level evocation**

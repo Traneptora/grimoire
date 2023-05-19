@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Clone"
-date:   2015-01-09
+title: "Clone"
+date: 2015-01-09
 sources: [PHB.222, SRD.125]
-tags:   [wizard, level8, necromancy]
+tags: [wizard, level8, long, necromancy]
 ---
 
 **8th-level necromancy**

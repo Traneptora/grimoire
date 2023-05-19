@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dominate Monster"
-date:   2015-01-10
+title: "Dominate Monster"
+date: 2015-01-10
 sources: [PHB.235, SRD.137]
-tags:   [bard, sorcerer, warlock, wizard, level8, enchantment]
+tags: [bard, sorcerer, warlock, wizard, level8, action, concentration, enchantment]
 ---
 
 **8th-level enchantment**

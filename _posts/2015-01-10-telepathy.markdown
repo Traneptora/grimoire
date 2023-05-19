@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Telepathy"
-date:   2015-01-10
+title: "Telepathy"
+date: 2015-01-10
 sources: [PHB.281]
-tags:   [wizard, level8, evocation]
+tags: [wizard, level8, action, evocation]
 ---
 
 **8th-level evocation**

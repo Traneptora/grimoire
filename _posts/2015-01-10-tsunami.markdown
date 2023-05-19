@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Tsunami"
-date:   2015-01-10
+title: "Tsunami"
+date: 2015-01-10
 sources: [PHB.284]
-tags:   [druid, level8, conjuration]
+tags: [druid, level8, long, concentration, conjuration]
 ---
 
 **8th-level conjuration**

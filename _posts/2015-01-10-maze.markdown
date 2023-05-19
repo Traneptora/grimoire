@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Maze"
-date:   2015-01-10
+title: "Maze"
+date: 2015-01-10
 sources: [PHB.258, SRD.163]
-tags:   [wizard, level8, conjuration]
+tags: [wizard, level8, action, concentration, conjuration]
 ---
 
 **8th-level conjuration**

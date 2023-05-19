@@ -3,7 +3,7 @@ layout: post
 title:  "Glibness"
 date:   2015-01-10
 sources: [PHB.245, SRD.149]
-tags:   [bard, warlock, level8, transmutation]
+tags:   [bard, warlock, level8, action, transmutation]
 ---
 
 **8th-level transmutation**

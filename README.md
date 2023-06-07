@@ -9,7 +9,7 @@ Grimoire is forked from [ephe/grimoire](https://github.com/ephe/grimoire/), whic
 ## Contributing
 Feel free to open pull requests or issues on Github for any defects or suggested enhancements you may find. Alternatively, join my public discord at [https://discord.gg/C3WrZ2CAJd](https://discord.gg/C3WrZ2CAJd) and chat with me in `#general`.
 
-If you'd like to submit a Pull Request or somehow contribute code, I recommend you read the [Style Guidelines](https://github.com/thebombzen/grimoire/blob/master/style-guidelines.md). If your submissions do not match this style I'll probably request changes rather than merge it.
+If you'd like to submit a Pull Request or somehow contribute code, I recommend you read the [Style Guidelines](https://github.com/Traneptora/grimoire/blob/master/style-guidelines.md). If your submissions do not match this style I'll probably request changes rather than merge it.
 
 ## Changelog
 * See the commit history. The Grimoire is "done" at this point in that all the spells from the base game have been added (as of mid-to-late 2016).

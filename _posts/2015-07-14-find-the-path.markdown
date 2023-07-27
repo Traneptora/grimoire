@@ -8,7 +8,7 @@ tags: [bard, cleric, druid, level6, long, concentration, divination]
 
 **6th-level divination**
 
-**Casting Time**: 1 minutes
+**Casting Time**: 1 minute
 
 **Range**: Self
 

@@ -28,3 +28,7 @@
   source: FCD
 - name: "Lost Laboratory of Kwalish"
   source: LLK
+- name: "Sigil and the Outlands"
+  source: SATO
+- name: "The Book of Many Things"
+  source: BMT

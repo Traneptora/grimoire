@@ -27,7 +27,7 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 *Medium Undead, Neutral*  
 **Armor Class** 11 + the level of the spell (natural armor)  
 **Hit Points** 40 + 10 for each spell level above 4th  
-**Speed** 30 ft. fly 30 ft (hover).
+**Speed** 30 ft., fly 30 ft. (hover)
 
 | STR   | DEX   | CON   | INT   | WIS   | CHA   |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|

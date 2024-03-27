@@ -85,7 +85,7 @@ Any magen you create with this spell obeys your commands without question.
 ## <u>Galvan Magen</u>
 
 *Medium Construct, Unaligned*  
-**Armor Class** 14
+**Armor Class** 14  
 **Hit Points** 68 (8d8 + 32)  
 **Speed** 30 ft., fly 30 ft. (hover)
 

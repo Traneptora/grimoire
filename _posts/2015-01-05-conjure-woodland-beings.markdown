@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Conjure Woodland Beings"
-date:   2015-01-05
+title: "Conjure Woodland Beings"
+date: 2015-01-05
 sources: [PHB.226, SRD.129]
 tags: [druid, ranger, level4, action, concentration, conjuration]
 ---

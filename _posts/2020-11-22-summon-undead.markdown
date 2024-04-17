@@ -36,7 +36,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Immunities** necrotic, poison  
 **Condition Immunities** exhaustion, frightened, paralyzed, poisoned  
 **Senses** darkvision 60 ft., passive Perception 10  
-**Languages** understands the languages you speak
+**Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Festering Aura (Putrid Only).*** Any creature, other than you, that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.
 

@@ -35,7 +35,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 
 **Condition Immunities** charmed  
 **Senses** darkvision 60 ft., passive Perception 10  
-**Languages** Sylvan, understands the languages you speak
+**Languages** Sylvan, understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ### <u>Actions</u>
 ***Multiattack.*** The fey makes a number of attacks equal to half this spell’s level (rounded down).

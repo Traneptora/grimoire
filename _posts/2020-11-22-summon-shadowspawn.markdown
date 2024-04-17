@@ -36,7 +36,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Resistances** necrotic  
 **Condition Immunities** frightened  
 **Senses** darkvision 120 ft., passive Perception 10  
-**Languages** understands the languages you speak
+**Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Terror Frenzy (Fury Only).*** The spirit has advantage on attack rolls against frightened creatures.
 

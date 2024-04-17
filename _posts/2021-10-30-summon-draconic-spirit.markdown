@@ -37,6 +37,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Condition Immunities** charmed, frightened, poisoned  
 **Senses** blindsight 30 ft., darkvision 60 ft., passive Perception 12  
 **Languages** Draconic, understands the languages you speak  
+**Proficiency Bonus** equals your bonus 
 
 ***Shared Resistances.*** When you summon the dragon, choose one of its damage resistances. You have resistance to the chosen damage type until the spell ends.
 

@@ -39,6 +39,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious  
 **Senses** darkvision 60 ft., passive Perception 10  
 **Languages** Primordial, understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Amorphous Form (Air, Fire, and Water Only).*** The elemental can move through a space as narrow as 1 inch wide without squeezing.
 

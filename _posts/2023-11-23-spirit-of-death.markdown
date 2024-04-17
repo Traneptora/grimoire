@@ -37,6 +37,7 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned  
 **Senses** darkvision 60 ft., passive Perception 13  
 **Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Incorporeal Movement.*** The spirit can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object, it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet shunted.
 

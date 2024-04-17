@@ -37,6 +37,7 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Immunities** psychic  
 **Senses** darkvision 60 ft., passive Perception 10  
 **Languages** Deep Speech, understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Regeneration (Slaad Only).*** The aberration regains 5 hit points at the start of its turn if it has at least 1 hit point.
 

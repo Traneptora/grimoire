@@ -34,7 +34,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 |18 (+4)|11 (+0)|16 (+3)|4  (-3)|14 (+2)|5  (-3)|
 
 **Senses** darkvision 60 ft., passive Perception 12  
-**Languages** understands the languages you speak
+**Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Flyby (Air Only).*** The beast doesn’t provoke opportunity attacks when it flies out of an enemy’s reach.
 

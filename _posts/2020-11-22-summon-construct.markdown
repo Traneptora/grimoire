@@ -37,7 +37,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Resistances** poison  
 **Condition Immunities** charmed, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned  
 **Senses** darkvision 60 ft., passive Perception 10  
-**Languages** understands the languages you speak
+**Languages** understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ***Heated Body (Metal Only).*** A creature that touches the construct or hits it with a melee attack while within 5 feet of it takes 1d10 fire damage.
 

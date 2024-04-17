@@ -37,7 +37,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Immunities** poison  
 **Condition Immunities** poisoned
 **Senses** darkvision 60 ft., passive Perception 10  
-**Languages** Abyssal, Infernal, telepathy 60 ft.
+**Languages** Abyssal, Infernal, telepathy 60 ft.  
+**Proficiency Bonus** equals your bonus
 
 ***Magic Resistance.*** The fiend has advantage on saving throws against spells and other magical effects.
 

@@ -36,7 +36,8 @@ The creature is an ally to you and your companions. In combat, the creature shar
 **Damage Resistances** radiant  
 **Condition Immunities** charmed, frightened  
 **Senses** darkvision 60 ft., passive Perception 12  
-**Languages** Celestial, understands the languages you speak
+**Languages** Celestial, understands the languages you speak  
+**Proficiency Bonus** equals your bonus
 
 ### <u>Actions</u>
 ***Multiattack.*** The celestial makes a number of attacks equal to half this spell’s level (rounded down).

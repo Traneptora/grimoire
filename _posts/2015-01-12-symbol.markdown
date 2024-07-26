@@ -3,7 +3,7 @@ layout: post
 title: "Symbol"
 date: 2015-01-12
 sources: [PHB.280, SRD.184]
-tags: [bard, druid, wizard, cleric, level7, long, abjuration]
+tags: [bard, cleric, druid, wizard, level7, long, abjuration]
 ---
 
 **7th-level abjuration**

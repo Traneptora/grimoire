@@ -144,7 +144,7 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -math.div($spacing-unit, 2);
+    margin-left: math.div(-$spacing-unit, 2);
     @extend %clearfix;
 }
 

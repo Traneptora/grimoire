@@ -2,6 +2,12 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+@use "sass:color";
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@use "../_sass/base";
+@use "../_sass/layout";
+@use "../_sass/syntax-highlighting";
 
 // Our variables
 // $base-font-family: Helvetica, Arial, sans-serif;
@@ -17,12 +23,12 @@ $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color: #4D96B9;
 $brand-color-secondary: #911E00;
-$brand-color-light: lighten($brand-color-secondary, 5%);
-$brand-color-dark: darken($brand-color-secondary, 5%);
+$brand-color-light: color.adjust($brand-color-secondary, $lightness: 5%);
+$brand-color-dark: color.adjust($brand-color-secondary, $lightness: -5%);
 
 $grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark:  color.adjust($grey-color, $lightness: -25%);
 
 $on-palm:          750px;
 $on-laptop:        800px;
@@ -40,13 +46,6 @@ $on-laptop:        800px;
         @content;
     }
 }
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
 
 .tagsearch-hide {
 	display: none;

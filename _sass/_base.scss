@@ -1,4 +1,6 @@
 @use 'sass:math';
+@use 'sass:color';
+@use 'variables' as v;
 
 /**
  * Reset some basic elements
@@ -16,12 +18,12 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
+    font-family: v.$base-font-family;
+    font-size: v.$base-font-size;
+    line-height: v.$base-line-height;
     font-weight: 400;
-    color: $text-color;
-    background-color: $background-color;
+    color: v.$text-color;
+    background-color: v.$background-color;
 }
 
 
@@ -33,7 +35,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-    margin-bottom: math.div($spacing-unit, 2);
+    margin-bottom: math.div(v.$spacing-unit, 2);
 }
 
 
@@ -56,7 +58,7 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: v.$small-font-size;
 }
 
 
@@ -65,7 +67,7 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    margin-left: v.$spacing-unit;
 }
 
 li {
@@ -94,15 +96,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: v.$brand-color;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: color.adjust(v.$brand-color, $lightness: -15%);
     }
 
     &:hover {
-        color: $text-color;
+        color: v.$text-color;
         text-decoration: underline;
     }
 }
@@ -113,9 +115,9 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: math.div($spacing-unit, 2);
+    color: v.$grey-color;
+    border-left: 4px solid v.$grey-color-light;
+    padding-left: math.div(v.$spacing-unit, 2);
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
@@ -133,7 +135,7 @@ blockquote {
 pre,
 code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid v.$grey-color-light;
     border-radius: 3px;
     background-color: #eef;
 }
@@ -159,22 +161,21 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(800px - (#{v.$spacing-unit} * 2));
+    max-width:         calc(800px - (#{v.$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    padding-right: v.$spacing-unit;
+    padding-left: v.$spacing-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
-        padding-right: math.div($spacing-unit, 2);
-        padding-left: math.div($spacing-unit, 2);
+    @include v.media-query(v.$on-laptop) {
+        max-width: -webkit-calc(800px - (#{v.$spacing-unit}));
+        max-width:         calc(800px - (#{v.$spacing-unit}));
+        padding-right: math.div(v.$spacing-unit, 2);
+        padding-left: math.div(v.$spacing-unit, 2);
     }
 }
-
 
 
 /**
@@ -203,7 +204,7 @@ pre {
         vertical-align: middle;
 
         path {
-            fill: $grey-color;
+            fill: v.$grey-color;
         }
     }
 }

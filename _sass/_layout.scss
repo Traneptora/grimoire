@@ -1,11 +1,13 @@
 @use 'sass:math';
+@use 'variables' as v;
+@use 'base' as b;
 
 /**
  * Site header
  */
 .site-header {
-    border-top: 4px solid $brand-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    border-top: 4px solid v.$brand-color-dark;
+    border-bottom: 1px solid v.$grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -22,7 +24,7 @@
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: v.$grey-color-dark;
     }
 }
 
@@ -45,9 +47,9 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: v.$text-color;
         font-size: 18px;
-        line-height: $base-line-height*1.5;
+        line-height: v.$base-line-height*1.5;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -55,9 +57,9 @@
         }
     }
 
-    @include media-query($on-palm) {
+    @include v.media-query(v.$on-palm) {
         position: relative;
-        background-color: $background-color;
+        background-color: v.$background-color;
         text-align: center;
         float: right;
         width: 100%;
@@ -78,7 +80,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: v.$grey-color-dark;
                 }
             }
         }
@@ -111,7 +113,7 @@
                 padding-left: 20px;
             }
             &:not(:last-child) {
-                border-bottom: 1px solid $grey-color-light;
+                border-bottom: 1px solid v.$grey-color-light;
             }
         }
     }
@@ -123,13 +125,13 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    border-top: 1px solid v.$grey-color-light;
+    padding: v.$spacing-unit 0;
 }
 
 .footer-heading {
     font-size: 18px;
-    margin-bottom: math.div($spacing-unit, 2);
+    margin-bottom: math.div(v.$spacing-unit, 2);
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
@@ -143,54 +145,54 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
-    margin-left: math.div(-$spacing-unit, 2);
+    color: v.$grey-color;
+    margin-left: math.div(v.$spacing-unit, -2);
     @extend %clearfix;
 }
 
 .footer-col {
     float: left;
-    margin-bottom: math.div($spacing-unit, 2);
-    padding-left: math.div($spacing-unit, 2);
+    margin-bottom: math.div(v.$spacing-unit, 2);
+    padding-left: math.div(v.$spacing-unit, 2);
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - (#{v.$spacing-unit} / 2));
+    width:         calc(35% - (#{v.$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(35% - (#{v.$spacing-unit} / 2));
+    width:         calc(35% - (#{v.$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
-    width:         calc(30% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{v.$spacing-unit} / 2));
+    width:         calc(30% - (#{v.$spacing-unit} / 2));
 }
 
 .footer-top-link {
     text-align: center;
 }
 
-@include media-query($on-laptop) {
+@include v.media-query(v.$on-laptop) {
     .footer-col-1,
     .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(50% - (#{v.$spacing-unit} / 2));
+        width:         calc(50% - (#{v.$spacing-unit} / 2));
     }
 
     .footer-col-3 {
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(100% - (#{v.$spacing-unit} / 2));
+        width:         calc(100% - (#{v.$spacing-unit} / 2));
     }
 }
 
-@include media-query($on-palm) {
+@include v.media-query(v.$on-palm) {
     .footer-col {
         float: none;
-        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-        width:         calc(100% - (#{$spacing-unit} / 2));
+        width: -webkit-calc(100% - (#{v.$spacing-unit} / 2));
+        width:         calc(100% - (#{v.$spacing-unit} / 2));
     }
 }
 
@@ -203,21 +205,21 @@
  .jetsSearch {
      padding:3px;
      font-size: 16px;
-     line-height: $base-line-height;
+     line-height: v.$base-line-height;
      width: 33%;
      max-width: 400px;
-     border: 1px solid $brand-color-dark;
+     border: 1px solid v.$brand-color-dark;
      border-radius: 4px;
      margin-left: 8px;
  }
 
 .page-content {
-    padding: $spacing-unit-line 0;
+    padding: v.$spacing-unit-line 0;
 }
 
 .page-heading {
     font-size: 36px;
-    margin-top: $spacing-unit-line;
+    margin-top: v.$spacing-unit-line;
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
@@ -229,7 +231,7 @@ dl.tag-list {
     dt {
         font-weight: bold;
         display: inline-block;
-        color: $grey-color-dark;
+        color: v.$grey-color-dark;
         padding-right: 20px;
     }
     dd {
@@ -240,8 +242,8 @@ dl.tag-list {
 
 .post-list-head{
     font-size: 22px;
-    color: $grey-color-dark;
-    margin-top: $spacing-unit;
+    color: v.$grey-color-dark;
+    margin-top: v.$spacing-unit;
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
@@ -252,14 +254,14 @@ dl.tag-list {
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit-line;
-        margin-left: $spacing-unit;
+        margin-bottom: v.$spacing-unit-line;
+        margin-left: v.$spacing-unit;
     }
 }
 
 .post-meta {
-    font-size: $base-font-size;
-    color: $grey-color;
+    font-size: v.$base-font-size;
+    color: v.$grey-color;
 }
 
 .post-link {
@@ -269,7 +271,7 @@ dl.tag-list {
 
 .class-list {
     h3 {
-        margin-top: $spacing-unit;
+        margin-top: v.$spacing-unit;
     }
     .tag-list {
         dt, dd {
@@ -278,7 +280,7 @@ dl.tag-list {
     }
 }
 
-@include media-query($on-palm) {
+@include v.media-query(v.$on-palm) {
     .jetsSearch {
         width: 100%;
         max-width: 100%;
@@ -291,7 +293,7 @@ dl.tag-list {
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: v.$spacing-unit;
 }
 
 .post-title {
@@ -302,13 +304,13 @@ dl.tag-list {
     font-weight: 400;
     font-style: normal;
 
-    @include media-query($on-laptop) {
+    @include v.media-query(v.$on-laptop) {
         font-size: 36px;
     }
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: v.$spacing-unit;
 
     h2 {
         font-size: 32px;
@@ -316,7 +318,7 @@ dl.tag-list {
         font-weight: 400;
         font-style: normal;
 
-        @include media-query($on-laptop) {
+        @include v.media-query(v.$on-laptop) {
             font-size: 28px;
         }
     }
@@ -327,7 +329,7 @@ dl.tag-list {
         font-weight: 400;
         font-style: normal;
 
-        @include media-query($on-laptop) {
+        @include v.media-query(v.$on-laptop) {
             font-size: 22px;
         }
     }
@@ -338,7 +340,7 @@ dl.tag-list {
         font-weight: 400;
         font-style: normal;
 
-        @include media-query($on-laptop) {
+        @include v.media-query(v.$on-laptop) {
             font-size: 18px;
         }
     }

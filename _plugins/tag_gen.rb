@@ -11,7 +11,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       if subtag != nil
         self.data['tag'] = tag['tag']
-        self.data['subtag'] = subtag['subtag']
+        self.data['subtag'] = subtag['tag']
         self.data['title'] = "#{tag['name']}: #{subtag['name']}"
         self.data['parent'] = tag['name']
         self.data['subtags'] = nil
@@ -34,10 +34,10 @@ module Jekyll
           site.data['classes'].each do |clazz|
             if clazz['tag'] == tag
               found = true
-              write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subclasses'])
-              if clazz['subclasses'] != nil
-                clazz['subclasses'].each do |subclazz|
-                  write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['subtag']}"), clazz, subclazz, nil)
+              write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subtags'])
+              if clazz['subtags'] != nil
+                clazz['subtags'].each do |subclazz|
+                  write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['tag']}"), clazz, subclazz, nil)
                 end
               end
             end

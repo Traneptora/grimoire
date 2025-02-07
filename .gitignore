@@ -1,5 +1,6 @@
 .DS_Store
 _site/
+dist/
 _drafts/
 grimoire.sublime*
 .sass-cache/

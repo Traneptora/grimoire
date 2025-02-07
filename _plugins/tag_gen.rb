@@ -26,6 +26,16 @@ module Jekyll
 
   class TagGenerator < Generator
     safe true
+
+    def write_tag(site, dir, clazz, tag)
+      write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subtags'])
+      if clazz['subtags'] != nil
+        clazz['subtags'].each do |subclazz|
+          write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['tag']}"), clazz, subclazz, nil)
+        end
+      end
+    end
+
     def generate(site)
       if site.layouts.key? 'tag_index'
         dir = site.config['tag_dir'] || 'tags'
@@ -34,12 +44,13 @@ module Jekyll
           site.data['classes'].each do |clazz|
             if clazz['tag'] == tag
               found = true
-              write_tag_index(site, File.join(dir, tag), tag, nil, clazz['subtags'])
-              if clazz['subtags'] != nil
-                clazz['subtags'].each do |subclazz|
-                  write_tag_index(site, File.join(dir, "#{clazz['tag']}-#{subclazz['tag']}"), clazz, subclazz, nil)
-                end
-              end
+              write_tag(site, dir, clazz, tag)
+            end
+          end
+          site.data['properties'].each do |clazz|
+            if clazz['tag'] == tag
+              found = true
+              write_tag(site, dir, clazz, tag)
             end
           end
           if found == false

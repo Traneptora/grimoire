@@ -16,3 +16,33 @@
 - name: Long Casting Time
   tag: long
   help: This spell has a casting time greater than one round.
+- name: Damage
+  tag: damage
+  help: This spell can deal damage.
+  subtags:
+   - name: Acid
+     tag: acid
+   - name: Bludgeoning
+     tag: bludgeoning
+   - name: Cold
+     tag: cold
+   - name: Fire
+     tag: fire
+   - name: Force
+     tag: force
+   - name: Lightning
+     tag: lightning
+   - name: Necrotic
+     tag: necrotic
+   - name: Piercing
+     tag: piercing
+   - name: Poison
+     tag: poison
+   - name: Psychic
+     tag: psychic
+   - name: Radiant
+     tag: radiant
+   - name: Slashing
+     tag: slashing
+   - name: Thunder
+     tag: thunder

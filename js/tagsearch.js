@@ -40,7 +40,7 @@ function runTagSearch(bar, dataEntry, classPrefix){
     });
 }
 
-function ready(){
+async function ready() {
     const tagSearchBar = document.getElementById("tagSearchBar");
     if (!tagSearchBar) {
         return;
@@ -53,16 +53,15 @@ function ready(){
     if (params.get("sourceSearch")){
         sourceSearchBar.value = params.get("sourceSearch");
     }
-    const tagSearch = (event) => runTagSearch("tagSearchBar", "tags", "tagsearch");
+    const tagSearch = async (event) => runTagSearch("tagSearchBar", "tags", "tagsearch");
     tagSearchBar.addEventListener("change", tagSearch);
     tagSearchBar.addEventListener("keydown", tagSearch);
     tagSearchBar.addEventListener("input", tagSearch);
-    const sourceSearch = (event) => runTagSearch("sourceSearchBar", "sources", "sourcesearch");
+    const sourceSearch = async (event) => runTagSearch("sourceSearchBar", "sources", "sourcesearch");
     sourceSearchBar.addEventListener("change", sourceSearch);
     sourceSearchBar.addEventListener("keydown", sourceSearch);
     sourceSearchBar.addEventListener("input", sourceSearch);
-    tagSearch();
-    sourceSearch();
+    return Promise.all(tagSearch(), sourceSearch());
 }
 
 document.addEventListener("DOMContentLoaded", ready);

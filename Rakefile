@@ -25,4 +25,4 @@ task :publish => [:generate] do
   puts "Published!"
 end
 
-task :default => :publish
+task :default => :generate

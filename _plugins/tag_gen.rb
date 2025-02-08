@@ -39,21 +39,17 @@ module Jekyll
     def generate(site)
       if site.layouts.key? 'tag_index'
         dir = site.config['tag_dir'] || 'tags'
+        tags_done = []
+        site.data['classes'].each do |clazz|
+          write_tag(site, dir, clazz, clazz['tag'])
+          tags_done.push(clazz['tag'])
+        end
+        site.data['properties'].each do |clazz|
+          write_tag(site, dir, clazz, clazz['tag'])
+          tags_done.push(clazz['tag'])
+        end
         site.tags.keys.each do |tag|
-          found = false
-          site.data['classes'].each do |clazz|
-            if clazz['tag'] == tag
-              found = true
-              write_tag(site, dir, clazz, tag)
-            end
-          end
-          site.data['properties'].each do |clazz|
-            if clazz['tag'] == tag
-              found = true
-              write_tag(site, dir, clazz, tag)
-            end
-          end
-          if found == false
+          if not tags_done.include? tag
             write_tag_index(site, File.join(dir, tag), tag, nil, nil)
           end
         end

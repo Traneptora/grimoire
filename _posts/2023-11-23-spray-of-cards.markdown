@@ -4,6 +4,7 @@ title: "Spray of Cards"
 date: 2023-11-23
 sources: [BMT.50]
 tags: [bard, sorcerer, warlock, wizard, level2, action, conjuration]
+subtags: [damage: force]
 ---
 
 **2nd-level conjuration**

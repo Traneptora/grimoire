@@ -4,6 +4,7 @@ title: "Mordenkainen’s Faithful Hound"
 date: 2015-07-30
 sources: [PHB.261]
 tags: [artificer, wizard, level4, action, conjuration]
+subtags: [damage: piercing]
 ---
 
 **4th-level conjuration**

@@ -4,6 +4,7 @@ title: "Frost Fingers"
 date: 2023-02-10
 sources: [IDRF.318]
 tags: [wizard, level1, action, evocation]
+subtags: [damage: cold]
 ---
 
 **1st-level evocation**

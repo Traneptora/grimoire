@@ -4,7 +4,7 @@ title: "Phantasmal Force"
 date: 2015-07-30
 sources: [PHB.264]
 tags: [bard, sorcerer, wizard, level2, action, concentration, illusion]
-subtags: [warlock: fey, warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid, warlock: great-old-one, warlock: undead]
+subtags: [warlock: fey, warlock: genie-dao, warlock: genie-djinni, warlock: genie-efreeti, warlock: genie-marid, warlock: great-old-one, warlock: undead, damage: psychic]
 ---
 
 **2nd-level illusion**

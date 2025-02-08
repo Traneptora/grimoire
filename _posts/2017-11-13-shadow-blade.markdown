@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Shadow Blade"
+title: "Shadow Blade"
 date: 2017-11-13
 sources: [XGE.164]
 tags: [sorcerer, warlock, wizard, level2, bonus, concentration, illusion]
+subtags: [damage: psychic]
 ---
 
 **2nd-level illusion**

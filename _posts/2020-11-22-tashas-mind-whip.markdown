@@ -4,6 +4,7 @@ title: "Tasha’s Mind Whip"
 date: 2020-11-22
 sources: [TCE.115]
 tags: [sorcerer, wizard, level2, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **2nd-level enchantment**

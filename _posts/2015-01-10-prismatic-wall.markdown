@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Prismatic Wall"
-date:   2015-01-10
+title: "Prismatic Wall"
+date: 2015-01-10
 sources: [PHB.267, SRD.171]
-tags:   [bard, wizard, level9, action, abjuration]
+tags: [bard, wizard, level9, action, abjuration]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: poison]
 ---
 
 **9th-level abjuration**

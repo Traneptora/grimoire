@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Thunderclap"
+title: "Thunderclap"
 date: 2015-08-31
 sources: [EE.22, XGE.168]
 tags: [artificer, bard, druid, sorcerer, warlock, wizard, cantrip, action, evocation]
+subtags: [damage: thunder]
 ---
 
 **Evocation cantrip**

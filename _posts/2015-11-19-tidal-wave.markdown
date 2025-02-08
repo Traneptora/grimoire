@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Tidal Wave"
+title: "Tidal Wave"
 date: 2015-11-19
 sources: [EE.22, XGE.168]
 tags: [druid, sorcerer, wizard, level3, action, conjuration]
+subtags: [damage: bludgeoning]
 ---
 
 **3rd-level conjuration**

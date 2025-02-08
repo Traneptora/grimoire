@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Conjure Barrage"
-date:   2015-01-01
+title: "Conjure Barrage"
+date: 2015-01-01
 sources: [PHB.225]
 tags: [ranger, level3, action, conjuration]
-subtags: [artificer: battle-smith]
+subtags: [artificer: battle-smith, damage: bludgeoning, damage: piercing, damage: slashing]
 ---
 
 **3rd-level conjuration**

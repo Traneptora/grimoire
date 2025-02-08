@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leomund’s Tiny Hut"
+title: "Leomund’s Tiny Hut"
 date: 2015-01-02
 sources: [PHB.255]
 tags: [bard, wizard, level3, long, ritual, evocation]

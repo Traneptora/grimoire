@@ -4,6 +4,7 @@ title: "Jim’s Magic Missile"
 date: 2024-07-02
 sources: [AI.76]
 tags: [wizard, level1, action, evocation]
+subtags: [damage: force]
 ---
 
 **1st-level evocation**

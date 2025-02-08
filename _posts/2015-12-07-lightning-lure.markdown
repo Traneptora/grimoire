@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Lightning Lure"
-date:   2015-12-07
+title: "Lightning Lure"
+date: 2015-12-07
 sources: [SCAG.143, TCE.107]
 tags: [artificer, sorcerer, warlock, wizard, cantrip, action, evocation]
+subtags: [damage: lightning]
 ---
 
 **Evocation cantrip**

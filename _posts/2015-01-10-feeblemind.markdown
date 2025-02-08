@@ -4,6 +4,7 @@ title: "Feeblemind"
 date: 2015-01-10
 sources: [PHB.239, SRD.142]
 tags: [bard, druid, warlock, wizard, level8, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **8th-level enchantment**

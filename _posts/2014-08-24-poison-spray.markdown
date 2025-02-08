@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Poison Spray"
-date:   2014-08-24
+title: "Poison Spray"
+date: 2014-08-24
 sources: [PHB.266, SRD.169]
 tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, action, conjuration]
+subtags: [damage: poison]
 ---
 
 **Conjuration cantrip**

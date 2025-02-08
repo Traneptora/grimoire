@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Maximilian’s Earthen Grasp"
+title: "Maximilian’s Earthen Grasp"
 date: 2015-11-19
 sources: [EE.20, XGE.161]
 tags: [sorcerer, wizard, level2, action, concentration, transmutation]
+subtags: [damage: bludgeoning]
 ---
 
 **2nd-level transmutation**

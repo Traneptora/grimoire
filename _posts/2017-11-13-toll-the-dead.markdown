@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Toll the Dead"
+title: "Toll the Dead"
 date: 2017-11-13
 sources: [XGE.169]
 tags: [cleric, warlock, wizard, cantrip, action, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **Necromancy cantrip**

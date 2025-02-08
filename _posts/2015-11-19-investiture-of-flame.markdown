@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Investiture of Flame"
+title: "Investiture of Flame"
 date: 2015-11-19
 sources: [EE.19, XGE.159]
 tags: [druid, sorcerer, warlock, wizard, level6, action, concentration, transmutation]
+subtags: [damage: fire]
 ---
 
 **6th-level transmutation**

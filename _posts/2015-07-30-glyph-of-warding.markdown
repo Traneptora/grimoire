@@ -4,6 +4,7 @@ title: "Glyph of Warding"
 date: 2015-07-30
 sources: [PHB.245, SRD.149]
 tags: [artificer, bard, cleric, wizard, level3, long, abjuration]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: thunder]
 ---
 
 **3rd-level abjuration**

@@ -5,6 +5,7 @@ date: 2015-07-14
 sources: [PHB.241, SRD.144]
 tags: [druid, sorcerer, wizard, level4, action, evocation]
 subtags: [artificer: armorer, artificer: battle-smith, warlock: fiend, warlock: genie-efreeti]
+subtags: [damage: cold, damage: fire]
 ---
 
 **4th-level evocation**

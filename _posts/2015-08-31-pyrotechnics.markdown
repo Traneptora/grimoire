@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pyrotechnics"
+title: "Pyrotechnics"
 date: 2015-08-31
 sources: [EE.21, XGE.163]
 tags: [artificer, bard, sorcerer, wizard, level2, action, transmutation]

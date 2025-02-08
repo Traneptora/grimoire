@@ -4,7 +4,7 @@ title:  "Branding Smite"
 date:   2015-01-07
 sources: [PHB.219, SRD.123]
 tags: [paladin, level2, bonus, concentration, evocation]
-subtags: [artificer: battle-smith, warlock: hexblade]
+subtags: [artificer: battle-smith, warlock: hexblade, damage: radiant]
 ---
 
 **2nd-level evocation**

@@ -4,7 +4,7 @@ title: "Dark Star"
 date: 2022-04-12
 sources: [EGW.186]
 tags: [level8, action, concentration, evocation]
-subtags: [wizard: graviturgy]
+subtags: [wizard: graviturgy, damage: force]
 ---
 
 **8th-level evocation**

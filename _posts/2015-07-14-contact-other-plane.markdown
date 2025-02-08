@@ -4,6 +4,7 @@ title: "Contact Other Plane"
 date: 2015-07-14
 sources: [PHB.226, SRD.129]
 tags: [warlock, wizard, level5, long, ritual, divination]
+subtags: [damage: psychic]
 ---
 
 **5th-level divination (ritual)**

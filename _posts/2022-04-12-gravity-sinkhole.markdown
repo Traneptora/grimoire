@@ -4,7 +4,7 @@ title: "Gravity Sinkhole"
 date: 2022-04-12
 sources: [EGW.187]
 tags: [level4, action, evocation]
-subtags: [wizard: graviturgy]
+subtags: [wizard: graviturgy, damage: force]
 ---
 
 **4th-level evocation**

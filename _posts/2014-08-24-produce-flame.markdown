@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Produce Flame"
-date:   2014-08-24
+title: "Produce Flame"
+date: 2014-08-24
 sources: [PHB.269, SRD.172]
 tags: [druid, cantrip, action, conjuration]
+subtags: [damage: fire]
 ---
 
 **Conjuration cantrip**

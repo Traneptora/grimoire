@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Sacred Flame"
-date:   2014-08-24
+title: "Sacred Flame"
+date: 2014-08-24
 sources: [PHB.272, SRD.176]
 tags: [cleric, cantrip, action, evocation]
+subtags: [damage: radiant]
 ---
 
 **Evocation cantrip**

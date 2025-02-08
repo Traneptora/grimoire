@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Thunder Step"
+title: "Thunder Step"
 date: 2017-11-13
 sources: [XGE.168]
 tags: [sorcerer, warlock, wizard, level3, action, conjuration]
+subtags: [damage: thunder]
 ---
 
 **3rd-level conjuration**

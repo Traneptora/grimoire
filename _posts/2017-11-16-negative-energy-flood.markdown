@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Negative Energy Flood"
+title: "Negative Energy Flood"
 date: 2017-11-16
 sources: [XGE.163]
 tags: [warlock, wizard, level5, action, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **5th-level necromancy**

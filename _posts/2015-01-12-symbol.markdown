@@ -4,6 +4,7 @@ title: "Symbol"
 date: 2015-01-12
 sources: [PHB.280, SRD.184]
 tags: [bard, cleric, druid, wizard, level7, long, abjuration]
+subtags: [damage: necrotic]
 ---
 
 **7th-level abjuration**

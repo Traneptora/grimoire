@@ -4,7 +4,7 @@ title: "Time Ravage"
 date: 2022-04-12
 sources: [EGW.189]
 tags: [level9, action, necromancy]
-subtags: [wizard: chronurgy]
+subtags: [wizard: chronurgy, damage: necrotic]
 ---
 
 **9th-level necromancy**

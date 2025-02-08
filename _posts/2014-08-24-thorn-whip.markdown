@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Thorn Whip"
-date:   2014-08-24
+title: "Thorn Whip"
+date: 2014-08-24
 sources: [PHB.282]
 tags: [artificer, druid, cantrip, action, transmutation]
+subtags: [damage: piercing]
 ---
 
 **Transmutation cantrip**

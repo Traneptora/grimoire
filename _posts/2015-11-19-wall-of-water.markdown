@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wall of Water"
+title: "Wall of Water"
 date: 2015-11-19
 sources: [EE.23, XGE.170]
 tags: [druid, sorcerer, wizard, level3, action, concentration, evocation]

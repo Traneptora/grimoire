@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Enemies Abound"
+title: "Enemies Abound"
 date: 2017-11-13
 sources: [XGE.155]
 tags: [bard, sorcerer, warlock, wizard, level3, action, concentration, enchantment]

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Divine Favor"
-date:   2014-08-24
+title: "Divine Favor"
+date: 2014-08-24
 sources: [PHB.234, SRD.136]
 tags: [paladin, level1, bonus, concentration, evocation]
-subtags: [cleric: war]
+subtags: [cleric: war, damage: radiant]
 ---
 
 **1st-level evocation**

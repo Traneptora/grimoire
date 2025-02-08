@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Frostbite"
+title: "Frostbite"
 date: 2015-11-11
 sources: [EE.18, XGE.156]
 tags: [artificer, druid, sorcerer, warlock, wizard, cantrip, action, evocation]
+subtags: [damage: cold]
 ---
 
 **Evocation cantrip**

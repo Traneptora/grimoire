@@ -4,6 +4,7 @@ title: "Prismatic Spray"
 date: 2015-01-11
 sources: [PHB.267, SRD.170]
 tags: [bard, sorcerer, wizard, level7, action, evocation]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: poison]
 ---
 
 **7th-level evocation**

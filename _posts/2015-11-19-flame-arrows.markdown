@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Flame Arrows"
+title: "Flame Arrows"
 date: 2015-11-19
 sources: [EE.18, XGE.156]
 tags: [artificer, druid, ranger, sorcerer, wizard, level3, action, concentration, transmutation]
+subtags: [damage: fire]
 ---
 
 **3rd-level transmutation**

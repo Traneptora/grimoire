@@ -4,7 +4,7 @@ title: "Lightning Bolt"
 date: 2015-07-30
 sources: [PHB.255, SRD.159]
 tags: [sorcerer, wizard, level3, action, evocation]
-subtags: [artificer: armorer, druid: mountain, warlock: fathomless]
+subtags: [artificer: armorer, druid: mountain, warlock: fathomless, damage: lightning]
 ---
 
 **3rd-level evocation**

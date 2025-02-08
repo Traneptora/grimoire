@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Zephyr Strike"
-date:   2017-11-14
+title: "Zephyr Strike"
+date: 2017-11-14
 sources: [XGE.171]
 tags: [ranger, level1, bonus, concentration, transmutation]
+subtags: [damage: force]
 ---
 
 **1st-level transmutation**

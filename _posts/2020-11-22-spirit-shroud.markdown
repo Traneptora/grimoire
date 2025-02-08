@@ -4,6 +4,7 @@ title: "Spirit Shroud"
 date: 2020-11-22
 sources: [TCE.108]
 tags: [cleric, paladin, warlock, wizard, level3, bonus, concentration, necromancy]
+subtags: [damage: cold, damage: necrotic, damage: radiant]
 ---
 
 **3rd-level necromancy**

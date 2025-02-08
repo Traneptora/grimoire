@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Wrath of Nature"
-date:   2017-11-14
+title: "Wrath of Nature"
+date: 2017-11-14
 sources: [XGE.171]
 tags: [druid, ranger, level5, action, concentration, evocation]
+subtags: [damage: bludgeoning, damage: slashing]
 ---
 
 **5th-level evocation**

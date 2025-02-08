@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Elemental Bane"
+title: "Elemental Bane"
 date: 2015-11-19
 sources: [EE.17, XGE.155]
 tags: [artificer, druid, warlock, wizard, level4, action, concentration, transmutation]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: thunder]
 ---
 
 **4th-level transmutation**

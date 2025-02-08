@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mighty Fortress"
-date:   2017-11-14
+title: "Mighty Fortress"
+date: 2017-11-14
 sources: [XGE.161]
 tags: [wizard, level8, long, conjuration]
 ---

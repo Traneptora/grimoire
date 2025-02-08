@@ -4,7 +4,7 @@ title: "Reality Break"
 date: 2022-04-12
 sources: [EGW.189]
 tags: [level8, action, concentration, conjuration]
-subtags: [wizard: chronurgy]
+subtags: [wizard: chronurgy, damage: cold, damage: force, damage: psychic]
 ---
 
 **8th-level conjuration**

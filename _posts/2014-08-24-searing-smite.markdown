@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Searing Smite"
-date:   2014-08-24
+title: "Searing Smite"
+date: 2014-08-24
 sources: [PHB.274]
 tags: [paladin, ranger, level1, bonus, concentration, evocation]
-subtags: [cleric: forge]
+subtags: [cleric: forge, damage: fire]
 ---
 
 **1st-level evocation**

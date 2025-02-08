@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Faerie Fire"
-date:   2014-08-24
+title: "Faerie Fire"
+date: 2014-08-24
 sources: [PHB.239, SRD.141]
 tags: [artificer, bard, druid, level1, action, concentration, evocation]
 subtags: [cleric: light, cleric: twilight, ranger: swarmkeeper, warlock: fey]

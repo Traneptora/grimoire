@@ -4,6 +4,7 @@ title: "Conjure Volley"
 date: 2015-07-14
 sources: [PHB.226]
 tags: [ranger, level5, action, conjuration]
+subtags: [damage: bludgeoning, damage: piercing, damage: slashing]
 ---
 
 **5th-level conjuration**

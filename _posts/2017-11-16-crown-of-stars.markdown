@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Crown of Stars"
+title: "Crown of Stars"
 date: 2017-11-16
 sources: [XGE.152]
 tags: [sorcerer, warlock, wizard, level7, action, evocation]
+subtags: [damage: radiant]
 ---
 
 **7th-level evocation**

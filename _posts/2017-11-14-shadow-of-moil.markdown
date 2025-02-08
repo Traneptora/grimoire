@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Shadow of Moil"
-date:   2017-11-14
+title: "Shadow of Moil"
+date: 2017-11-14
 sources: [XGE.164]
 tags: [warlock, level4, action, concentration, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **4th-level necromancy**

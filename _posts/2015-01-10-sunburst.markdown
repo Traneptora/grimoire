@@ -4,6 +4,7 @@ title: "Sunburst"
 date: 2015-01-10
 sources: [PHB.279, SRD.184]
 tags: [cleric, druid, sorcerer, wizard, level8, action, evocation]
+subtags: [damage: radiant]
 ---
 
 **8th-level evocation**

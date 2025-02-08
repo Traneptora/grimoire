@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Catapult"
+title: "Catapult"
 date: 2015-11-19
 sources: [EE.15, XGE.150]
 tags: [artificer, sorcerer, wizard, level1, action, transmutation]
+subtags: [damage: bludgeoning]
 ---
 
 **1st-level transmutation**

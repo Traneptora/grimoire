@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Spirit Guardians"
-date:   2015-01-02
+title: "Spirit Guardians"
+date: 2015-01-02
 sources: [PHB.278, SRD.182]
 tags: [cleric, level3, action, concentration, conjuration]
-subtags: [paladin: crown]
+subtags: [paladin: crown, damage: necrotic, damage: radiant]
 ---
 
 **3rd-level conjuration**

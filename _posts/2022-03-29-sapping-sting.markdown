@@ -4,7 +4,7 @@ title: "Sapping Sting"
 date: 2022-03-29
 sources: [EGW.189]
 tags: [cantrip, action, necromancy]
-subtags: [wizard: chronurgy, wizard: graviturgy]
+subtags: [wizard: chronurgy, wizard: graviturgy, damage: necrotic]
 ---
 
 **Necromancy cantrip**

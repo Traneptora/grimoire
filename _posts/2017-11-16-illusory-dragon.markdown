@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Illusory Dragon"
-date:   2017-11-16
+title: "Illusory Dragon"
+date: 2017-11-16
 sources: [XGE.157]
 tags: [wizard, level8, action, concentration, illusion]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: necrotic, damage: poison]
 ---
 
 **8th-level illusion**

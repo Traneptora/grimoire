@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Chaos Bolt"
-date:   2017-11-14
+title: "Chaos Bolt"
+date: 2017-11-14
 sources: [XGE.151]
 tags: [sorcerer, level1, action, evocation]
 subtags: [damage: acid, damage: cold, damage: fire, damage: force, damage: lightning, damage: poison, damage: psychic, damage: thunder]

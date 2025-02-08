@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Shocking Grasp"
-date:   2014-08-24
+title: "Shocking Grasp"
+date: 2014-08-24
 sources: [PHB.275, SRD.179]
 tags: [artificer, sorcerer, wizard, cantrip, action, evocation]
+subtags: [damage: lightning]
 ---
 
 **Evocation cantrip**

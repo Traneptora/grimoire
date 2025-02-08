@@ -4,6 +4,7 @@ title: "Wall of Thorns"
 date: 2015-07-30
 sources: [PHB.287, SRD.191]
 tags: [druid, level6, action, concentration, conjuration]
+subtags: [damage: piercing, damage: slashing]
 ---
 
 **6th-level conjuration**

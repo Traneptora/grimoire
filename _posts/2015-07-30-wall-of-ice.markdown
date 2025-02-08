@@ -4,6 +4,7 @@ title: "Wall of Ice"
 date: 2015-07-30
 sources: [PHB.285, SRD.190]
 tags: [wizard, level6, action, concentration, evocation]
+subtags: [damage: cold]
 ---
 
 **6th-level evocation**

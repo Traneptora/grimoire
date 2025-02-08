@@ -4,6 +4,7 @@ title: "Sunbeam"
 date: 2015-07-30
 sources: [PHB.279, SRD.184]
 tags: [cleric, druid, sorcerer, wizard, level6, action, concentration, evocation]
+subtags: [damage: radiant]
 ---
 
 **6th-level evocation**

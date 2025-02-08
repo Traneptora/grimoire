@@ -4,6 +4,7 @@ title: "Finger of Death"
 date: 2015-01-11
 sources: [PHB.241, SRD.144]
 tags: [sorcerer, warlock, wizard, level7, action, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **7th-level necromancy**

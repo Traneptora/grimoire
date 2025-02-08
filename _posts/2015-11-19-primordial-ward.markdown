@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Primordial Ward"
+title: "Primordial Ward"
 date: 2015-11-19
 sources: [EE.21, XGE.163]
 tags: [druid, level6, action, concentration, abjuration]

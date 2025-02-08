@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Synaptic Static"
+title: "Synaptic Static"
 date: 2017-11-16
 sources: [XGE.167]
 tags: [bard, sorcerer, warlock, wizard, level5, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **5th-level enchantment**

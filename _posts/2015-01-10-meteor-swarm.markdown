@@ -4,6 +4,7 @@ title: "Meteor Swarm"
 date: 2015-01-10
 sources: [PHB.259, SRD.164]
 tags: [sorcerer, wizard, level9, action, evocation]
+subtags: [damage: bludgeoning, damage: fire]
 ---
 
 **9th-level evocation**

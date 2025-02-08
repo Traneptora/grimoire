@@ -4,6 +4,7 @@ title: "Forbiddance"
 date: 2015-07-14
 sources: [PHB.243, SRD.146]
 tags: [cleric, level6, long, ritual, abjuration]
+subtags: [damage: necrotic, damage: radiant]
 ---
 
 **6th-level abjuration (ritual)**

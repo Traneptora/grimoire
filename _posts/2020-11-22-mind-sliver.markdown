@@ -4,6 +4,7 @@ title: "Mind Sliver"
 date: 2020-11-22
 sources: [TCE.108]
 tags: [sorcerer, warlock, wizard, cantrip, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **Enchantment cantrip**

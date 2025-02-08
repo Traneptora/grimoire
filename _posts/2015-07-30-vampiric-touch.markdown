@@ -4,7 +4,7 @@ title: "Vampiric Touch"
 date: 2015-07-30
 sources: [PHB.285, SRD.189]
 tags: [sorcerer, warlock, wizard, level3, action, concentration, necromancy]
-subtags: [cleric: death, cleric: grave]
+subtags: [cleric: death, cleric: grave, damage: necrotic]
 ---
 
 **3rd-level necromancy**

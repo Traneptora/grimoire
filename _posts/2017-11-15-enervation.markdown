@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Enervation"
+title: "Enervation"
 date: 2017-11-15
 sources: [XGE.155]
 tags: [sorcerer, warlock, wizard, level5, action, concentration, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **5th-level necromancy**

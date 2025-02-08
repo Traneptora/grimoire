@@ -4,6 +4,7 @@ title: "Antagonize"
 date: 2023-11-23
 sources: [BMT.50]
 tags: [bard, sorcerer, warlock, wizard, level3, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **3rd-level enchantment**

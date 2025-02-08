@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Earth Tremor"
+title: "Earth Tremor"
 date: 2015-08-31
 sources: [EE.17, XGE.155]
 tags: [bard, druid, sorcerer, wizard, level1, action, evocation]
+subtags: [damage: bludgeoning]
 ---
 
 **1st-level evocation**

@@ -4,6 +4,7 @@ title: "Draconic Transformation"
 date: 2021-10-30
 sources: [FTD.19]
 tags: [druid, sorcerer, wizard, level7, bonus, concentration, transmutation]
+subtags: [damage: force]
 ---
 
 **7th-level transmutation**

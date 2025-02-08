@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Fire Bolt"
+title: "Fire Bolt"
 date: 2014-08-24
 sources: [PHB.241, SRD.144]
 tags: [artificer, sorcerer, wizard, cantrip, action, evocation]
+subtags: [damage: fire]
 ---
 
 **Evocation cantrip**

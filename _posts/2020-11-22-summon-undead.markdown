@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Summon Undead"
-date:   2020-11-23
+title: "Summon Undead"
+date: 2020-11-23
 sources: [TCE.114]
 tags: [warlock, wizard, level3, action, concentration, necromancy]
 ---

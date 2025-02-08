@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Erupting Earth"
+title: "Erupting Earth"
 date: 2015-11-19
 sources: [EE.17, XGE.155]
 tags: [druid, sorcerer, wizard, level3, action, transmutation]
+subtags: [damage: bludgeoning]
 ---
 
 **3rd-level transmutation**

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Aganazzar’s Scorcher"
+title: "Aganazzar’s Scorcher"
 date: 2015-11-19
 sources: [EE.15, XGE.150]
 tags: [sorcerer, wizard, level2, action, evocation]
+subtags: [damage: fire]
 ---
 
 **2nd-level evocation**

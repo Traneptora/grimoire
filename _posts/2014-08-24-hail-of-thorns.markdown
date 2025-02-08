@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Hail of Thorns"
-date:   2014-08-24
+title: "Hail of Thorns"
+date: 2014-08-24
 sources: [PHB.249]
 tags: [ranger, level1, bonus, concentration, conjuration]
+subtags: [damage: piercing]
 ---
 
 **1st-level conjuration**

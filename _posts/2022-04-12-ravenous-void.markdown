@@ -4,7 +4,7 @@ title: "Ravenous Void"
 date: 2022-04-12
 sources: [EGW.188]
 tags: [level9, action, concentration, evocation]
-subtags: [wizard: graviturgy]
+subtags: [wizard: graviturgy, damage: force]
 ---
 
 **9th-level evocation**

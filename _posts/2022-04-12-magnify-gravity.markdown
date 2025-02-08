@@ -4,7 +4,7 @@ title: "Magnify Gravity"
 date: 2022-04-12
 sources: [EGW.188]
 tags: [level1, action, transmutation]
-subtags: [wizard: graviturgy]
+subtags: [wizard: graviturgy, damage: force]
 ---
 
 **1st-level transmutation**

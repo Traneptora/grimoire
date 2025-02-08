@@ -4,6 +4,7 @@ title: "Ashardalon’s Stride"
 date: 2021-10-30
 sources: [FTD.19]
 tags: [artificer, ranger, sorcerer, wizard, level3, bonus, concentration, transmutation]
+subtags: [damage: fire]
 ---
 
 **3rd-level transmutation**

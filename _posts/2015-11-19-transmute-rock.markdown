@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Transmute Rock"
+title: "Transmute Rock"
 date: 2015-11-19
 sources: [EE.22, XGE.169]
 tags: [artificer, druid, wizard, level5, action, transmutation]
+subtags: [damage: bludgeoning]
 ---
 
 **5th-level transmutation**

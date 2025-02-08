@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Call Lightning"
-date:   2015-01-01
+title: "Call Lightning"
+date: 2015-01-01
 sources: [PHB.220, SRD.123]
 tags: [druid, level3, action, concentration, conjuration]
-subtags: [cleric: tempest]
+subtags: [cleric: tempest, damage: lightning]
 ---
 
 **3rd-level conjuration**

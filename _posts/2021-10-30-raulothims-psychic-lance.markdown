@@ -4,6 +4,7 @@ title: "Raulothim’s Psychic Lance"
 date: 2021-10-30
 sources: [FTD.21]
 tags: [bard, sorcerer, warlock, wizard, level4, action, enchantment]
+subtags: [damage: psychic]
 ---
 
 **4th-level enchantment**

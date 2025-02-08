@@ -4,6 +4,7 @@ title: "Circle of Death"
 date: 2015-07-14
 sources: [PHB.221, SRD.124]
 tags: [sorcerer, warlock, wizard, level6, action, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **6th-level necromancy**

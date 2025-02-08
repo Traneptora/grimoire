@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Chromatic Orb"
-date:   2014-08-24
+title: "Chromatic Orb"
+date: 2014-08-24
 sources: [PHB.221]
 tags: [sorcerer, wizard, level1, action, evocation]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: poison, damage: thunder]
 ---
 
 **1st-level evocation**

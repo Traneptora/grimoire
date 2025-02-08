@@ -4,6 +4,7 @@ title: "Storm of Vengeance"
 date: 2015-01-10
 sources: [PHB.279, SRD.183]
 tags: [druid, level9, action, concentration, conjuration]
+subtags: [damage: acid, damage: bludgeoning, damage: cold, damage: lightning, damage: thunder]
 ---
 
 **9th-level conjuration**

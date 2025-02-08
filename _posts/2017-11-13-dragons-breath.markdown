@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Dragon’s Breath"
+title: "Dragon’s Breath"
 date: 2017-11-13
 sources: [XGE.154]
 tags: [sorcerer, wizard, level2, bonus, concentration, transmutation]
+subtags: [damage: acid, damage: cold, damage: fire, damage: lightning, damage: poison]
 ---
 
 **2nd-level transmutation**

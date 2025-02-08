@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Ice Knife"
+title: "Ice Knife"
 date: 2015-11-12
 sources: [EE.19, XGE.157]
 tags: [druid, sorcerer, wizard, level1, action, conjuration]
+subtags: [damage: cold, damage: piercing]
 ---
 
 **1st-level conjuration**

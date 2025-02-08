@@ -4,7 +4,7 @@ title: "Fireball"
 date: 2015-01-01
 sources: [PHB.241, SRD.144]
 tags: [sorcerer, wizard, level3, action, evocation]
-subtags: [artificer: artillerist, cleric: light, warlock: fiend, warlock: genie-efreeti]
+subtags: [artificer: artillerist, cleric: light, warlock: fiend, warlock: genie-efreeti, damage: fire]
 ---
 
 **3rd-level evocation**

@@ -4,6 +4,7 @@ title:  "Vitriolic Sphere"
 date: 2015-11-20
 sources: [EE.23, XGE.170]
 tags: [sorcerer, wizard, level4, action, evocation]
+subtags: [damage: acid]
 ---
 
 **4th-level evocation**

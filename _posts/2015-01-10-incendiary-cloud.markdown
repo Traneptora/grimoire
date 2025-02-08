@@ -4,6 +4,7 @@ title: "Incendiary Cloud"
 date: 2015-01-10
 sources: [PHB.253, SRD.157]
 tags: [druid, sorcerer, wizard, level8, action, concentration, conjuration]
+subtags: [damage: fire]
 ---
 
 **8th-level conjuration**

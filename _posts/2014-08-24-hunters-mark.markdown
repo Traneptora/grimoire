@@ -4,7 +4,7 @@ title:  "Hunter’s Mark"
 date:   2014-08-24
 sources: [PHB.251, SRD.155]
 tags: [ranger, level1, bonus, concentration, divination]
-subtags: [paladin: vengeance]
+subtags: [paladin: vengeance, damage: bludgeoning, damage: piercing, damage: slashing]
 ---
 
 **1st-level divination**

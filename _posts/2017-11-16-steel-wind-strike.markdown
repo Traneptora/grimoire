@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Steel Wind Strike"
+title: "Steel Wind Strike"
 date: 2017-11-16
 sources: [XGE.166]
 tags: [ranger, wizard, level5, action, conjuration]
+subtags: [damage: force]
 ---
 
 **5th-level conjuration**

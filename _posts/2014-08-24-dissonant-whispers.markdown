@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Dissonant Whispers"
-date:   2014-08-24
+title: "Dissonant Whispers"
+date: 2014-08-24
 sources: [PHB.234]
 tags: [bard, level1, action, enchantment]
-subtags: [sorcerer: aberrant-mind, warlock: great-old-one]
+subtags: [sorcerer: aberrant-mind, warlock: great-old-one, damage: psychic]
 ---
 
 **1st-level enchantment**

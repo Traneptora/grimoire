@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Control Water"
-date:   2015-01-05
+title: "Control Water"
+date: 2015-01-05
 sources: [PHB.227, SRD.130]
 tags: [cleric, druid, wizard, level4, action, concentration, transmutation]
-subtags: [warlock: fathomless, warlock: genie-marid]
+subtags: [warlock: fathomless, warlock: genie-marid, damage: bludgeoning]
 ---
 
 **4th-level transmutation**

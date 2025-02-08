@@ -4,6 +4,7 @@ title: "Blade Barrier"
 date: 2015-07-14
 sources: [PHB.218, SRD.122]
 tags: [cleric, level6, action, concentration, evocation]
+subtags: [damage: slashing]
 ---
 
 **6th-level evocation**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Stinking Cloud"
-date:   2015-01-02
+title: "Stinking Cloud"
+date: 2015-01-02
 sources: [PHB.278, SRD.182]
 tags: [bard, sorcerer, wizard, level3, action, concentration, conjuration]
 subtags: [druid: swamp, druid: underdark, warlock: fiend]

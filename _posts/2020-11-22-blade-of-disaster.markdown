@@ -4,6 +4,7 @@ title: "Blade of Disaster"
 date: 2020-11-23
 sources: [TCE.106]
 tags: [sorcerer, warlock, wizard, level9, bonus, concentration, conjuration]
+subtags: [damage: force]
 ---
 
 **9th-level conjuration**

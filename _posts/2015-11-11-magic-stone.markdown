@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Magic Stone"
+title: "Magic Stone"
 date: 2015-11-11
 sources: [EE.20, XGE.160]
 tags: [artificer, druid, warlock, cantrip, bonus, transmutation]
+subtags: [damage: bludgeoning]
 ---
 
 **Transmutation cantrip**

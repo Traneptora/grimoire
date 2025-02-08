@@ -4,6 +4,7 @@ title: "Kinetic Jaunt"
 date: 2021-12-07
 sources: [SCC.37]
 tags: [artificer, bard, sorcerer, wizard, level2, bonus, concentration, transmutation]
+subtags: [damage: force]
 ---
 
 **2nd-level transmutation**

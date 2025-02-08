@@ -4,6 +4,7 @@ title:  "Dawn"
 date: 2017-11-15
 sources: [XGE.153]
 tags: [cleric, wizard, level5, action, concentration, evocation]
+subtags: [damage: radiant]
 ---
 
 **5th-level evocation**

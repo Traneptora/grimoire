@@ -4,6 +4,7 @@ title: "Earthquake"
 date: 2015-01-10
 sources: [PHB.236, SRD.139]
 tags: [cleric, druid, sorcerer, level8, action, concentration, evocation]
+subtags: [damage: bludgeoning]
 ---
 
 **8th-level evocation**

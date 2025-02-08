@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alter Self"
+title: "Alter Self"
 date: 2015-01-02
 sources: [PHB.211, SRD.114]
 tags: [artificer, sorcerer, wizard, level2, action, concentration, transmutation]

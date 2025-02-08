@@ -4,6 +4,7 @@ title: "Tasha’s Caustic Brew"
 date: 2020-11-22
 sources: [TCE.115]
 tags: [artificer, sorcerer, wizard, level1, action, concentration, evocation]
+subtags: [damage: acid]
 ---
 
 **1st-level evocation**

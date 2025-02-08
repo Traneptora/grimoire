@@ -4,7 +4,7 @@ title: "Destructive Wave"
 date: 2015-07-14
 sources: [PHB.231]
 tags: [paladin, level5, action, evocation]
-subtags: [cleric: tempest]
+subtags: [cleric: tempest, damage: necrotic, damage: radiant, damage: thunder]
 ---
 
 **5th-level evocation**

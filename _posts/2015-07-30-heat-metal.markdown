@@ -4,7 +4,7 @@ title: "Heat Metal"
 date: 2015-07-30
 sources: [PHB.250, SRD.153]
 tags: [artificer, bard, druid, level2, action, concentration, transmutation]
-subtags: [cleric: forge]
+subtags: [cleric: forge, damage: fire]
 ---
 
 **2nd-level transmutation**

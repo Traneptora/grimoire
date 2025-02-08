@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tiny Servant"
-date:   2017-11-14
+title: "Tiny Servant"
+date: 2017-11-14
 sources: [XGE.168]
 tags: [artificer, wizard, level3, long, transmutation]
 ---

@@ -4,6 +4,7 @@ title: "Chain Lightning"
 date: 2015-07-14
 sources: [PHB.221, SRD.124]
 tags: [sorcerer, wizard, level6, action, evocation]
+subtags: [damage: lightning]
 ---
 
 **6th-level evocation**

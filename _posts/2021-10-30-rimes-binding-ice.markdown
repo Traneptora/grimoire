@@ -4,6 +4,7 @@ title: "Rime’s Binding Ice"
 date: 2021-10-30
 sources: [FTD.21]
 tags: [sorcerer, wizard, level2, action, evocation]
+subtags: [damage: cold]
 ---
 
 **2nd-level evocation**

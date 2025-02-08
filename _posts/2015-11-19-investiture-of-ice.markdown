@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Investiture of Ice"
+title: "Investiture of Ice"
 date: 2015-11-19
 sources: [EE.19, XGE.159]
 tags: [druid, sorcerer, warlock, wizard, level6, action, concentration, transmutation]
+subtags: [damage: cold]
 ---
 
 **6th-level transmutation**

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Crusader’s Mantle"
-date:   2015-01-01
+title: "Crusader’s Mantle"
+date: 2015-01-01
 sources: [PHB.230]
 tags: [paladin, level3, action, concentration, evocation]
-subtags: [cleric: war]
+subtags: [cleric: war, damage: radiant]
 ---
 
 **3rd-level evocation**

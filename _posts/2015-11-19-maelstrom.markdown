@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Maelstrom"
+title: "Maelstrom"
 date: 2015-11-19
 sources: [EE.20, XGE.160]
 tags: [druid, level5, action, concentration, evocation]
+subtags: [damage: bludgeoning]
 ---
 
 **5th-level evocation**

@@ -4,6 +4,7 @@ title: "Mordenkainen’s Sword"
 date: 2015-01-11
 sources: [PHB.262]
 tags: [bard, wizard, level7, action, concentration, evocation]
+subtags: [damage: force]
 ---
 
 **7th-level evocation**

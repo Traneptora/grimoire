@@ -4,6 +4,7 @@ title: "Harm"
 date: 2015-07-30
 sources: [PHB.249, SRD.153]
 tags: [cleric, level6, action, necromancy]
+subtags: [damage: necrotic]
 ---
 
 **6th-level necromancy**

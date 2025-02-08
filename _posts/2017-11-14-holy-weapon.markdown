@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Holy Weapon"
-date:   2017-11-14
+title: "Holy Weapon"
+date: 2017-11-14
 sources: [XGE.157]
 tags: [cleric, paladin, level5, bonus, concentration, evocation]
+subtags: [damage: radiant]
 ---
 
 **5th-level evocation**

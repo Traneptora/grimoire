@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Find Familiar"
-date:   2014-08-24
+title: "Find Familiar"
+date: 2014-08-24
 sources: [PHB.240, SRD.143]
 tags: [wizard, level1, long, ritual, conjuration]
 ---

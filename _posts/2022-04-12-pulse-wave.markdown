@@ -4,7 +4,7 @@ title: "Pulse Wave"
 date: 2022-04-12
 sources: [EGW.188]
 tags: [level3, action, evocation]
-subtags: [wizard: chronurgy, wizard: graviturgy]
+subtags: [wizard: chronurgy, wizard: graviturgy, damage: force]
 ---
 
 **3rd-level evocation**

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Ensnaring Strike"
-date:   2014-08-24
+title: "Ensnaring Strike"
+date: 2014-08-24
 sources: [PHB.237]
 tags: [ranger, level1, bonus, concentration, conjuration]
-subtags: [paladin: ancients]
+subtags: [paladin: ancients, damage: piercing]
 ---
 
 **1st-level conjuration**

@@ -4,6 +4,7 @@ title: "Fire Storm"
 date: 2015-01-11
 sources: [PHB.241, SRD.145]
 tags: [cleric, druid, sorcerer, level7, action, evocation]
+subtags: [damage: fire]
 ---
 
 **7th-level evocation**

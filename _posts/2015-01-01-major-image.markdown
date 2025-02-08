@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Major Image"
-date:   2015-01-01
+title: "Major Image"
+date: 2015-01-01
 sources: [PHB.258, SRD.162]
 tags: [bard, sorcerer, warlock, wizard, level3, action, concentration, illusion]
 ---

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Witch Bolt"
-date:   2014-08-24
+title: "Witch Bolt"
+date: 2014-08-24
 sources: [PHB.289]
 tags: [sorcerer, warlock, wizard, level1, action, concentration, evocation]
+subtags: [damage: lightning]
 ---
 
 **1st-level evocation**

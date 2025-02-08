@@ -4,6 +4,7 @@ title: "Delayed Blast Fireball"
 date: 2015-01-11
 sources: [PHB.230, SRD.133]
 tags: [sorcerer, wizard, level7, action, concentration, evocation]
+subtags: [damage: fire]
 ---
 
 **7th-level evocation**

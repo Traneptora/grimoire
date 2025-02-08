@@ -4,7 +4,7 @@ title: "Gravity Fissure"
 date: 2022-04-12
 sources: [EGW.187]
 tags: [level6, action, evocation]
-subtags: [wizard: graviturgy]
+subtags: [wizard: graviturgy, damage: force]
 ---
 
 **6th-level evocation**

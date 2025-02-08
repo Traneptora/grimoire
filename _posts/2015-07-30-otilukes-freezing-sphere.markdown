@@ -4,6 +4,7 @@ title: "Otiluke’s Freezing Sphere"
 date: 2015-07-30
 sources: [PHB.263]
 tags: [sorcerer, wizard, level6, action, evocation]
+subtags: [damage: cold]
 ---
 
 **6th-level evocation**

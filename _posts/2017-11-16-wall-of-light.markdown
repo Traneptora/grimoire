@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Wall of Light"
+title: "Wall of Light"
 date: 2017-11-16
 sources: [XGE.170]
 tags: [sorcerer, warlock, wizard, level5, action, concentration, evocation]
+subtags: [damage: radiant]
 ---
 
 **5th-level evocation**

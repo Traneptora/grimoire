@@ -56,7 +56,13 @@
 						{% endfor %}
 					{% endif %}
 					{% if found %}
-					<li class="post-link-container" data-tags="{{ post.tags | join: ',' }}" data-sources="{{ post.sources | join: ',' }}">
+					{% assign subtag_list = "" %}
+					{% for subtag in post.subtags %}
+					{% for item in subtag %}
+						{% assign subtag_list = subtag_list | append: "," | append: item[0] | append: "-" | append: item[1] %}
+					{% endfor %}
+					{% endfor %}
+					<li class="post-link-container" data-tags="{{ post.tags | join: ',' }}{{ subtag_list }}" data-sources="{{ post.sources | join: ',' }}">
 						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					</li>
 					{% endif %}

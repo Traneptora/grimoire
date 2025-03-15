@@ -240,7 +240,7 @@ dl.tag-list {
     }
 }
 
-.post-list-head{
+.post-list-head {
     font-size: 22px;
     color: v.$grey-color-dark;
     margin-top: v.$spacing-unit;
@@ -257,6 +257,10 @@ dl.tag-list {
         margin-bottom: v.$spacing-unit-line;
         margin-left: v.$spacing-unit;
     }
+}
+
+.post-list:has(+ :is(.searchHide, .jetsHide)) {
+    margin-bottom: 0px;
 }
 
 .post-meta {

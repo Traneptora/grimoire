@@ -4,7 +4,7 @@ title: "Protection from Energy"
 date: 2015-01-02
 sources: [PHB.270, SRD.173]
 tags: [artificer, cleric, druid, ranger, sorcerer, wizard, level3, action, concentration, abjuration]
-subtags: [paladin: ancients, paladin: glory, paladin: vengeance]
+subtags: [cleric: forge, paladin: ancients, paladin: glory, paladin: vengeance]
 ---
 
 **3rd-level abjuration**

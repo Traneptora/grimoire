@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Animate Dead"
-date:   2015-01-01
+title: "Animate Dead"
+date: 2015-01-01
 sources: [PHB.212, SRD.115]
 tags: [cleric, wizard, level3, long, necromancy]
-subtags: [druid: spores, paladin: oathbreaker]
+subtags: [cleric: death, druid: spores, paladin: oathbreaker]
 ---
 
 **3rd-level necromancy**

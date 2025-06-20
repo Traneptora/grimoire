@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Death Ward"
-date:   2015-01-05
+title: "Death Ward"
+date: 2015-01-05
 sources: [PHB.230, SRD.133]
 tags: [cleric, paladin, level4, action, abjuration]
-subtags: [artificer: alchemist, warlock: undead, warlock: undying]
+subtags: [artificer: alchemist, cleric: death, warlock: undead, warlock: undying]
 ---
 
 **4th-level abjuration**

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Revivify"
-date:   2015-01-02
+title: "Revivify"
+date: 2015-01-02
 sources: [PHB.272, SRD.175]
 tags: [artificer, cleric, druid, paladin, ranger, level3, action, necromancy]
-subtags: [warlock: celestial]
+subtags: [cleric: grave, warlock: celestial]
 ---
 
 **3rd-level necromancy**

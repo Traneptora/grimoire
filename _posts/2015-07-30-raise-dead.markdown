@@ -4,7 +4,7 @@ title: "Raise Dead"
 date: 2015-07-30
 sources: [PHB.270, SRD.173]
 tags: [bard, cleric, paladin, level5, long, necromancy]
-subtags: [artificer: alchemist]
+subtags: [artificer: alchemist, cleric: grave]
 ---
 
 **5th-level necromancy**

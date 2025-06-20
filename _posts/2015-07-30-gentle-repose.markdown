@@ -4,7 +4,7 @@ title: "Gentle Repose"
 date: 2015-07-30
 sources: [PHB.245, SRD.148]
 tags: [cleric, paladin, wizard, level2, action, ritual, necromancy]
-subtags: [druid: spores]
+subtags: [cleric: grave, druid: spores]
 ---
 
 **2nd-level necromancy (ritual)**

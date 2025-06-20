@@ -4,6 +4,7 @@ title: "Planar Binding"
 date: 2015-07-30
 sources: [PHB.265, SRD.168]
 tags: [bard, cleric, druid, warlock, wizard, level5, long, abjuration]
+subtags: [cleric: arcana]
 ---
 
 **5th-level abjuration**

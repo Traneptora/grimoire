@@ -3,12 +3,12 @@ layout: post
 title: "Gate Seal"
 date: 2023-11-23
 sources: [SATO.12]
-tags: [sorcerer, warlock, wizard, level4, action, abjuration]
+tags: [sorcerer, warlock, wizard, level4, long, abjuration]
 ---
 
 **4th-level abjuration**
 
-**Casting Time**: 1 action
+**Casting Time**: 1 minute
 
 **Range**: 60 feet
 

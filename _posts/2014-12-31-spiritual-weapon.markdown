@@ -4,7 +4,7 @@ title: "Spiritual Weapon"
 date: 2014-12-31
 sources: [PHB.278, SRD.182]
 tags: [cleric, level2, bonus, evocation]
-subtags: [cleric: life, paladin: conquest, damage: force]
+subtags: [cleric: life, cleric: war, paladin: conquest, damage: force]
 ---
 
 **2nd-level evocation**

@@ -4,7 +4,7 @@ title:  "Mass Healing Word"
 date:   2015-01-01
 sources: [PHB.258, SRD.163]
 tags: [bard, cleric, level3, bonus, evocation]
-subtags: [artificer: alchemist]
+subtags: [artificer: alchemist, cleric: order]
 ---
 
 **3rd-level evocation**

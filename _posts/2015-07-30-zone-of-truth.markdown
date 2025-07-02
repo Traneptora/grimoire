@@ -4,7 +4,7 @@ title: "Zone of Truth"
 date: 2015-07-30
 sources: [PHB.289, SRD.193]
 tags: [bard, cleric, paladin, level2, action, enchantment]
-subtags: [ranger: monster-slayer]
+subtags: [cleric: order, ranger: monster-slayer]
 ---
 
 **2nd-level enchantment**

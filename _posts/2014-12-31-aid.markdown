@@ -4,7 +4,7 @@ title:  "Aid"
 date:   2014-12-31
 sources: [PHB.211, SRD.114]
 tags: [artificer, bard, cleric, paladin, ranger, level2, action, abjuration]
-subtags: [sorcerer: clockwork-soul]
+subtags: [cleric: peace, sorcerer: clockwork-soul]
 ---
 
 **2nd-level abjuration**

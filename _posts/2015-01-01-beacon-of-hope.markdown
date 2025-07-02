@@ -4,7 +4,7 @@ title:  "Beacon of Hope"
 date:   2015-01-01
 sources: [PHB.217, SRD.121]
 tags: [cleric, level3, action, concentration, abjuration]
-subtags: [cleric: life, paladin: devotion]
+subtags: [cleric: life, cleric: peace, paladin: devotion]
 ---
 
 **3rd-level abjuration**

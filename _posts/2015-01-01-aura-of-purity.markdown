@@ -4,7 +4,7 @@ title: "Aura of Purity"
 date: 2015-01-01
 sources: [PHB.216]
 tags: [cleric, paladin, level4, action, concentration, abjuration]
-subtags: [artificer: battle-smith]
+subtags: [artificer: battle-smith, cleric: peace]
 ---
 
 **4th-level abjuration**

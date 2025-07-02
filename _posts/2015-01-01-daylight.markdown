@@ -4,7 +4,7 @@ title:  "Daylight"
 date:   2015-01-01
 sources: [PHB.230, SRD.133]
 tags: [cleric, druid, paladin, ranger, sorcerer, level3, action, evocation]
-subtags: [warlock: celestial]
+subtags: [cleric: light, warlock: celestial]
 ---
 
 **3rd-level evocation**

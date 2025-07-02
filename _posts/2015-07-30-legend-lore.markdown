@@ -4,7 +4,7 @@ title: "Legend Lore"
 date: 2015-07-30
 sources: [PHB.254, SRD.158]
 tags: [bard, cleric, wizard, level5, long, divination]
-subtags: [warlock: undying]
+subtags: [cleric: knowledge, warlock: undying]
 ---
 
 **5th-level divination**

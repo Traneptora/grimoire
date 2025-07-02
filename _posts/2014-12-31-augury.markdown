@@ -4,6 +4,7 @@ title:  "Augury"
 date:   2014-12-31
 sources: [PHB.215, SRD.120]
 tags: [cleric, druid, wizard, level2, long, ritual, divination]
+subtags: [cleric: knowledge]
 ---
 
 **2nd-level divination (ritual)**

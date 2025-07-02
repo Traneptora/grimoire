@@ -4,7 +4,7 @@ title: "Scrying"
 date: 2015-07-30
 sources: [PHB.273, SRD.176]
 tags: [bard, cleric, druid, warlock, wizard, level5, long, concentration, divination]
-subtags: [paladin: vengeance, paladin: watchers]
+subtags: [cleric: knowledge, paladin: vengeance, paladin: watchers]
 ---
 
 **5th-level divination**

@@ -4,7 +4,7 @@ title:  "Speak with Dead"
 date:   2015-01-02
 sources: [PHB.277, SRD.181]
 tags: [bard, cleric, wizard, level3, action, necromancy]
-subtags: [warlock: undead, warlock: undying]
+subtags: [cleric: knowledge, warlock: undead, warlock: undying]
 ---
 
 **3rd-level necromancy**

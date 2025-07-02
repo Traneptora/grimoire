@@ -4,7 +4,7 @@ title:  "Aura Of Vitality"
 date:   2015-01-01
 sources: [PHB.216]
 tags: [cleric, druid, paladin, level3, action, concentration, evocation]
-subtags: [artificer: battle-smith]
+subtags: [artificer: battle-smith, cleric: twilight]
 ---
 
 **3rd-level evocation**

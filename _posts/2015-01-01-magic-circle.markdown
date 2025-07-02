@@ -4,7 +4,7 @@ title:  "Magic Circle"
 date:   2015-01-01
 sources: [PHB.256, SRD.160]
 tags: [cleric, paladin, warlock, wizard, level3, long, abjuration]
-subtags: [ranger: monster-slayer]
+subtags: [cleric: arcana, ranger: monster-slayer]
 ---
 
 **3rd-level abjuration**

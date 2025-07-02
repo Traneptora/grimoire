@@ -4,7 +4,7 @@ title:  "Dispel Magic"
 date:   2015-01-01
 sources: [PHB.234, SRD.136]
 tags: [artificer, bard, cleric, druid, paladin, sorcerer, warlock, wizard, level3, action, abjuration]
-subtags: [ranger: fey-wanderer]
+subtags: [cleric: arcana, ranger: fey-wanderer]
 ---
 
 **3rd-level abjuration**

@@ -3,10 +3,10 @@ layout: post
 title: "Tasha’s Otherworldly Guise"
 date: 2020-11-23
 sources: [TCE.116]
-tags: [sorcerer, warlock, wizard, level6, bonus, concentration, conjuration]
+tags: [sorcerer, warlock, wizard, level6, bonus, concentration, transmutation]
 ---
 
-**6th-level conjuration**
+**6th-level transmutation**
 
 **Casting Time**: 1 bonus action
 

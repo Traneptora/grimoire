@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cordon Of Arrows"
+title: "Cordon of Arrows"
 date: 2015-01-07
 sources: [PHB.228]
 tags: [ranger, level2, action, transmutation]

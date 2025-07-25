@@ -4,6 +4,7 @@ title: "Water Walk"
 date: 2015-07-30
 sources: [PHB.287, SRD.191]
 tags: [artificer, cleric, druid, ranger, sorcerer, level3, action, ritual, transmutation]
+subtags: [druid: coast]
 ---
 
 **3rd-level transmutation (ritual)**

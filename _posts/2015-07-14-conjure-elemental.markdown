@@ -4,6 +4,7 @@ title: "Conjure Elemental"
 date: 2015-07-14
 sources: [PHB.225, SRD.128]
 tags: [druid, wizard, level5, long, concentration, conjuration]
+subtags: [druid: coast]
 ---
 
 **5th-level conjuration**

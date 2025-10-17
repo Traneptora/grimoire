@@ -4,7 +4,7 @@ title: "Locate Creature"
 date: 2015-07-30
 sources: [PHB.256, SRD.159]
 tags: [bard, cleric, druid, paladin, ranger, wizard, level4, action, concentration, divination]
-subtags: [cleric: order]
+subtags: [cleric: order, druid: swamp]
 ---
 
 **4th-level divination**

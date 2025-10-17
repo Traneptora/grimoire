@@ -8,6 +8,9 @@ require 'shellwords'
 
 desc "Generate blog files"
 task :generate do
+  Dir.chdir "dist/"
+  system "git pull --rebase"
+  Dir.chdir "../"
   Jekyll::Site.new(Jekyll.configuration({
     "source"      => ".",
     "destination" => "dist"

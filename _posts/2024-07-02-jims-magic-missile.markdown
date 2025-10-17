@@ -9,7 +9,7 @@ subtags: [damage: force]
 
 **1st-level evocation**
 
-**Casting Time**: 1 minute
+**Casting Time**: 1 action
 
 **Range**: 120 feet
 

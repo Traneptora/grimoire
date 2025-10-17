@@ -4,7 +4,7 @@ title: "Stoneskin"
 date: 2015-07-30
 sources: [PHB.278, SRD.183]
 tags: [artificer, druid, sorcerer, ranger, wizard, level4, action, concentration, abjuration]
-subtags: [cleric: war, paladin: ancients, paladin: conquest, paladin: redemption]
+subtags: [cleric: war, druid: mountain, paladin: ancients, paladin: conquest, paladin: redemption]
 ---
 
 **4th-level abjuration**

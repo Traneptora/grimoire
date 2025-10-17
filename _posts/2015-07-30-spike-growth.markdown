@@ -4,7 +4,7 @@ title: "Spike Growth"
 date: 2015-07-30
 sources: [PHB.277, SRD.182]
 tags: [druid, ranger, level2, action, concentration, transmutation]
-subtags: [cleric: nature, druid: arctic, warlock: genie-dao, damage: piercing]
+subtags: [cleric: nature, druid: arctic, druid: mountain, warlock: genie-dao, damage: piercing]
 ---
 
 **2nd-level transmutation**

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Hold Person"
-date:   2014-12-31
+title: "Hold Person"
+date: 2014-12-31
 sources: [PHB.251, SRD.154]
 tags: [bard, cleric, druid, sorcerer, warlock, wizard, level2, action, concentration, enchantment]
-subtags: [cleric: order, druid: artcic, paladin: conquest, paladin: redemption, paladin: vengeance]
+subtags: [cleric: order, druid: arctic, paladin: conquest, paladin: redemption, paladin: vengeance]
 ---
 
 **2nd-level enchantment**

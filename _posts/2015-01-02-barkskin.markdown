@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Barkskin"
-date:   2015-01-02
+title: "Barkskin"
+date: 2015-01-02
 sources: [PHB.217, SRD.121]
 tags: [druid, ranger, level2, action, concentration, transmutation]
-subtags: [cleric: nature]
+subtags: [cleric: nature, druid: forest]
 ---
 
 **2nd-level transmutation**

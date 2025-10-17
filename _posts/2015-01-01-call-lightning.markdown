@@ -4,7 +4,7 @@ title: "Call Lightning"
 date: 2015-01-01
 sources: [PHB.220, SRD.123]
 tags: [druid, level3, action, concentration, conjuration]
-subtags: [cleric: tempest, damage: lightning]
+subtags: [cleric: tempest, druid: forest, damage: lightning]
 ---
 
 **3rd-level conjuration**

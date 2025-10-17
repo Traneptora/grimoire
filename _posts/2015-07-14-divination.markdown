@@ -4,6 +4,7 @@ title: "Divination"
 date: 2015-07-14
 sources: [PHB.234, SRD.136]
 tags: [cleric, druid, wizard, level4, action, ritual, divination]
+subtags: [druid: forest]
 ---
 
 **4th-level divination (ritual)**

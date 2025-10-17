@@ -4,7 +4,7 @@ title: "Commune with Nature"
 date: 2015-07-14
 sources: [PHB.224, SRD.126]
 tags: [druid, ranger, level5, long, ritual, divination]
-subtags: [druid: arctic, paladin: ancients]
+subtags: [druid: arctic, druid: forest, paladin: ancients]
 ---
 
 **5th-level divination (ritual)**

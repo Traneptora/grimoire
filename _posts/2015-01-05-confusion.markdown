@@ -4,7 +4,7 @@ title:  "Confusion"
 date:   2015-01-05
 sources: [PHB.224, SRD.127]
 tags: [bard, druid, sorcerer, wizard, level4, action, concentration, enchantment]
-subtags: [cleric: knowledge, paladin: oathbreaker]
+subtags: [cleric: knowledge, druid: spores, paladin: oathbreaker]
 ---
 
 **4th-level enchantment**

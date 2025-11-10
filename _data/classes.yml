@@ -63,6 +63,8 @@
      tag: underdark
    - name: Circle of Spores
      tag: spores
+   - name: Circle of Stars
+     tag: stars
    - name: Circle of Wildfire
      tag: wildfire
 - name: Paladin

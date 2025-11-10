@@ -4,7 +4,7 @@ title: "Revivify"
 date: 2015-01-02
 sources: [PHB.272, SRD.175]
 tags: [artificer, cleric, druid, paladin, ranger, level3, action, necromancy]
-subtags: [cleric: grave, cleric: life, warlock: celestial]
+subtags: [cleric: grave, cleric: life, druid: wildfire, warlock: celestial]
 ---
 
 **3rd-level necromancy**

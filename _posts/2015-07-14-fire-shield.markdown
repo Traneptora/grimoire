@@ -4,7 +4,7 @@ title: "Fire Shield"
 date: 2015-07-14
 sources: [PHB.241, SRD.144]
 tags: [druid, sorcerer, wizard, level4, action, evocation]
-subtags: [artificer: armorer, artificer: battle-smith, warlock: fiend, warlock: genie-efreeti, damage: cold, damage: fire]
+subtags: [artificer: armorer, artificer: battle-smith, druid: wildfire, warlock: fiend, warlock: genie-efreeti, damage: cold, damage: fire]
 ---
 
 **4th-level evocation**

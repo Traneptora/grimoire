@@ -4,7 +4,7 @@ title:  "Cure Wounds"
 date:   2014-08-24
 sources: [PHB.230, SRD.132]
 tags: [artificer, bard, cleric, druid, paladin, ranger, level1, action, evocation]
-subtags: [cleric: life, warlock: celestial]
+subtags: [cleric: life, druid: wildfire, warlock: celestial]
 ---
 
 **1st-level evocation**

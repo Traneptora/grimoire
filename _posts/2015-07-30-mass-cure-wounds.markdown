@@ -4,7 +4,7 @@ title: "Mass Cure Wounds"
 date: 2015-07-30
 sources: [PHB.258, SRD.162]
 tags: [bard, cleric, druid, level5, action, evocation]
-subtags: [artificer: battle-smith, cleric: life]
+subtags: [artificer: battle-smith, cleric: life, druid: wildfire]
 ---
 
 **5th-level evocation**

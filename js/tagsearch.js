@@ -61,7 +61,7 @@ async function ready() {
     sourceSearchBar.addEventListener("change", sourceSearch);
     sourceSearchBar.addEventListener("keydown", sourceSearch);
     sourceSearchBar.addEventListener("input", sourceSearch);
-    return Promise.all(tagSearch(), sourceSearch());
+    return Promise.all([tagSearch(), sourceSearch()]);
 }
 
 document.addEventListener("DOMContentLoaded", ready);

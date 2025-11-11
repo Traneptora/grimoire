@@ -1,10 +1,7 @@
 <head>
-    <link rel="preload" as="style" href="/fonts/libertinus.css">
-    <link rel="preload" as="style" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
+    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Bold.woff2">
     <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
-    <link rel="preload" as="script" href="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}">
-    <link rel="preload" as="script" href="{{ '/js/tagsearch.js' | prepend: site.baseurl }}">
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -20,7 +17,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.baseurl | prepend: site.url }}">
     <meta property="og:description" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }} - {{ site.description }}">
-    <meta property="og:image" content="{{ '/images/calibre-viewer.png' | prepend: site.baseurl }}">
+    <meta property="og:image" content="{{ '/images/calibre-viewer.png?v=1' | prepend: site.baseurl }}">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="256">
     <meta property="og:image:height" content="256">

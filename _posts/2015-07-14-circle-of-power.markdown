@@ -4,7 +4,7 @@ title: "Circle of Power"
 date: 2015-07-14
 sources: [PHB.221]
 tags: [paladin, level5, action, concentration, abjuration]
-subtags: [cleric: twilight]
+subtags: [cleric: twilight, paladin: crown]
 ---
 
 **5th-level abjuration**

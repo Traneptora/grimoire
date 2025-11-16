@@ -4,6 +4,7 @@ title:  "Compelled Duel"
 date:   2014-08-24
 sources: [PHB.224]
 tags: [paladin, level1, bonus, concentration, enchantment]
+subtags: [paladin: crown]
 ---
 
 **1st-level enchantment**

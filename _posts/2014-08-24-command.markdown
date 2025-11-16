@@ -4,7 +4,7 @@ title: "Command"
 date: 2014-08-24
 sources: [PHB.223, SRD.125]
 tags: [bard, cleric, paladin, level1, action, enchantment]
-subtags: [cleric: knowledge, cleric: order, warlock: fiend]
+subtags: [cleric: knowledge, cleric: order, paladin: conquest, warlock: fiend]
 ---
 
 **1st-level enchantment**

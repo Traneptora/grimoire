@@ -4,7 +4,7 @@ title:  "Detect Magic"
 date:   2014-08-24
 sources: [PHB.231, SRD.134]
 tags: [artificer, bard, cleric, druid, paladin, ranger, sorcerer, wizard, level1, action, concentration, ritual, divination]
-subtags: [cleric: arcana]
+subtags: [cleric: arcana, paladin: watchers]
 ---
 
 **1st-level divination (ritual)**

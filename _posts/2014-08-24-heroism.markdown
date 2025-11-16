@@ -4,7 +4,7 @@ title:  "Heroism"
 date:   2014-08-24
 sources: [PHB.250, SRD.154]
 tags: [bard, paladin, level1, action, concentration, enchantment]
-subtags: [artificer: battle-smith, cleric: order, cleric: peace]
+subtags: [artificer: battle-smith, cleric: order, cleric: peace, paladin: glory]
 ---
 
 **1st-level enchantment**

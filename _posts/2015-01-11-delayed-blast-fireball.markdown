@@ -25,4 +25,4 @@ If the glowing bead is touched before the interval has expired, the creature tou
 
 The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.

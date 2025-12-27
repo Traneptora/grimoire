@@ -34,4 +34,4 @@ If you roll the same number on both d8s, the chaotic energy leaps from the targe
 
 A creature can be targeted only once by each casting of this spell.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.

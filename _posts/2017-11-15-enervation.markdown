@@ -21,4 +21,4 @@ A tendril of inky darkness reaches out from you, touching a creature you can see
 
 Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.

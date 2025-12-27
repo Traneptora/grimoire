@@ -24,4 +24,4 @@ You can also specify conditions that will trigger a special activity during the 
 
 If you or any of your companions damage a creature affected by this spell, the spell ends for that creature.
 
-**At Higher Levels.** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
+***At Higher Levels.*** When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.

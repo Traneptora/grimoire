@@ -24,4 +24,4 @@ You can use your action to take total and precise control of the target. Until t
 
 Each time the target takes damage, it makes a new Wisdom saving throw against the spell. If the saving throw succeeds, the spell ends.
 
-**At Higher Levels.** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
+***At Higher Levels.*** When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.

@@ -21,4 +21,4 @@ You create intense pressure, unleash it in a 30-foot cone, and decide whether th
 
 In addition, unsecured objects that are completely within the cone are likewise pulled or pushed 15 feet.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 and the distance pulled or pushed increases by 5 feet for each slot level above 3rd.

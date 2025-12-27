@@ -22,4 +22,4 @@ You can use a bonus action to mentally command the creatures you make with this 
 
 The creatures are under your control until the spell ends, after which they become inanimate once more.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.

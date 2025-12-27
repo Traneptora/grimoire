@@ -23,4 +23,4 @@ Whether you hit or miss, each creature within 10 feet of the target must make a 
 
 The piece of ammunition or weapon then returns to its normal form.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, the damage for both effects of the spell increases by 1d8 for each slot level above 3rd.

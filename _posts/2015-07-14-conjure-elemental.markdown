@@ -25,4 +25,4 @@ If your concentration is broken, the elemental doesn’t disappear. Instead, you
 
 The DM has the elemental’s statistics.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.

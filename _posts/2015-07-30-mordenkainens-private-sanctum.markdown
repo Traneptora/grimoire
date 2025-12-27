@@ -29,4 +29,4 @@ When you cast the spell, you decide what sort of security the spell provides, ch
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.
+***At Higher Levels.*** When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th. Thus you could protect a cube that can be up to 200 feet on one side by using a spell slot of 5th level.

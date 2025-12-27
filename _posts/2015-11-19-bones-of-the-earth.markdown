@@ -23,4 +23,4 @@ If a pillar is created under a creature, that creature must succeed on a Dexteri
 
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is restrained, pinched between the pillar and the obstacle. The restrained creature can use an action to make a Strength or Dexterity check (the creature’s choice) against the spell’s save DC. On a success, the creature is no longer restrained and must either move off the pillar or fall off it.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
+***At Higher Levels.*** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.

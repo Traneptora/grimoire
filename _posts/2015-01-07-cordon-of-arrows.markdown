@@ -21,4 +21,4 @@ You plant four pieces of nonmagical ammunition—arrows or crossbow bolts—in t
 
 When you cast this spell, you can designate any creatures you choose, and the spell ignores them.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 3rd level or higher, the amount of ammunition that can be affected increases by two for each slot level above 2nd.

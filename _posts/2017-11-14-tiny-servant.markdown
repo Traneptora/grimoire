@@ -22,7 +22,7 @@ As a bonus action, you can mentally command the creature if it is within 120 fee
 
 When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
+***At Higher Levels.*** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 
 ## <u>Tiny Servant</u>
 *Tiny construct, unaligned*  

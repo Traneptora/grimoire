@@ -35,4 +35,4 @@ An animated object is a construct with AC, hit points, attacks, Strength, and De
 
 If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determined by its size. The DM might rule that a specific object inflicts slashing or piercing damage based on its form.
 
-**At Higher Levels.** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
+***At Higher Levels.*** If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.

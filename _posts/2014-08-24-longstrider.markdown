@@ -18,4 +18,4 @@ tags: [artificer, bard, druid, ranger, wizard, level1, action, transmutation]
 
 You touch a creature. The target’s speed increases by 10 feet until the spell ends.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot above 1st.
+***At Higher Levels.*** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each spell slot above 1st.

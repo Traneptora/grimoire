@@ -65,3 +65,41 @@ async function ready() {
 }
 
 document.addEventListener("DOMContentLoaded", ready);
+
+/* jets initialization */
+var jets = null;
+document.addEventListener('DOMContentLoaded', () => {
+    const menuClick = () => {
+        const menu = document.getElementById('menu');
+        if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
+            menu.className = menu.className.replace( /(?:^|\s)show(?!\S)/g, '');
+        } else {
+            menu.className += ' show';
+        }
+        const menu2 = document.getElementById('menu2');
+        if (menu2.className.match(/(?:^|\s)show(?!\S)/)) {
+            menu2.className = menu2.className.replace(/(?:^|\s)show(?!\S)/g, '');
+        } else {
+            menu2.className += ' show';
+        }
+    };
+    document.getElementById('menuIcon').addEventListener('click', menuClick);
+    if (document.getElementById('jetsSearch')) {
+        jets = new Jets({
+            searchTag: '#jetsSearch',
+            contentTag: '.jetsContent',
+            didSearch: (search_phrase) => {
+                const elements = document.getElementsByClassName('jetsHide');
+                if (!search_phrase.trim()) {
+                    for (let i = 0; i < elements.length; i++) {
+                        elements[i].classList.remove('searchHide');
+                    }
+                } else {
+                    for (let i = 0; i < elements.length; i++) {
+                        elements[i].classList.add('searchHide');
+                    }
+                }
+            },
+        });
+    }
+});

@@ -1,12 +1,6 @@
 <head>
-    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Regular.woff2">
-    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerif-Bold.woff2">
-    <link rel="preload" as="font" type="font/woff2" crossorigin="anonymous" href="/fonts/libertinus/LibertinusSerifDisplay-Regular.woff2">
-
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     <link rel="icon" href="{{ '/images/calibre-viewer.png?v=1' | prepend: site.baseurl }}">
@@ -24,42 +18,4 @@
     <meta property="og:image:alt" content="A book with a magnifying glass">
     <script defer src="{{ '/js/jets@0.14.1.min.js' | prepend: site.baseurl }}"></script>
     <script defer src="{{ '/js/tagsearch.js' | prepend: site.baseurl }}"></script>
-    <script defer type="text/javascript">
-        var jets = null;
-        const menuClick = () => {
-            const menu = document.getElementById('menu');
-            if (menu.className.match(/(?:^|\s)show(?!\S)/)) {
-                menu.className = menu.className.replace( /(?:^|\s)show(?!\S)/g, '');
-            } else {
-                menu.className += ' show';
-            }
-            const menu2 = document.getElementById('menu2');
-            if (menu2.className.match(/(?:^|\s)show(?!\S)/)) {
-                menu2.className = menu2.className.replace(/(?:^|\s)show(?!\S)/g, '');
-            } else {
-                menu2.className += ' show';
-            }
-        };
-        document.addEventListener('DOMContentLoaded', () => {
-            document.getElementById('menuIcon').addEventListener('click', menuClick);
-            if (document.getElementById('jetsSearch')) {
-                jets = new Jets({
-                    searchTag: '#jetsSearch',
-                    contentTag: '.jetsContent',
-                    didSearch: (search_phrase) => {
-                        const elements = document.getElementsByClassName('jetsHide');
-                        if (!search_phrase.trim()) {
-                            for (let i = 0; i < elements.length; i++) {
-                                elements[i].classList.remove('searchHide');
-                            }
-                        } else {
-                            for (let i = 0; i < elements.length; i++) {
-                                elements[i].classList.add('searchHide');
-                            }
-                        }
-                    },
-                });
-            }
-        });
-    </script>   
 </head>

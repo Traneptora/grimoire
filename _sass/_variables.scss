@@ -1,38 +1,28 @@
 @use "sass:color";
 
 // Our variables
-// $base-font-family: Helvetica, Arial, sans-serif;
-$base-font-family: "Libertinus Serif", Georgia, serif;
-$base-font-size:   18px;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-family: "Libertinus Serif", serif;
+$base-font-size: 18px;
+$small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.5;
 
-$spacing-unit:     30px;
+$spacing-unit: 30px;
 $spacing-unit-line: 7px;
 
-$text-color:       #333;
-$background-color: #fdfdfd;
-$brand-color: #4D96B9;
-$brand-color-secondary: #911E00;
-$brand-color-light: color.adjust($brand-color-secondary, $lightness: 5%);
-$brand-color-dark: color.adjust($brand-color-secondary, $lightness: -5%);
+$text-color: #c0c0c0;
+$background-color: #080813;
+$brand-color: #5184e4;
+$brand-color-secondary: #b1461c;
+$brand-color-dark: #612a15;
 
-$grey-color:       #828282;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
-$grey-color-dark:  color.adjust($grey-color, $lightness: -25%);
+$text-color-light: #e0e0e0;
+$text-color-dark: #a0a0a0;
 
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
         @content;
     }
 }
 
-$on-palm:          750px;
-$on-laptop:        800px;
+$on-palm: 750px;
+$on-laptop: 800px;

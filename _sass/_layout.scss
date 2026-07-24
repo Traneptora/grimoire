@@ -24,7 +24,7 @@
 
     &,
     &:visited {
-        color: v.$text-color-light;
+        color: v.$text-color-dark;
     }
 }
 
@@ -47,9 +47,9 @@
     }
 
     .page-link {
-        color: v.$text-color;
+        color: v.$text-color-base;
         font-size: 18px;
-        line-height: v.$base-line-height*1.5;
+        line-height: v.$base-line-height * 1.5;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
@@ -59,7 +59,7 @@
 
     @include v.media-query(v.$on-palm) {
         position: relative;
-        background-color: v.$background-color;
+        background-color: v.$background-color-base;
         text-align: center;
         float: right;
         width: 100%;
@@ -80,7 +80,7 @@
                 height: 15px;
 
                 path {
-                    fill: v.$text-color-dark;
+                    fill: v.$text-color-light;
                 }
             }
         }
@@ -121,7 +121,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid #612a15;
+    border-top: 1px solid v.$brand-color-dark;
     padding: v.$spacing-unit 0;
 }
 
@@ -133,8 +133,7 @@
     font-style: normal;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list, .social-media-list {
     list-style: none;
     margin-left: 0;
 }
@@ -168,7 +167,7 @@
     text-align: center;
     
     a {
-        color: v.$text-color-dark;
+        color: v.$text-color-light;
     }
 }
 
@@ -199,11 +198,11 @@
     line-height: v.$base-line-height;
     width: 33%;
     max-width: 400px;
-    border: 1px solid #606060;
+    border: 1px solid v.$search-color-alt;
     border-radius: 4px;
     margin-left: 8px;
-    background-color: #404040;
-    color: v.$text-color;
+    background-color: v.$search-color-base;
+    color: v.$text-color-base;
 }
 
 .page-content {
@@ -216,7 +215,7 @@
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
-    color: v.$text-color-light;
+    color: v.$text-color-dark;
 }
 
 dl.tag-list {
@@ -226,7 +225,7 @@ dl.tag-list {
     dt {
         font-weight: bold;
         display: inline-block;
-        color: v.$text-color-dark;
+        color: v.$text-color-light;
         padding-right: 20px;
     }
 
@@ -242,7 +241,7 @@ dl.tag-list {
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
-    color: v.$text-color-light;
+    color: v.$text-color-dark;
 }
 
 .post-list {
@@ -261,7 +260,7 @@ dl.tag-list {
 
 .post-meta {
     font-size: v.$base-font-size;
-    color: v.$text-color-dark;
+    color: v.$text-color-light;
 }
 
 .post-link {
@@ -303,7 +302,7 @@ dl.tag-list {
     font-family: 'Libertinus Serif Display';
     font-weight: 400;
     font-style: normal;
-    color: v.$text-color-light;
+    color: v.$text-color-dark;
 
     @include v.media-query(v.$on-laptop) {
         font-size: 36px;
@@ -360,19 +359,19 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-bottom: 15px;
-    border: 1px solid #771900;
+    border: 1px solid v.$table-head-base;
 }
 
 th {
     border: 0;
     padding: 10px 15px;
     font-weight: normal;
-    color: v.$text-color-light;
-    background-color: #771900;
+    color: v.$text-color-dark;
+    background-color: v.$table-head-base;
 }
 
 tbody tr:nth-of-type(even) {
-    background-color: #181823;
+    background-color: v.$background-color-alt;
 }
 
 th {
@@ -381,4 +380,83 @@ th {
 
 td {
     padding: 7px 15px;
+}
+
+@media (prefers-color-scheme: dark) {
+    .site-header {
+        border-top-color: v.$brand-color-secondary-darktheme;
+        border-bottom-color: v.$brand-color-dark-darktheme;
+    }
+
+    .site-title {
+        &, &:visited {
+            color: v.$text-color-light-darktheme;
+        }
+    }
+
+    .site-nav {
+        .page-link {
+            color: v.$text-color-base-darktheme;
+        }
+
+        @include v.media-query(v.$on-palm) {
+            .menu-icon > svg path {
+                fill: v.$text-color-dark-darktheme;
+            }
+            .page-link:not(:last-child) {
+                border-bottom-color: v.$brand-color-dark-darktheme;
+            }
+        }
+    }
+
+    .site-footer {
+        border-top-color: v.$brand-color-dark-darktheme;
+    }
+
+    .footer-col-wrapper {
+        color: v.$text-color-light-darktheme;
+    }
+
+    .footer-top-link a {
+        color: v.$text-color-dark-darktheme;
+    }
+
+    .jetsSearch {
+        color: v.$text-color-base-darktheme;
+        background-color: v.$search-color-base-darktheme;
+        border-color: v.$search-color-alt-darktheme;
+    }
+
+    .page-heading {
+        color: v.$text-color-light-darktheme;
+    }
+
+    dl.tag-list dt {
+        color: v.$text-color-dark-darktheme;
+    }
+
+    .post-list-head {
+        color: v.$text-color-light-darktheme;
+    }
+
+    .post-meta {
+        color: v.$text-color-dark-darktheme;
+    }
+
+    .post-title {
+        color: v.$text-color-light-darktheme;
+    }
+
+    table {
+        border-color: v.$table-head-base-darktheme;
+    }
+
+    th {
+        background-color: v.$table-head-base-darktheme;
+        color: v.$text-color-light-darktheme;
+    }
+
+    tbody tr:nth-of-type(even) {
+        background-color: v.$background-color-alt-darktheme;
+    }
 }

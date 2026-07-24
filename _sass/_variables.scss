@@ -9,14 +9,31 @@ $base-line-height: 1.5;
 $spacing-unit: 30px;
 $spacing-unit-line: 7px;
 
-$text-color: #c0c0c0;
-$background-color: #080813;
-$brand-color: #5184e4;
+$text-color-base: #04040f;
+$text-color-light: #080813;
+$text-color-dark: #00000b;
+$background-color-base: #fbfafa;
+$background-color-alt: #cdcdcd;
+$brand-color-base: #194d66;
 $brand-color-secondary: #b1461c;
 $brand-color-dark: #612a15;
+$selection-color: #404060;
+$table-head-base: #771900;
+$search-color-base: #e0e0e0;
+$search-color-alt: #6a6a6a;
 
-$text-color-light: #e0e0e0;
-$text-color-dark: #a0a0a0;
+$text-color-base-darktheme: #c0c0c0;
+$text-color-light-darktheme: #e0e0e0;
+$text-color-dark-darktheme: #a0a0a0;
+$background-color-base-darktheme: #080813;
+$background-color-alt-darktheme: #181823;
+$brand-color-base-darktheme: #5184e4;
+$brand-color-secondary-darktheme: #b1461c;
+$brand-color-dark-darktheme: #612a15;
+$selection-color-darktheme: #404060;
+$table-head-base-darktheme: #771900;
+$search-color-base-darktheme: #404040;
+$search-color-alt-darktheme: #606060;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {

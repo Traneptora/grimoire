@@ -20,7 +20,7 @@ html {
 }
 
 ::selection {
-    background-color: #404060;
+    background-color: v.$selection-color;
 }
 /**
  * Basic styling
@@ -30,10 +30,9 @@ body {
     font-size: v.$base-font-size;
     line-height: v.$base-line-height;
     font-weight: 400;
-    color: v.$text-color;
-    background-color: v.$background-color;
+    color: v.$text-color-base;
+    background-color: v.$background-color-base;
 }
-
 
 
 /**
@@ -47,7 +46,6 @@ ul, ol, dl, figure,
 }
 
 
-
 /**
  * Images
  */
@@ -55,7 +53,6 @@ img {
     max-width: 100%;
     vertical-align: middle;
 }
-
 
 
 /**
@@ -68,7 +65,6 @@ figure > img {
 figcaption {
     font-size: v.$small-font-size;
 }
-
 
 
 /**
@@ -87,7 +83,7 @@ li {
 
 strong, b {
     font-weight: 700;
-    color: v.$text-color-light;
+    color: v.$text-color-dark;
 }
 
 /**
@@ -98,27 +94,25 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-
 /**
  * Links
  */
 a {
-    color: v.$brand-color;
+    color: v.$brand-color-base;
     text-decoration: none;
 
     &:hover {
-        color: v.$text-color;
+        color: v.$text-color-base;
         text-decoration: underline;
     }
 }
-
 
 
 /**
  * Blockquotes
  */
 blockquote {
-    color: v.$text-color-dark;
+    color: v.$text-color-light;
     border-left: 4px solid v.$text-color-dark;
     padding-left: math.div(v.$spacing-unit, 2);
     font-size: 18px;
@@ -129,7 +123,6 @@ blockquote {
         margin-bottom: 0;
     }
 }
-
 
 
 /**
@@ -161,8 +154,7 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{v.$spacing-unit} * 2));
-    max-width:         calc(800px - (#{v.$spacing-unit} * 2));
+    max-width: calc(800px - (#{v.$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: v.$spacing-unit;
@@ -170,8 +162,7 @@ pre {
     @extend %clearfix;
 
     @include v.media-query(v.$on-laptop) {
-        max-width: -webkit-calc(800px - (#{v.$spacing-unit}));
-        max-width:         calc(800px - (#{v.$spacing-unit}));
+        max-width: calc(800px - (#{v.$spacing-unit}));
         padding-right: math.div(v.$spacing-unit, 2);
         padding-left: math.div(v.$spacing-unit, 2);
     }
@@ -191,7 +182,6 @@ pre {
 }
 
 
-
 /**
  * Icons
  */
@@ -206,5 +196,36 @@ pre {
         path {
             fill: v.$text-color-dark;
         }
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        color: v.$text-color-base-darktheme;
+        background-color: v.$background-color-base-darktheme;
+    }
+
+    strong, b {
+        color: v.$text-color-light-darktheme;
+    }
+
+    a {
+        color: v.$brand-color-base-darktheme;
+        &:hover {
+            color: v.$text-color-base-darktheme;
+        }
+    }
+
+    blockquote {
+        color: v.$text-color-dark-darktheme;
+        border-left-color: v.$text-color-light-darktheme;
+    }
+
+    pre, code {
+        border-color: v.$text-color-light-darktheme;
+    }
+
+    .icon > svg path {
+        fill: v.$text-color-dark-darktheme;
     }
 }

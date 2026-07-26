@@ -400,6 +400,8 @@ td {
         }
 
         @include v.media-query(v.$on-palm) {
+            background-color: v.$background-color-base-darktheme;
+
             .menu-icon > svg path {
                 fill: v.$text-color-dark-darktheme;
             }
